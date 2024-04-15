@@ -1,0 +1,1364 @@
+CODE NAME
+OPD 1 OPD PHC
+OPD 2 OPD Hospital
+EMR 1 Emergency Hospital
+IPD 92 Mammectomy / Mastectomy
+PO12 ECHO
+PRO02 Cyst aspiration
+PRO03 Upper Gastro-Intestinal Endoscopy (UGI)
+PRO04 Fracture Reduction (cast/ POP)
+PRO07 Coronary Angiography
+PO07 CT scan (Abdomen/Pelvis) plain
+LO1 Gram stain
+LO2 KOH/india ink fungal Microscopy
+LO6 Blood CS (Conventional)
+LO7 Urine CS
+LO8 Stool CS
+LO9 Respiratory specimen (Sputum, throat swab, bronc. lavage, fluid) CS
+LO10 Pus CS
+LO11 Body Fluid (CSF, Ascitic, Peritoneal, bile )CS
+LO12 Urethral / vaginal swab CS
+LO13 HIV (RDT) (when not covered by program)
+LO14 HbsAg(RDT)
+LO15 HCV(RDT)
+LO16 RPR(RDT)
+LO17 TPHA
+LO136 Dengue(RDT) when not covered by Programe
+LO19 Brucellosis(Latex)
+LO20 Widal(Salmonella agglutination)
+LO21 Leptospira (RDT)
+LO22 Influenza RDT(if covered by Program)
+LO23 Urine Pregnancy TesT
+LAB21 Bl grouping
+LO26 Cross Match
+LO27 Rheumatoid Factor
+LO28 AntiStrep.O antibody (titre)/ASO
+LO29 CRP
+LO30 Blood sugar Fasting(OPD)
+LO33 Uric acid
+LO34 SGOT
+LO35 SGPT
+LO36 Alkaline phosphatase (ALP)
+LO37 Billirubin T/D
+LO39 S. Albumin
+LO40 S. Amylase
+LO41 S. Urea
+LO42 S. Creatinine
+LO44 Total Cholesterol
+LO45 HDL
+LO46 LDL
+LO47 Triglyceride
+LO48 24 hr Ur protein
+LO49 Sodium (NA)
+LO51 Total Count
+LO52 DC
+LO53 HB
+LO54 ESR
+LO55 RBC
+LO56 Platelet Count
+LAB48 Aldehyde
+LAB49 ME Periferal smear
+LO63 HbA1C
+LO64 PT/INR
+LO65 BT
+LO68 Pap reporting
+LO69 FNAC procdure and reporting
+LO70 CPK
+LO71 CKMB
+LO73 Ft3
+LO74 Ft4
+LO75 TSH
+LO76 CA 125
+LO77 PSA
+LO78 Troponin I (Qualitative)
+LO79 Hep E (RDT)
+LO80 Packed Cell Volume (PCV)
+LO81 Histopatho Minor
+LO82 Histopatho Major
+LO84 S. Calcium
+LO85 S. Magnesium
+LO86 CSF routine biochem (Protein/sugar)
+LO87 H. Pylori (RDT)
+LO88 Mountox
+LO89 Occult Blood
+LO90 ABG per Parameter
+LO91 Anti CCP
+LO92 Reticulocyte count
+EMRPHC Emergency PHC
+E01 Refraction test(Eye OPD)
+E02 Slit Lamp examination(Eye OPD)
+E03 Eye Pressure examination(Eye OPD)
+E04 Eye Dryness examination(Eye OPD)
+E05 Foreign body removal from eye(Eye OPD)
+EMR 2 Emergency Eye Hospital
+LO24 Blood grouping (Emergency)
+LO25 Blood grouping general
+LO3 Stool RE(OPD)
+LO31 Blood Sugar PP(OPD)
+LO32 Blood sugar Random(EMER)
+LO38 Liver function test (pannel)
+LO4 Urine RE(OPD/EMR)
+LO43 Lipid Profile
+LO5 CSF RE
+LO50 Potassium (K)
+LO57 MCH
+LO58 MCV
+LO59 MCHC
+LO60 Absolute count
+LO61 Aldehyde test
+LO62 Comment on Periferal smear
+LO66 CT
+LO67 APTT
+LO72 TFT
+LO83 Routine Cytology stain/report
+OPD 3 OPD Eye Hospital
+PO08 USG Abdomen
+PO09 X-Ray
+PO10 ECG general
+PO11 ECG (Emergency)
+E07 Color Vision
+E08 Orthoptic Screening (PBCT, WFDT)
+E09 Optical biometry
+E10 Probing
+EO6 Eye (Visual Field Series)
+L0135 Stool RE/ME
+L0137 Blood Sugar F
+L0138 S. Creatinine (EMR)
+L0139 HIV CD4 COUNT
+L0140 HIV VIRAL LOAD
+L0141 MALARIA RDT
+L0142 KALAZAR K39 RDT
+L0143 INFLUENZA RDT/PCR
+L018 Dengue(RDT) when covered by Programe
+LO100 Urobillinogen/prophobillinogen
+LO101 Urine Acetone
+LO102 Pnenytoin level
+LO103 GTT (Glucosetolerance)
+LO104 S lipase
+LO105 Urine microalbumin
+LO106 Eosinophil count
+LO107 TORCH
+LO108 Vitamin D
+LO109 Vitamin B12
+LO110 Ca153
+LO111 Alphafetoprotein
+LO112 Beta HCG
+LO113 Serum cortisol
+LO114 Creatinine clearance
+LO115 Sickling test
+LO116 Total Protein
+LO117 S Gamma GT
+LO118 S Globulin
+LO119 A/G ratio
+LO120 Bone marrow aspiraion
+LO121 Bone marrow report
+LO122 ANA
+LO123 Anti-DNA
+LO124 Cyticercosis
+LO125 Folic acid
+LO126 Parathyroid Hormone
+LO127 Ferritin
+LO128 Testesterone
+LO129 Leutinizing(LH)
+LO130 FSH
+LO131 Troponin I Quantitative
+LO132 Blood CS Bactec
+LO133 Histopatho Intermediate
+LO134 S phosphorus
+LO99 LDH
+RADO1 USG (Eye, Neck, Throat, Hand, Soft Tissue) A Scan
+RADO12 CT (abdomen/pelvis) plain
+RADO13 CT (abdomen/pelvis) contrast
+RADO14 CT (head) without contrast
+RADO15 CT (head) with contrast
+RADO16 CT(Other:cervical spine/ KUB/joint/neck etc )
+RADO19 CT guided FNAC
+RADO2 plain X Ray (10x12/ 14X17)
+RADO20 Coronary angiography
+RADO21 Renal angiography
+RADO22 EEG
+RADO23 Sigmoidoscopy (general)
+RADO24 Bronchoscopy(general)
+RADO25 ENT endoscopy
+RADO26 Barium meal/swallow
+RADO3 CR X Ray Small (8X10/10X12)
+RADO4 X-ray single view(hand/foot)
+RADO5 X-ray double view(hand/foot)
+RADO6 X-ray double view(Spine)
+RADO7 X-ray Chest
+RADO8 X-ray triple view(spine)
+RADO9 Dental X ray
+Ser08 Suturing major under LA/service
+Ser09 Spirometry
+Ser10 Audiometry
+Ser11 TMT
+Ser20 Spectacles
+Sur01 Minor Surgery
+Sur02 Intermediate Surgery
+Sur03 Major surgery
+LO144 Adenosine deaminase (ADA) Test
+LO1444 D-dimer
+LO145 Hemoglobin electrophoresis
+LO146 Protein Electrophoresis (serum/urine)
+LO147 Serum Iron profile
+LO148 Serum Lithium
+LO149 Anti TPO (Thyroid peroxidase) antibody
+LO150 HCV/HIV/HBsAg ELISA
+LO151 Immunohistochemistry (per marker)
+LO152 Thyroglobulin Antibody
+LO153 Bone Marrow Biopsy
+LO154 Bone Marrow Test (with Aspiration)
+LO155 LE Cell
+LO156 C-peptide
+LO157 Estradiol
+LO158 Growth Hormone
+LO159 Progesterone
+LO160 Prolactin Hormone
+LO161 Serum Inhibin
+LO162 Serum insulin
+LO163 Carcinoembryonic antigen (CEA)
+LO164 Beta 2 Microalbumin (tumour marker)
+LO165 Other Tumour markers (CA 19.9, Vimentin, Desmin, S100 etc.) – per marker
+LO166 Flow Cytometry (Per marker)
+RAD030 Thyroscan/ Parathyroid scan
+RAD031 Colour Doppler
+RAD032 Urethrogram /cystogram
+RAD033 Intravenousurogram(IVU)
+RAD034 MRCP Urethrograph
+RAD035 Myelogram (cervical/whole length)
+RAD036 Fistulogram
+RAD037 T-tube Cholangiogram
+RAD038 MRCP (Magnetic Resonance Cholangiopancreatography)
+RAD039 ERCP (Endoscopic Retrograde Cholangiopancreatography)
+RAD040 ERCP with procedures
+RAD041 Colposcopy
+RAD042 Hysteroscopy
+RAD043 Fluoroscopy
+RAD044 Retrograde pyelography/Urethrography
+RAD045 Percutaneous Nephrogram
+RAD046 HIDA scan
+RAD047 MUGA Scan
+RAD048 Mammogram(unilateral)
+RAD049 Sialography
+RAD050 NPL (laryngoscopy)
+RAD051 Lymphocytography
+RAD052 DTPA/DMSA Scan
+RAD053 MRI Group A (Brain, Spine, body organs) Segment
+RAD054 MRI Full organ (Spine/brain etc)without Contrast
+RAD055 MRI single (extrimities /joints) with contrast
+RAD056 MRI Group D (Screening for tumour)
+RAD057 Transvaginalsonography
+RAD058 Saline Sonohysterogram
+RAD059 Fluorosceine Angiography
+RAD60 USG B Scan
+RAD061 Cardiotocogram (CTG)
+RAD062 Uroflowmetry
+RAD063 Urodynamic evaluation
+MD01 Nebulization per episode
+MD02 Speech therapy per session
+MD03 Physiotherapy per sitting
+MD04 Phototherapy per sitting
+MD05 Oxygen Charge/per hour
+MD06 PAC(Post abortion Medical care)
+MD07 Blood /Blood component per unit
+MD08 Physiotherapy package 1 week (level1)
+MD09 Posterior Nasal Packing
+MD10 Physiotherapy package 1 week (level2)
+MDP101 Poisoning Emergency Management package
+MDP201 Snakebite Medical Management
+MDP202 Acute appendicitis (Medical management)
+MDP203 Renal calculi medical management
+MDP204 Cellulitis ( Medical Management with minor dressing)
+MDP205 Ante-natal Care package (Medical Management)
+MDP206 Sickle cell/Aplastic Anemia (Medical Management/ blood transfusion)
+MDP207 Acute Nephritis(Medical Management)
+MDP301 Acute Gastroenteritis ( Medical Management )
+MDP302 BPH (Benign prostrate hyperplasia) medical package
+MDP303 Conversion disorder (Medical Management)
+MDP304 Rheumatoid Arthritis(Medical Management)
+MDP305 Thalassemia (Medical Management including Blood transfusion)
+MDP306 Nephrotic Syndrome(Medical Management)
+MDP401 Malnutrition (Medical Management)
+MDP402 Diarrhoea (Medical Management)
+MDP403 Neonatal care (basic care package)
+MDP404 Diabetic Cellulitis (Medical Management including minor dressing)
+MDP405 Anaemia (Medical Management including blood transfusion)
+MDP406 Avastin Injection 3rd
+MDP407 Normal delivery
+MDP409 Abdominal pain
+MDP501 Cholera (Medical Management)
+MDP502 Dysentery(Medical Management)
+MDP503 Wound/ Abscess requiring inpatient care (including I andD, dressing)
+MDP504 Puerperal sepsis Management package
+MDP601 Severe depression (Medical management)
+MDP602 Hypovolumeic shock management package
+MDP603 Acute Hepatitis (Medical Management)
+MDP604 Avastin Injection 1st and 2nd dose
+MDP701 Trauma and Injuries (medical management including blood transfusion, dressing, oxygen etc.)
+MDP702 Severe Pneumonia Medical Management Adult package
+MDP703 Typhoid and Paratyphoid Fevers (Medical Management.)
+MDP704 Hospitalization package for medical management of Zoonotic/ Vector Borne infections
+MDP705 Acute Respiratory Distress Syndrome (ARDS) (Medical management without ICU/CCU care)
+MDP706 Viral hemorrhagic fever Medical Management
+MDP707 Complicated Urinary Tract Infection (Medical Management)
+MDP708 Acute Cholecystitis (Medical Management )
+MDP709 Dengue/ Dengue Hemorrhagic Fever (Medical Management /Blood Transfusion)
+MDP710 Neonatal care (special care package)
+MDP711 Fever of Unknown Origin (FUO)(Medical Management)
+MDP712 Meningitis (Medical Management)
+MDP801 Hydrocephalus medical management package
+MDP802 Asthma (Medical Management)
+MDP901 Diabetes mellitus (Hospitalization for blood sugar control)package
+MDP902 Severe Pneumonia Medical Management Pediatric package
+MDP903 Chronic Obstructive Pulmonary Disease (COPD) (Medical Management including oxygen)
+MDP904 Burn less than 30% Body surface area (Medical Management including dressing)
+MP1001 Pneumothorax medical management package
+MP1002 Myocardial Infarction (Medical management where CCU care not available)(MI) : Level l
+MP1101 Pyogenic Liver abscess (Including Aspiration/ Drainage)
+MP1102 Hypertensive Emergency Urgency (Medical Management)
+MP1103 Bipolar disorder (Medical Management)
+MP1201 Diabetes mellitus related complications management package
+MP1202 Paralytic syndromes/stroke Medical management package
+MP1301 Atherosclerotic Vascular Disease CCU care(AVD)
+MP1302 Epilepsy adult (Medical Management)
+MP1303 Epilepsy pediatric (Medical Management)
+MP1501 Congestive Cardiac Failure(CCF) (CCU care included)
+MP1602 Schizophrenia (Medical management)
+MP1701 Upper Gastrointestinal bleeding (Medical mgmt including blood transfusion/ injection octreotide)
+MP1901 Severe Septicemia (Medical Management/ including ICU care )
+MP2001 Myocardial Infarction(package with CCU care included) : Level ll
+MP101 ICU/CCU/NICU (Per day)
+MP102 Hospitalization per day general bed (Per day)
+CS01 Aortic Valve Balloon Dilation (AVBD) (Balloon Extra)
+CS02 Atrial Septal Defect (ASD) Device Closure
+CS03 Balloon Septosotomy (Balloon Extra) (with contrast)
+CS04 Patent Ductus Arteriosus (PDA) Device Closure
+CS05 Pericardiocentesis (Except Aspiration Catheter)
+CS06 Pulmonary Artery Thrombectomy / Embolectomy (with catheter)
+CS07 Ventricular Septal Defect (VSD) Device Closure (with contrast)
+CS08 Permanent Pacemaker Implantation (Pacemaker Generator Extra)
+CS09 Epicardial Pacemaker Insertion
+CS10 Single Pacemaker insertion
+CS11 Dual Pacemaker insertion
+CS12 Programming Single Pacemaker
+CS13 Programming Dual Pacemaker
+CS14 External C Pap Care
+CS15 EP Study
+CS16 EP/Ablation Type A (with contrast)
+CS17 EP/Ablation Type B (with contrast)
+CS18 ABP Monitoring
+CS19 Ambulatory BP Monitoring (ABPM)
+CS20 Ankle Brachial Index (ABI)
+CS21 Bilateral Limb Arterial Doppler
+CS22 Bilateral Limbs Venous Doppler
+CS23 Carotid Doppler
+CS24 External C pap Care For 24 Hours
+CS25 Holter Monitoring
+CS26 Insertion Of Arterial Line
+CS27 Insertion Of Swan gauge Catheterization
+CS28 Left Heart Catheterization Including Contrast
+CS29 Renal Doppler
+CS30 Right Heart Catheterization (Oxymetry Extra) with contrast
+CS31 Single Limb Arterial Doppler
+CS32 Single Limb Venous Doppler
+CS33 Stress ECHO
+CS34 TEE (Transesophageal Echocardiography)
+CS35 Tilting Table Test
+CS36 Umbilical Artery Doppler
+CA01 Radiotherapy per fraction unit
+CA02 Radio Therapy Full Course (X30 Fraction)
+CA03 Chemotherapy Per Day (Day Care + Bed charges+ surgical supplies, Medicine Extra)
+CA04 Brachytherapy per episode
+CA05 Hospice (Palliative) Care per day (Inclusive of Bed charge, Nursing care, Surgical supplies)
+SPM01 Dressing minor
+SPM02 Dental extraction simple per unit
+SPM03 Urinary Catheterization (Procedure only)
+SPM04 Stitch Removal/Dressing major
+SPM05 Eye Suture Removal Under LA
+SPM06 Dental extraction (difficult) per unit
+SPM07 Dental filling (composite) per unit
+SPM08 Incision and drainage abscess (small)
+SP109 Urinary Bladder - Intravesical BCG/Mitomycin instillation
+SP110 Electric Cautery
+SP111 Suprapubic/Pleural/other body fluid aspiration
+SP112 Laceration repair Minor/Suturing Minor
+SP114 USG guided drainage procedure
+SP115 Surgical extraction (dental) per unit
+SP116 Foreign body removal (eye/ear/throat) simple
+SP201 Intra-Articular Steroid injection (including steroid medicine)
+SP202 Ganglion aspiration and steroid injection (Including steroid medicine)
+SP203 Penis-Intralesional injection for Pyronies disease
+SPM09 Incision and drainage abscess (Large)
+SP301 Fallopian tube- Hydrotubation
+SP302 Fallopian tube- Insufflation LA
+SP303 Vagina-Vault Thread Removal
+SP304 Eye lid; Stye/Lid Abscess Drainage
+SP305 Impacted tooth/molar (LA) package
+SP306 Cryotherapy/service
+SP307 Laceration repair Major/Suturing Major
+SPM10 Fracture reduction POP cast minor/slab
+SPM11 Ear Lobe repair
+SPM12 Examination under IV sedation
+SPM13 Uterus-Endometrial Biopsy LA
+SPM14 Cyclocryo Therapy/Electro Epilation
+SPM15 Corneal Scrapping
+SPM16 Eye: Macular Grid Laser (One eye)
+SPM17 I and D LA
+SPM18 Secondary suturing LA
+SMI101 Burr Hole for Subdural/Ventricular puncture
+SMI102 Secondary suturing LA
+SMI103 Kidney-Antegradepyelogram
+SMI104 Prostate-Prostatic biopsy (Finger guided)
+SMI105 Cervix-Cervical Biopsy LA
+SMI106 Cervix-Cervical Polypectomy LA
+SMI107 Perineum-1st and 2nd degree Tear Old LA
+SMI108 Uterus-Dilatation and Curettage LA
+SMI109 Vagina- Hymenectomy LA
+SMI110 Vagina-Bartholin Abscess IandD LA
+SMI111 Vagina-Biopsy Vulva/Vagina LA
+SMI112 Vagina-Excision of bartholin cyst LA
+SMI113 Vagina-Vaginal Wall Cyst Removal LA
+SMI114 Simple Caste in OT(cast extra)/Fracture reduction intermediate(below knee/elbow) including cast
+SMI115 Penis-Aspiration and irrigation for priapism
+SMI116 Conjunctiva Plasty/Suturing
+SMI117 Eye: Prophylactic Laser (One Eye)
+SMI118 Corrective cast
+SMI119 Epidural Block
+SMI120 Foot Fracture Fixation LA
+SMI121 K-wire Removal
+SPM19 Colonoscopy
+SPM20 Hemorrhoid banding
+SPM21 Cervix-Cryosurgery
+SPM22 Cystoscopy (with DJ removal /biopsy)
+SPM23 Urethra-Retrograde Urethrogram (RGU) +Micturating Cystourethrogram (MCUG)
+SPM24 Eye Retina Yag Laser
+SPM25 Perioral sinus excision LA
+SPM26 Papilloma excision simple LA
+SPM27 Muscle biopsy LA
+SPM28 Mucous retention cyst LA
+SPM29 Ingrowing toenail excision unilateral LA
+SPM30 Granuloma excision LA
+SPM31 Ganglion excision LA
+SPM32 Frenuloplasty LA
+SPM33 Foreign body exploration LA
+SPM34 Fibroma excision LA
+SPM35 Dermoid cyst excision LA
+SPM36 Hip Spica
+SPM37 Fracture reduction POP cast major (long leg, above elbow, above knee)
+SPM38 Steinmann pin For Fracture fixation
+SPM39 Urethra-Excision of urethral caruncle
+SPM40 Urethra-Urethral dilation LA
+SPM41 Anal- Seton change IVA
+SPM42 Adrenal - Adrenalectomy Open
+SPM43 Urethra-Meatotomy
+SPM44 Urinary Bladder - SPC insertion LA
+SPM45 Chalazion Surgery
+SMI201 Prostate-Prostatic biopsy (RURS guided)
+SMI202 Urethral Dilation LA
+SMI203 Cervix-Electric Cauterization of Cervix LA
+SMI204 Cervix-McDonald suture LA
+SMI205 Uterus-Suctino Evacuation for Molar Pregnancy IVA
+SMI206 Urinary Bladder - SPC insertion under USG guidance
+SMI207 Eye Probing Under LA
+SMI208 F.B. In Corneal Stroma Deep
+SMI209 Cystoscopy LA
+SMI210 Vas-Vasectomy
+SPM46 Cisternal Puncture (OPD procedure)
+SPM47 Sebaceous cyst excision single LA
+SPM48 Lymphnode excision biopsy LA
+SPM49 lipoma excision single LA
+SPM50 Corn sole excision LA
+SPM51 Vas-Vasoepididymostomy (Microsurgery)LA
+SPM52 Cervix-LEEP LA
+SPM53 Uterus-Hysterosalpingograph (HSG)
+SPM54 Vagina-Marsupilization of Bartholin cyst
+SPM55 DJ removal LA
+SPM56 Lid Laceration Repair Small
+SPM57 Eye Suture Removal Under GA
+SPM58 Dacryocystectomy (DCT)
+SPM59 I and D SA
+SPM60 Sigmoidoscopy with biopsy/polypectomy
+SPM61 Cervix-Conization Ketamine and others
+SPM62 Fallopian tube- Hydrotubation Ketamine and others
+SPM63 Uterus-Diagnostic Hysteroscopy LA
+SPM64 Post Abortion Care (PAC) with MVA
+SPM65 Eye : Canthoplasty
+SPM66 Sebaceous cyst excision multiple LA
+SPM67 Papilloma excision multiple LA
+SPM68 Lipoma excision multiple LA
+SPM69 Ingrowing toenail excision bilateral LA
+SPM70 Hemorrhoid banding
+SPM71 Gynaecomastia excision unilateral LA
+SPM72 Comprehensive Abortion Care (CAC) LA
+SPM73 Foot- MTP/IP Joints Dislocations
+SPM74 Hand- MCP/IP Joints Dislocations
+SPM75 Shoulder/Elbow Dislocation (traction/arm sling)
+SPM76 Penis-Dorsal Slit for paraphimosis
+SMI301 Cleft Lip (Revision) LA
+SMI302 Testis-Testicular biopsy percutaneous
+SMI303 Urinary Bladder - SPC insertion SA
+SMI304 Eye Cyst Removal(Big/Small)
+SMI305 I and D GA
+SPM77 Colonoscopy with biopsy/polypectomy
+SPM78 Cervix-Shirodhker Suture LA
+SPM79 Lid Tumor Excision With Reconstruction Small
+SPM80 Eye Probing Under GA
+SPM81 Testicular biopsy LA
+SPM82 Root Block
+SPM83 Contracture Release with Z Plasty LA
+SPM84 Dermabrasion /Chemical Peel LA
+SPM85 Tongue Tie Release LA
+SPM86 Trigger Finger Release LA
+SPM87 Urethra-Meatoplasty
+SPM88 Debridement and Closure(LA) package
+SPM89 Secondary suturing GA
+SPM90 Vagina- Le Forte LA
+SPM91 Foot Fracture Fixation SA
+SPM92 Urethra-Urethral dilation SA
+SPM93 Perineum-3rd Degree Tear Acute
+SPM94 Uterus-Hysteroscopy with Biopsy
+SPM95 Endoscopic Variceal banding
+SPM96 Eye Evisceration
+SPM97 Eye lid: Entropion Surgery
+SPM98 Anterior Vitrectomy
+SMI401 Examinaiton under Anesthesia (EUA)
+SMI402 Penis-Frenuloplasty
+SMI403 Epidural Anesthesia in labor
+SMI404 EUA + Cervical Biopsy or Endometrial biopsy
+SMI405 EUA + Cystoscopy
+SMI406 Eye lid: Ectropion Surgery
+SMI407 Lid Laceration Repair Large
+SMI408 ICG Angiogram
+SMI409 Corneal Repair Simple
+SMI410 Conjunctiva: Pterigium Surgery
+SMI411 Glaucoma: Peripheral Iridotomy (PI)
+SMI412 Burr Hole(s) for EVD placement
+SMI413 Amputation digital SA
+SMI414 Implant Plate Removal SA (large bones)
+SMI415 Toes and Finger Arthrodesis SA/Regional block
+SMI416 Cleft Lip Bilateral LA
+SMI417 Cystoscopy (Rigid) Caudal block
+SMI418 Cystoscopy SA
+SMI419 DJ removal SA
+SMI420 Assisted Delivery (Vacuum/Forceps);
+SPM99 Cervix-LEEP Ketamine
+SPM100 Dilation and Curettage (D and C)
+SPM101 Squint Surgery 1 muscle
+SPM102 DJ stenting LA
+SPM103 Hernia repair unilateral LA
+SPM104 CSF Shunt Removal (OPD procedure)
+SPM105 Umbilical hernia repair LA
+SPM106 Gynaecomastia excision bilateral LA
+SPM107 Evisceration (EVS) for hydrocele LA
+SPM108 CRPP (Small Joints)
+SPM109 Implant removal Simple
+SPM110 Surgical Release (Trigger/DQ release)
+SPM111 Tendon Repair Intermediate
+SPM112 Tendon Repair Minor
+SPM113 Excision of Cutaneous Lesion and SSG or FTSG LA
+SPM114 Facial Laceration Suturing (Simple) LA
+SPM115 Minor Lip procedure LA
+SPM116 Orocutaneous Fistula Closure with Flaps LA
+SPM117 Polydactyli Correction Single LA
+SPM118 Skin Grafting Raw Area LA
+SPM119 Tendon Repair (Single) LA
+SPM120 Conjunctival Laceration Repair
+SPM121 Debridement GA
+SPM122 Debridement SA
+SPM123 Re-Exploration Laparotomy
+SPM124 Neurorrhaphy with Nerve Graft
+SPM125 Cervix-Cervical Biopsy GA/Ketamine
+SPM126 Cervix-Electric Cauterization of Cervix GA
+SPM127 Uterus-Dilatation and Curettage GA
+SPM128 Uterus-Endometrial Biopsy GA
+SPM129 Vagina-Excision of Bartholin cyst GA
+SPM130 Anterior Transposition of Ulnar Nerve GA/Regional Block
+SPM131 Elbow - ( Epicondyle/Condyle Fracture) Epiphyseal Excision Regional Block
+SPM132 Finger/Toes Fracture ORIF Regional block
+SPM133 Hips Dislocation MUA and Traction Ketamine
+SPM134 Contracture Release with Multiple Z plasty GA
+SPM135 Electrical Burns Fasciotomy GA
+SPM136 Excision of Granulation Tissue Escharectomy Or Debridement GA Small
+SPM137 Pedicled Flap Detachment Major or Minor GA/LA
+SPM138 Tongue Tie Release GA
+SPM139 Trigger Finger Release GA
+SPM140 Cystoscopy (Rigid) GA
+SPM141 Kidney-Percutaneous Nephrostomy (PCN) placement LA
+SPM142 Penis-Circumcision GA
+SPM143 Circumcision /phimosis LA
+SPM144 Dacrocystorhinostomy (DCR) surgery
+SPM145 Eye Evisceration With Implant
+SPM146 Epigastric hernia repair LA
+SPM147 Foot Toes Debridement Repair Regional Block
+SPM148 Hand Carpal Tunnel Release LA/Regional block
+SPM149 Tendon Grafting LA
+SPM150 Pharyngeal Abscess package(including Drainage)
+SPM151 breast lump excision single LA
+SPM152 Breast- Ganaecomastia GA
+SPM153 Biopsy Orthopaedic GA/SA
+SPM154 Decompression Septic Arthritis/Osteomyelitis
+SPM155 Foot Toes Debridement Repair SA
+SPM156 Implant Removal Nail SA (large bones)
+SPM157 Toes and Finger Arthrodesis GA
+SPM158 Contracture Release with Skin Grafting GA
+SPM159 Foreign body removal under GA(airway, esophageal)
+SPM160 Neuroplasty and/or Transposition of Median Nerve at Carpal Tunnel(OPD procedure)
+SPM161 Neuroplasty, Major Peripheral Nerve(OPD procedure)
+SPM162 Femoral hernia mesh repair
+SPM163 Perineum-3rd Degree Tear Interval
+SPM164 Polydactyli Correction Multiple LA
+SPM165 Pneumatic Retinopexy
+SPM166 Intraocular Foreign Body
+SPM167 Corneal Repair Complicated
+SPM168 Vulva-Evacuation of Vulvar hematoma GA
+SMI501 Excision of Neuroma
+SMI502 Esophageal Dilatation GA
+SMI503 CAC GA
+SMI504 Cervix-Cervical Polypectomy GA
+SMI505 Ankle Ligament Tear Repair Sa
+SMI506 Elbow - ( Epicondyle/Condyle Fracture) Epiphyseal Fixation GA
+SMI507 External Fixators
+SMI508 Foot Curettage and Debridement Removal of Plate SA
+SMI509 Foot Curettage and Debridement SA
+SMI510 Foot Hallux Valgus Correction SA
+SMI511 Foot Toes Debridement Repair GA
+SMI512 Hand Dislocation Fixation SA
+SMI513 Hips Dislocation MUA and Traction SA
+SMI514 Radial Head Excision Regional Block
+SMI515 Wrist/Hand Fracture Dislocation ORIF Regional Block
+SMI516 Skin Grafting Raw Area GA Small
+SMI517 DJ removal GA
+SMI518 Harmonic scalpel
+SMI519 Percutaneous peritonial Dialysis catheter insertion
+SMI520 Urinary Bladder - Vesicovaginal Fistula repair (RAZ procedure)
+SMI521 Urinary Bladder-Hydrodistension of bladder GA
+SMI522 Urinary Bladder-Restaging TURBT(Scar resection)
+SMI523 Minor I (Sternal Wire Removal)
+SMI524 Eye: Enucleation
+SMI525 Cataract: Small incision
+SMI526 Rectum- Thierch suturing
+SPM169 Anal- Lateral Sphinterotomy IVA
+SPM170 Breast Lump excision multiple LA
+SPM171 Anal- Evacuation/ Excision of Thrombosed External Hemorrhoid GA
+SPM172 Breast- Breast Lump Excision GA
+SPM173 Uterus-Diagnostic Hysteroscopy GA
+SPM174 Vagina-Repair of vaginal/Cervical laceration Small
+SPM175 Femure Shaft Fracture Plating SA
+SPM176 Tibia Shaft Fracture Plating SA
+SPM177 Squint Surgery 2 Muscle
+SPM178 Lid Tumor Excision With Reconstruction Medium
+SPM179 Neuroplasty and/or Transposition of Ulnar Nerve at Elbow(OPD procedure)
+SPM180 Inguinal hernia mesh repair LA
+SPM181 Children Injuries: CRPP distal radius/Epiphyseal Fracture separation
+SPM182 CRPP (Large Joints)e.g. Ankle
+SPM183 Creation of AV Fistula for Hemodyalysis LA
+SPM184 Cross Finger Flap LA
+SPM185 Facial Laceration Suturing (Complex) LA
+SPM186 AV fistula
+SPM187 Varicose vein surgical management with excision and ligation
+SPM188 Hernia repair unilateral GA
+SPM189 Vagina-Bartholin Abscess IandD GA
+SPM190 Vagina-Excision of Vaginal septum SA/GA
+SPM191 Vagina-Vaginal Wall Cyst Removal GA
+SPM192 Amputation digital GA
+SPM193 Elbow/Wrist Arthrodesis Regional Block
+SPM194 Femur Shaft Fracture Plating GA
+SPM195 Foot Club Foot Soft Tissue Release GA
+SPM196 Foot Hallux Valgus Correction GA
+SPM197 Forearm- Fracture Distal Radius - ORIF Regional Block
+SPM198 Hand Dislocation Fixation GA
+SPM199 Hips Dislocation MUA and Traction GA
+SPM200 Radius Malunion Excision ORIF Styloid DARRCH
+SPM201 Tibia Malleolar Fracture INT. Fixation SA
+SPM202 Wrist/Hand Fracture Dislocation ORIF GA
+SPM203 Ear Reconstruction 2nd stage with FTSG GA
+SPM204 Excision of Granulation Tissue Escharectomy Or Debridement GA Medium
+SPM205 Fracture Mandible Plating and IMF LA
+SPM206 Fracture Maxilla Fixation LA
+SPM207 Lobule Transposition GA
+SPM208 Minor Lip procedure GA
+SPM209 Nipple and Areola Reconstruction GA
+SPM210 Pedicled Flaps Inset - Minor GA/LA
+SPM211 Polydactyli Correction Single GA
+SPM212 Soft Tissue and Nerve Repair GA
+SPM213 Tendon Repair (Single) GA
+SPM214 Transposition Flaps - Minor
+SPM215 Epididymis-Epididymectomy
+SPM216 Eye Evisceration With Implant
+SPM217 Orbitotomy Small
+SPM218 Circumcision for phimosis (IVA/GA)
+SPM219 Kidney-Percutaneous Nephrostomy (PCN) placement GA Blind/USG guided
+SPM220 Retinal Detachment (R D)Surgery
+SPM221 Burr Hole(s) for Biospy of Brain
+SPM222 Burr Hole(s) for Evacuation of CSDH single
+SPM223 Cervix-McDonald suture GA
+SPM224 Pelvic Floor repair
+SPM225 Perineum-1st and 2nd degree Tear Old GA
+SPM226 Uterus-Mannual Removal of Placenta (MRP) with EPI
+SPM227 Vagina- Hymenectom GA
+SPM228 Vagina-Biopsy Vulva/Vagina GA
+SPM229 Vagina-Repair of vaginal/Cervical laceration Large
+SPM230 Ankle Ligament Tear Repair GA
+SPM231 Foot Ankle Arthrodesis SA
+SPM232 Foot Fracture INT. Fixation SA
+SPM233 Forearm- Fracture Distal Radius - ORIF GA
+SPM234 Hips Fracture Femur Neck Displacement Osteotomy SA
+SPM235 Knee Arthrodesis SA
+SPM236 Knee collateral Ligament Injury Repair SA
+SPM237 Patella Fracture Excision/Fixation SA
+SPM238 Patella Recurrent Dislocation Lateral Release SA
+SPM239 Patella Recurrent Dislocation Quadricepsplasty SA
+SPM240 Patella Recurrent Dislocation Tendon Transfer SA
+SPM241 Soft Tissue Nerve Repair GA
+SPM242 Tibia Malleolar Fracture INT. Fixation GA
+SPM243 Tibia Malleolar Osteotomy SA
+SPM244 Cleft Lip Unilateral GA
+SPM245 Testis-Testicular biopsy open
+SPM246 Testis-U/L Orchidectomy SA/GA
+SPM247 Urethra-Optical Internal Urethrotomy (OIU) Caudal block
+SPM248 Urethra-Urethrovaginal Repair
+SPM249 Urinary Bladder - VVF Repair (O Conner procedure)
+SPM250 Tonsillectomy Surgery
+SPM251 Cataract: Phacoemulsion with Fred Hollow Intraocular Lens (One eye)
+SPM252 Dacryocystorhinostomy With Tubation
+SPM253 Knee Tibial Spiral Fracture INT. Fixation SA
+SPM254 Tarsal Bone Fracture Or Calcanium INT. Fixation SA
+SPM255 Tarsal Joint Arthrodesis SA
+SPM256 Tibia Condylar Fracture Screwing Percutaneous SA
+SPM257 Tibia Shaft Fracture Plating GA
+SPM258 Testis-B/L Orchidectomy SA/GA
+SPM259 Testis-EVS of Hydrocele GA/SA (Unilateral)
+SPM260 Urethra-Optical Internal Urethrotomy (OIU) OIU SA
+SPM261 Urinary Bladder - Cystolitholapaxy caudal block
+SPM262 Minor(AV Fistula / IABP Insertion/ Perma Cath Insertion)
+SPM263 Scrotum-Debridement of Fourniers Gangrene
+SPM264 Pyogenic liver abscess (Including Aspiration/ drainage)
+SI0101 Squint Surgery 3 Muscle
+SI0102 Eye: Cryo Buckling
+SI0103 Uterus-Suction Evacuation for Molar Pregnancy GA
+SI0104 Skin Grafting Raw Area GA Medium
+SI0105 DJ stenting SA
+SI0106 Burr Hole(s) for Drainage of Brain Abscess/Cyst
+SI0107 Cervix-Conization GA
+SI0108 Vagina-Anterior Colporrhaphy GA/SA
+SI0109 Knee OA Knee Deformity Osteotomy SA
+SI0110 Patella Recurrent Dislocation Tendon Transfer GA
+SI0111 Burn Early Excision and Grafting
+SI0112 Fracture Maxilla Fixation GA
+SI0113 Fracture Zygoma Fixation LA
+SI0114 Liposuction for Gynaecomastia GA
+SI0115 Lymphoedema Surgery GA
+SI0116 Tendon Grafting GA
+SI0117 DJ stenting GA
+SI0118 Penis-Partial Penectomy
+SI0119 Scrotum-Scrotoplasty SA/GA
+SI0120 Urinary Bladder - Cystolitholapaxy SA
+SI0121 Urinary Bladder - Cystolithotomy SA
+SI0122 CRPP Supracondylar/Neck Fracture Humerus
+SI0123 Humerus- Lateral Condyle Fracture Children/Adult ORIF
+SI0124 Rush Nailing- Paediatric and Adult Fracture
+SI0125 Tendon Repair (Multiple) LA
+SPM265 Hernia repair bilateral LA
+SPM266 SICS + Trabeculectomy
+SPM267 Urinary Diversion
+SPM268 Burr Hole(s) for Aspiration of Hematoma/Cyst
+SPM269 Burr Hole(s) for Multiple
+SPM270 Neurorrhaphy Anastomosis Facial-Hypoglossal
+SPM271 Breast- Simple Mastectomy GA
+SPM272 Hernia repair unilateral SA
+SPM273 Psoas Abscess drainage
+SPM274 Vagina-Tension free Vaginal Tape (TVT) SA
+SPM275 Vagina-Transobturator Tape (TOT) SA
+SPM276 Amputation above knee/below knee/below Forearm SA
+SPM277 Ankle Infection Arthritis Degenerative Arthrodesis GA
+SPM278 Arthrotomy small joints
+SPM279 Drainage of Psoas Abscess
+SPM280 Elbow communitedIntercondylar Fracture Anterior Transposition of Ulnar nerve Regional Block
+SPM281 Femur condylar Fracture Plating SA
+SPM282 Femure Shaft Fracture IM-Nailing SA
+SPM283 Foot Ankle Arthrodesis GA
+SPM284 Foot Club Foot ETA GA
+SPM285 Foot Club Foot Soft Tissue + Bone Repair GA
+SPM286 Foot Fracture Fixation GA
+SPM287 Foot Fracture INT. Fixation GA
+SPM288 Forearm- Fracture Both Bones Forearm GA
+SPM289 Forearm- Fracture Both Bones Forearm Regional Block
+SPM290 Hips Fracture Femur Neck Displacement Osteotomy GA
+SPM291 Humerus Fracture ORIF GA
+SPM292 Knee Arthrodesis GA
+SPM293 Knee collateral Lig. Injury Repair GA
+SPM294 Knee Tibial Spiral Fracture INT. Fixation GA
+SPM295 Patella Recurrent Dislocation Lateral Release GA
+SPM296 Patella Recurrent Dislocation Quadricepsplasty GA
+SPM297 Radius Malunion Excision ORIF Styloid DARRCH GA
+SPM298 Soft Tissue Nerve and Tendon Repair SA/Regional Block
+SPM299 Tarsal Joint Arthrodesis GA
+SPM300 Tibia Condylar Fracture Screwing Percutaneous GA
+SPM301 Tibia Malleolar Osteotomy GA
+SPM302 Cleft Lip (Revision) GA
+SPM303 Cleft Lip Bilateral Revision GA
+SPM304 Cross Finger Flap GA
+SPM305 Excision of Granulation Tissue Escharectomy Or Debridement GA Large
+SPM306 Polydactyli Correction Multiple GA
+SPM307 Syndactyli Release and Grafting GA
+SPM308 Urethra-1st stage Byars flap
+SPM309 Urethra-2nd stage Byars flap
+SPM310 Fistula/Sinus excision
+SPM311 Orbitotomy Lateral
+SPM312 Lid Tumor Excision With Reconstruction Big
+SPM313 Eye Ptosis: Sling Surgery Only
+SPM314 Glaucoma Valve Implant Procedure(Valve Extra)
+SPM315 Elbow communitedIntercondylar Fracture Anterior Transposition of Ulnar nerve GA
+SPM316 Hips Fracture Femur Neck Pins SA
+SPM317 Hips Fracture Femur Neck Screw SA
+SPM318 Knee OA Knee Deformity Osteotomy GA
+SPM319 Tarsal Bone Fracture Or Calcanium INT. Fixation GA
+SPM320 Tarsal Bone Fracture Talus INT. Fixatoin GA
+SPM321 Hernioplasty SA/GA
+SPM322 Kidney-Drainage of perinephric abscess SA/GA
+SPM323 Penis-Shunt surgery for Priapism
+SPM324 RPG + Instillation of Sclerosant LA
+SPM325 Testis-Radical Orchidectomy
+SPM326 Urethra-Urethral Diverticulectomy
+SPM327 Urinary Bladder - Cystolithotomy GA
+SPM328 Chronic suppurative otitis media Surgical management package
+SPM329 Squint Surgery 4 Muscle
+SPM330 Orbitotomy Medium
+SPM331 Eye Ptosis: Levator Resection
+SPM332 Blepheroplasty
+SPM333 Thyroglossal Cyst - Excision package
+SPM334 Appendix- Open Appendectomy SA
+SPM335 Excision of Rib GA/Open Lung Biospy GA
+SPM336 Cervix-Shirodhker Suture GA
+SPM337 Cleft Palate Repair GA
+SPM338 Urethra-1st stage Johansen procedure
+SPM339 Urethra-2nd stage Johansen procedure
+SPM340 Urinary Bladder - Cystolitholapaxy GA
+SPM341 Anal- Hemorrhoidectomy (Open)
+SPM342 Ilioingunal block dissection of lymphnode
+SPM343 Closed Reduction and K-Wire Fixation/TENS
+SPM344 Tendon Repair Major
+SPM345 Posterior Vitrectomy Package 1 (VITRECTOMY/MEMBRAME PEEL/GASC3F8/SF6 (VIT/MP/GAS))
+SPM346 Tibia Shaft Fracture Nailing SA
+SI0201 Laparotomy with Biopsy
+SI0202 Stomach-Palliative Gastrojejunostomy
+SI0203 Stomach- Rammstedt Operatio for Pyloric Stenosis
+SI0204 Appendix- Open Appendectomy GA
+SI0205 CSF Shunt Placement
+SI0206 Hemilaminectomy and Decompression of Cord/Excision of Disc (Posterior Approach)
+SI0207 Laminectomy and Decompression of Cord/Excision of Disc (Posterior Approach)
+SI0208 Diagnostic Laparoscopy/Laparoscopic biopsy
+SI0209 Urethra- Burch Colposuspension GA
+SI0210 Urethra- Burch Colposuspension LA
+SI0211 Vagina-Fothergills operation (Manchester)
+SI0212 Vagina-Tension free Vaginal Tape (TVT) GA
+SI0213 Vagina-Transobturator Tape (TOT) GA
+SI0214 Arthrotomy Large joints
+SI0215 Femur condylar Fracture Plating GA
+SI0216 Hand - Carpal, Metacarpal and phalanges Fracture - ORIF
+SI0217 Hips CDH Acetabuloplasty GA
+SI0218 Hips Fracture Femur Neck Hemiarthroplasty SA
+SI0219 Hips Fracture Femur Neck Pins GA
+SI0220 Hips Fracture Femur Neck Screw GA
+SI0221 Humerus Supracondylar, Lateral condylar Fracture - ORIF Ga
+SI0222 Shoulder Joint Arthrodesis GA
+SI0223 Soft Tissue Nerve and Tendon Repair GA
+SI0224 Soft Tissue, Nerve and Vessels Repair SA
+SI0225 Spine Infection Potts Drainage Procedure GA
+SI0226 Tibia Condylar Fracture Elevation Bone Graft SA
+SI0227 Transpendicular Biopsy
+SI0228 Hand- Carpal/Metacarpal/Phalanges Fracture : ORIF
+SI0229 Elbow- Olecranon Fracture ORIF
+SI0230 Alveolar Bone Grafting GA
+SI0231 Augmentation Rhinoplasty
+SI0232 Blow Out Fracture Reconstruction GA
+SI0233 Cancer Excision and Flap Construction GA
+SI0234 Contracture Band Multiple Z plasty GA
+SI0235 Contracture Release with Rotation Flap GA
+SI0236 Dermabrasion /Chemical Peel GA
+SI0237 Excision of Cutaneous Lesion and SSG or FTSG GA
+SI0238 Facial Laceration Suturing (Complex) GA
+SI0239 Facial Paralysis Cross Facial Nerve Grafting GA
+SI0240 Facial Paralysis Cross Temporalis Transfer GA
+SI0241 Flaps For Bed Sore GA
+SI0242 Fracture Mandible Plating and IMF GA
+SI0243 Framework Elevation and FTSG GA
+SI0244 Hemimandibulectomy and Reconstruction
+SI0245 Le Forte Advancement GA
+SI0246 Lip Reconstruction GA
+SI0247 Malar Augmentation with Bone Graft GA
+SI0248 Mandibular Osteotomies Ga
+SI0249 Nose Reconstruction with Flaps GA
+SI0250 Orocutaneous Fistula Closure with Flaps GA
+SI0251 Palatal Fistula Closure GA
+SI0252 Pedicled Flaps Inset - Major GA
+SI0253 Pharyngoplasty GA
+SI0254 Pollicization GA
+SI0255 Scalp Transposition and Grafting GA
+SI0256 Skin Grafting Raw Area GA Large
+SI0257 Soft Tissue, Tendon and Nerve Repair GA
+SI0258 Tendon Repair (Multiple) GA
+SI0259 TMJ ankylosis Release GA
+SI0260 Transposition Flaps - Major
+SI0261 Vaginal Reconstruction
+SI0262 Kidney-Drainage of renal abscess SA/GA
+SI0263 Penis-Radical penectomy
+SI0264 RPG + Instillation of Sclerosant SA
+SI0265 Scrotum-Scrotal exploration for trauma
+SI0266 Single stage SNODGRASS(TIP)
+SI0267 Testis-Exploration of testicular torsion
+SI0268 Ureter-Ureterocystoneostomy (UCN) B/L GA
+SI0269 Ureter-Ureterocystoneostomy (UCN) U/L SA
+SI0270 Ureter-Ureteroscopic Lithotripsy(URSL) + DJ stenting SA
+SI0271 Ureter-Ureteroscopy (URS) SA
+SI0272 Urethra-Blandys perianal urethroplasty
+SI0273 Urethra-Matheu Flip Flap
+SI0274 Urinary Bladder - Repair of Traumatic bladder rupture
+SI0275 Vas-Microscopic varicocele ligation
+SI0276 Amputation above knee/below knee/Below Forearm GA
+SI0277 Cesarian Section Delivery
+SPM347 Biliary-Open cholecystectomy
+SPM348 Hand Carpal Tunnel Release GA
+SPM349 Anal- Hemorrhoidectomy (Stapled)
+SPM350 Exploratory laparotomy
+SPM351 Intestine- Iliostomy/Colostomy
+SPM352 Craniotomy/Craniectomy Drainage of Intracranial Abscess Supratentorial
+SPM353 Thyroid- Hemithyroidectomy GA
+SPM354 Hips Fracture Trochanteric Fracture DHS Fixation SA
+SPM355 Cleft Lip Bilateral GA
+SPM356 Ureter-Ureterolithotomy open SA
+SPM357 Urinary Bladder-TURBT 1st stage
+SPM358 Posterior Vitrectomy Package 2 (VITRECTOMY/BUCKLE BAND/ENDO LASER/SILICON OIL INJECTION (VIT/BB/EL/)
+SPM359 Orbitotomy Big
+SPM360 Keratoplasty PK
+SPM361 Laparoscopy for Oophorectomy or Salpingo-Oophorectomy or Ectopic pregnancy or Pelvic Abscess
+SPM362 Laparotomy with Wedge resection of ovary
+SPM363 Ureter-Ureteroscopy (URS) GA
+SPM364 Ankle Fracture Dislocation Open reduction Repair/Fixation GA
+SPM365 Patella Fracture Excision/Fixation GA
+SPM366 Phaco+Iol+ Trabeculectomy
+SPM367 Biliary-CBD exploration
+SPM368 Bone Flap Removal
+SPM369 Bone Flap Replacement
+SPM370 Craniotomy/CraniectomyInfratentorial
+SPM371 Craniotomy/Craniectomy Orbital Biopsy
+SPM372 Breast- Mastectomy GA/Wide Local Excision of Ca Breast
+SPM373 ERCP (ES stone extraction/Stenting
+SPM374 Laparoscopic Diagnostic Lap with Blue test (dye included)
+SPM375 Laparoscopic Tubal Ligation
+SPM376 Adnexal Operations - including Ovarian Cystectomy
+SPM377 Hips Fracture Femur Neck Hemiarthroplasty GA
+SPM378 Hips Old Unreduced Dislocation/CDH Open Reduction GA
+SPM379 Shoulder Fracture Dislocation INT. Fixation GA
+SPM380 Shoulder/Wrist/Elbow Arthrodesis GA
+SPM381 Soft Tissue, Nerve and Vessels Repair GA
+SPM382 Hernia repair bilateral SA
+SPM383 Spine Potts Spine Costo-Transversectomy
+SPM384 Tibia Condylar Fracture Elevation Bone Graft GA
+SPM385 Plating Forearm/Arm/Leg/Thigh bones Children
+SPM386 Ear Reconstruction Cartilage Framework GA
+SPM387 Penile Reconstruction GA
+SPM388 Soft Tissue, Tendon, Nerve and Vessel Repair GA
+SPM389 Prostate-TURP SA
+SPM390 Acute osteomyelitis (Surgical management including IandD, dressing)
+SPM391 Anal- Pilonidal Sinus surgery
+SI0301 Vulva-Vulvectomy simple
+SI0302 Ureter-Ureterolithotomy open GA
+SI0303 Kidney-Graft nephrectomy
+SI0304 Kidney-Nephrectomy for XGP
+SI0305 Kidney-Open pyelolithotomy
+SI0306 Penis-Nestbitt operation for Pyronies disease
+SI0307 Penis-Repair of Penile fracture
+SI0308 Penis-Total Penectomy
+SI0309 Prostate-Retropubic Prostatectomy SA
+SI0310 RPG + Instillation of Sclerosant GA
+SI0311 Testis-Orchidopexy 1st stage
+SI0312 Testis-Orchidopexy 2nd stage
+SI0313 Ureter- Transureteroureterostomy
+SI0314 Ureter-Ureterocystoneostomy (UCN) B/L SA
+SI0315 Ureter-Ureterocystoneostomy (UCN) U/L GA
+SI0316 Ureter-Ureteroscopic Lithotripsy(URSL) + DJ stenting GA Unilateral
+SI0317 Urethra-Tension Free Vaginal Tape (TVT) repair
+SI0318 Urinary Bladder- Percutaneous Cystolithotripsy (PCCL) SA
+SI0319 Uterus-Myomectomy GA
+SPM392 Intestine- Iliostomy/Colostomy closure
+SPM393 Vagina-Repair of Vault prolapse
+SPM394 Biliary-Cholecysto-Jejunostomy
+SPM395 Exploratory laparotomy with - band release, Adhesiolysis, Derotation for intestinal obstruction
+SPM396 Exploratory Laparotomy with - Repair of DU or Gastric perforation peritonitis
+SPM397 Exploratory Laparotomy -Repair Small bowel perforation,segment resection anastomosis, stoma creation
+SPM398 Rectum- Delormes Procedure for Rectal Prolapse
+SPM399 Stomach- Vagotomy and Pyloroplasty
+SPM400 Laparoscopic Appendectomy
+SPM401 Femure Shaft Fracture IM-Nailing GA
+SPM402 Tibia Shaft Fracture Nailing GA
+SPM403 Kidney-Simple nephrectomy Open
+SPM404 Urethra-LASER Optical Internal Urethrotomy (OIU)
+SPM405 Breast- Modified Radical Mastectomy GA
+SPM406 Thoracotomy with Decortication GA
+SPM407 Thoracotomy with Symphesectomy GA
+SPM408 Uterus-Hysterectomy with Burch Colposuspension GA/SA
+SPM409 Shoulder Joint Old Dislocation ORIF GA
+SPM410 Shoulder Joint Recurrent Dislocation Open Reduction GA
+SPM411 Routine Arthroscopic Procedures (GA/SA)
+SPM412 Hernia repair bilateral GA
+SPM413 Spleen- Splenectomy
+SPM414 Stomach- Truncal Vagotomy + Gastrojejunostomy
+SPM415 Fallopian Tube- Tuboplasty GA
+SPM416 Vagina-VVF repair Small
+SPM417 Keratoplasty Dalk/Dsaek/Dmek
+SPM418 Acute pancreatitis (surgical management including inj infliximab)
+SPM419 Uterus-Hysterectomy Abdominal
+SPM420 Chronic osteomyelitis (surgical management including IandD, dressing)
+SPM421 Prostate-TURP GA small
+SMJ101 Anterior Cervical Discectomy (ACD) Single Level
+SMJ102 Biopsy/Excision of Intraspinal Neoplasm
+SMJ103 Biliary- Partial Pericystectomy
+SMJ104 Cranioplasty For Skull Defect
+SMJ105 Cranioplasty For Skull Defect less than 5cm
+SMJ106 Cranioplasty Simple
+SMJ107 Cranioplasty with Autograft less than 5cm
+SMJ108 Craniotomy/Craniectomy Decompression of Orbit
+SMJ109 Craniotomy/CraniectomyExcison of Foreign Body from Brain
+SMJ110 Craniotomy/CraniectomyExcison of Tumor or Other Lesion of Bone
+SMJ111 Craniotomy/CraniectomyExcison, Intra and Extracranial, Benign Tumor of Cranial Bone
+SMJ112 Craniotomy/Craniectomy Removal of Foreign Body
+SMJ113 Craniotomy/Craniectomy Removal of Lesion
+SMJ114 Craniotomy/CraniectomySuboccipitalCraniectomy and Laminectomy for Arnold Chiari
+SMJ115 Craniotomy for Excision of Pituitary Tumor
+SMJ116 Excision by Laminectomy Occlusion of AVM
+SMJ117 Fusion of Posterior, Cervical, Interspinous
+SMJ118 Fusion of Posterior, Cervical, Sublaminar
+SMJ119 Instrumentation Lateral Mass Screw
+SMJ120 Instrumentation Anterior Odontoid Screw Fixation
+SMJ121 Instrumentation Lumbar
+SMJ122 Instrumentation Occiput - C3/4 Fusion using Luque Rectangle, Sublaminar Wiring
+SMJ123 Laminectomy for Spinal Cord Tumor Excision Simple ( Posterior Approach)
+SMJ124 LUQUE Rod/Rectangle Fixation, Thoracic
+SMJ125 Hellers Operation (Cardiomyotomy) GA
+SMJ126 Laparoscopic cholecystectomy
+SMJ127 Laparoscopic rectopexy
+SMJ128 Laparoscopic partial pericystectomy
+SMJ129 Other Laparoscopic OB/GYN Surgery
+SMJ130 Laparoscopic (Ovarian) Cystectomy
+SMJ131 Ureter- Ureteric Transplantation
+SMJ132 Uterus-Cesarean Hysterectomy
+SMJ133 Uterus-Hysterectomy Vaginal GA/SA
+SMJ134 Vagina-Reconstruction of Artifical Vagina
+SMJ135 Vulva- Radical Vulvectomy GA
+SMJ136 HumerusIntercondylar Fracture - ORIF GA
+SMJ137 Pelvis/Acetabular Fracture
+SMJ138 Radial Head Excision Difficult
+SMJ139 Plating Both Bones Forearm/Humerus
+SMJ140 Tendon Graft/Transfer
+SMJ141 Ileal interposition
+SMJ142 Kidney - AH pyeloplasty Open
+SMJ143 Penis-Total Penile Disassembly for Epispadias
+SMJ144 Prostate-Retropubic Prostatectomy GA
+SMJ145 Retroperitoneal Lymph Node Dissection (RPLND)
+SMJ146 RNU with Bladder cuff excision open
+SMJ147 Ureter-BOARI flap
+SMJ148 Ureter-Ureterocalicostomy
+SMJ149 Urinary Bladder - Bladder Divertilulectomy
+SMJ150 Urinary Bladder - Extrophy repair
+SMJ151 Urinary Bladder - Partial Cystectomy
+SMJ152 Urinary Bladder- Percutaneous Cystolithotripsy (PCCL) GA
+SMJ153 Urinary Bladder-Modified CantewellRansley Operation
+SMJ154 Urinary Diversion (MAINZ POUCH) only
+SMJ155 Urinary Diversion (Ureterosigmoidostomy) only
+SMJ156 Vas-Vasectomy reversal SA/GA
+SMJ157 Vas-Vasovasostomy (Microsurgery)
+SMJ158 Intestine- Ileal resection
+SMJ159 Pancreas-Triple Bypass
+SMJ160 Stomach- Cystograstrostomy
+SMJ161 Stomach-Partial Gastrectomy
+SPM422 Biliary- Lap Cholecystectomy Converted to Open Cholecystectomy
+SPM423 Exploratory Laparotomy with - Resection Anastomosis of Small bowel with or without stoma
+SPM424 Craniotomy/CraniectomyCraniosynostosis: Single Cranial Suture
+SPM425 Craniotomy/Craniectomy Evacuation of Hematoma : Supratentorial/Extradural/Subdural
+SPM426 Craniotomy/CraniectomyExvision of Brain Tumor Supratentorial, Except meningioma
+SPM427 Craniotomy/CraniectomyExcison of Meningioma Supratentorial
+SPM428 Craniotomy/CraniectomyInfratentorial; Extradural/Subdural
+SPM429 Craniotomy/Craniectomy Penetrating wound of Brain
+SPM430 Craniotomy/Craniectomy Trans Sphenoidal Approach for Excision of Pituitary Tumor
+SPM431 Thoracotomy with Enucleation of Cyst GA
+SPM432 Thyroid- Total or Subtotal Thyroidectomy GA
+SPM433 Laparoscopic Hernia repair U/L
+SPM434 Hips Fracture Trochanteric Fracture DHS Fixation GA
+SPM435 Kidney-LASER PUV Ablation
+SPM436 Urethra- Posterior Urethral Valve Ablation
+SPM437 Urinary Bladder - Bipolar TURBT
+SPM438 Spine Sacrum/Coccyx Excision SA
+SPM439 Posterior Vitrectomy Package 3 (VITRECTOMY AND PROCEEDURE(Combined surgery) VITRECTOMY+PHAECO )
+SPM440 Anterior Cervical Discectomy (ACD) Multiple Levels
+SPM441 Exploratory Laparotomy with - Resection Anastomosis of Large bowel with or without stoma
+SPM442 Craniotomy/CraniectomyExvision of Brain Tumor Infratentorial, Except meningioma
+SPM443 Breast- Modified Radical Mastectomy GA/WLE + Axillary Clearance
+SPM444 Laparoscopic/Lap Assisted Closure of DU/Enteric Perforation
+SPM445 Vulva-Vulvectomy Radical
+SPM446 ORIF with Bone Grafting
+SPM447 Rectum- Altermiers Operation /STARR procedure for Rectal prolapse
+SPM448 Ilizarov Fixation
+SPM449 Minimally Invasive Percutaneous Osteosynthesis (MIPPO)
+SPM450 Kidney- Pyelolithotomy
+SPM451 Ureter-Ureteroscopic Lithotripsy(URSL) bilateral
+SMJ163 Spine PIVD Laminectomy GA
+SMJ202 Kindey - AnatrophicNephrolithotomy
+SMJ165 Urethra - Anastomotic Urethroplasty
+SMJ204 Urinary Bladder - LASER Cystolithotrite
+SMJ205 Biliary-Choledocho-duodenostomy
+SMJ168 Stomach-Subtotal Gastrectomy
+SPM452 Anterior Cervical Discectomy and Fusion (ACDF) Single Level
+SPM453 Anterior Vertebral Corpectomy Cervical Single Level
+SPM454 Biliary- Hilar cholangiocarcinoma excision
+SPM455 Colon- Hemicolectomy
+SPM456 Colon- Perineal Proctosigmoidectomy
+SPM457 Pancreas- Distal pancreatectomy
+SPM458 Pancreas- Freys Operation
+SPM459 Pancreas- Peustows operation
+SPM460 Rectum- abdominal rectopexy
+SPM461 Shunt surgery
+SPM462 Spleen- Splenectomy and Devascularization
+SPM463 Stomach- Fundoplication
+SPM464 Stomach-Hellers Myotomy
+SPM465 Costovertebral Approach(Posterolateral)
+SPM466 Cranioplasty Complex
+SPM467 Cranioplasty For Skull Defect Larger than 5cm
+SPM468 Cranioplasty with Autograft Larger than 5cm
+SPM469 Craniotomy/CraniectomyCerebellopontine Angle Tumor
+SPM470 Craniotomy/CraniectomyExcison of Meningioma Intratentorial
+SPM471 Craniotomy/Craniectomy Multiple Cranial Sutures
+SPM472 Craniotomy/Craniectomy Trans Oral Approach to Skull Base
+SPM473 Excision by Laminectomy Intraspinal Lesion Other Than Neoplasm
+SPM474 Fusion of Posterior, Lumbar
+SPM475 Fusion Posterolateral, Lumbar
+SPM476 Lumbar- Transforaminal Lumbar Interbody Fusion (TLIF)
+SPM477 Instrumentation Lumbar, Single Segment
+SPM478 Instrumentation Posterior
+SPM479 Instrumentation Transarticular Screw Fixation: Anterior
+SPM480 Laminectomy for Spinal Cord Tumor Excision Complex (Posterior Approach)
+SPM481 Microvascular Decompression (MVD)
+SPM482 Spine Sacrum/Coccyx Excision GA
+SPM483 Spine Spondylolisthesis Fusion GA
+SPM484 Breast Reconstruction with Muscle Flaps GA
+SPM485 Mandibular Reconstruction GA
+SPM486 Revascularization GA
+SPM487 Toe Transfer GA
+SPM488 Kidney-Extracorporeal Shock Wave Lithotripsy (ESWL)
+SPM489 Penis-Hypospadias repair with flaps
+SPM490 Ureter-Ureteroureterostomy unilateral
+SPM491 Anterior Cervical Discectomy and Fusion (ACDF) Multiple levels
+SPM492 Anterior Vertebral Corpectomy Cervical Multiple Level
+SPM493 Anterior Vertebral Corpectomy Thoracic Single Level
+SMJ301 Anastomosis: EC/IC bypass
+SMJ302 Anterior Vertebral Corpectomy Thoracic Multiple Level
+SMJ303 Carotid Endarterectomy (CEA)
+SMJ304 Craniotomy/Craniectomy Midline Tumor at Skull Base
+SMJ305 Anterior Lumbar Interbody Fusion (ALIF)
+SMJ306 posterior lumbar interbody fusion (PLIF)
+SMJ307 Lumbar- Lateral lumbar interbody fusion (XLIF)
+SMJ308 Instrumentation Multiple Segment
+SMJ309 Thoracotomy with Lobectomy/Pneumonectomy GA
+SMJ310 ThoracotomySternotomy with Mediastinal Tumor Excision GA
+SMJ311 Laparoscopic CBD exploration
+SMJ312 Laparoscopic Gastrectomy
+SMJ313 Laparoscopic Hernia repair B/L
+SMJ314 Combine- TAH with Cholecystectomy
+SMJ315 Vagina-Vaginal Radical Hysterectomy GA
+SMJ316 Vagina-VVF repair Complicated
+SMJ317 Shoulder Joint Replacement GA
+SMJ318 Spine Cervical Spine Fracture Fusion GA
+SMJ319 Spine Potts Spine Fusion Decompression GA
+SMJ320 Hemi Replacement Arthroplasty (HRA)
+SMJ321 Arthroscopic Meniscectomy
+SMJ322 Abdominoplasty GA
+SMJ323 Microvascular Free Flap Transfer GA
+SMJ324 Kidney-Radical Nephrectomy open
+SMJ325 Urinary Diversion (Ileal conduit) only
+SMJ326 Intermediate Embolectomy)
+SMJ327 Minor II (Pericardiotomy)
+SMJ328 Colon- Subtotal colectomy
+SMJ329 Liver- Non major Liver resection segmental, bisegmental
+SPM494 Thoracotomy with Neck Dissection GA
+SPM495 Kidney-Partial Nephrectomy Open
+SPM496 Urethra-Buccal Mucosal (BMG) Urethroplasty (BULBAR)
+SPM497 Urethra-Buccal Mucosal (BMG) Urethroplasty (PENILE)
+SPM498 Spinal Osteotomy
+SPM499 Colon- Total Proctocolectomy
+SPM500 Spinal Tumor Excision
+SPM501 Spine Scoliosis Fusion/Epiphysodesis GA
+SPM502 Thoracolumbar Fracture Fixation
+SPM503 ORIF + Bone Graft Completed
+SPM504 Uterus-Hysterectomy Radical -Wertheims operation
+SPM505 Penis-Hypospadias repair with BMG graft
+SPM506 Ureter-LASER Deroofing of ureterocele
+SPM507 Ureter-LASER Endopolypectomy/Endoureterotomy
+SPM509 Uterus-Laparoscopic Myomectomy
+SPM510 Prostate-Bipolar TURP
+SPM511 Laparoscopic Hysterectomy
+SPM512 Kidney-Percutaneous Nephrolithotomy (PCNL)
+SPM513 Biliary-Extended cholecystectomy
+SPM514 Laparoscopic splenectomy
+SSJ101 Laparoscopic Adhesolysis/Adenectomy
+SSJ102 Laparoscopic colectomy
+SSJ103 Laparoscopic Deroofing of renal cyst
+SSJ104 Laparoscopic Pyeloplasty
+SSJ105 Laparoscopic Radical nephrectomy
+SSJ106 Uterus-Hysterectomy Lap converted to Open
+SSJ107 Patellar Reconstruction
+SSJ108 Major Flap Surgery
+SSJ109 Shoulder- Reconstruction
+SSJ110 Replantation GA
+SSJ111 Urinary Bladder-Radical cystectomy with Ileal conduit
+SSJ112 Liver- Open CBD exploration with Hepaticojejunostomy
+SSJ113 Retum- abdominal perineal resection
+SSJ114 Retum- Anterior resection/Low anterior resection
+SSJ115 Stomach-Total Gastrectomy
+SPM515 Esophagectomy GA
+SPM516 Knee - Anterior/Posterior Cruciate Ligament Reconstruction
+SPM517 Kidney-Percutaneous Nephrolithotomy (PCNL) multiple stone
+SPM518 Total Laparoscopic Hysterectomy
+SPM519 Spinal Fixation
+SPM520 Laparoscopic Adrenalectomy I
+SPM521 Urethra-Buccal Mucosal (BMG) Urethroplasty (PANURETHRAL)
+SPM522 Urethra-Progressive perinealurethroplasty
+SPM523 Liver- Hepaticojejunostomy
+SMJ201 Laparoscopic Abdominoperineal resection
+SMJ164 Laparoscopic Incisional Hernia repair
+SMJ203 Laparoscopic Rectopexy for rectal prolapse
+SMJ213 Laparoscopic Nephrectomy I
+SMJ167 Spinal Fixation with Decompression and Grafting
+SMJ206 Elbow - Total Elbow Replacement
+SMJ169 Prostate-Radical Prostatectomy
+SMJ209 Ureter-Ureteroureterostomy bilateral
+SMJ210 Urinary Bladder - Augmentation cystoplasty
+SMJ211 Urinary Bladder- Indiana Pouch
+SPM524 Esophagus- Esophagectomy
+SPM525 Liver- Major hepatic resection
+SPM526 Pancreas- Whipples Operation
+SPM527 Urinary Bladder - Radical cystectomy with neobladder
+SMJ170 Kidney- Retrograde Intrarenal Surgery (RIRS)
+SMJ171 Total Hip and Knee Replacement Surgery U/L(implant extra)
+SPM528 Coronary Angioplasty
+SMJ401 Laparoscopic Low anterior/anterior resection
+SMJ402 Laparoscopic Adrenalectomy II
+SMJ403 Laparoscopic Nephrectomy II
+SMJ404 Kidney-Donor nephrectomy Open
+SMJ405 Kidney-Renal transplantation
+SMJ406 Prostate- Holmium Laser Enucleation of the prostate (HoLEP)
+SMJ407 Urinary Bladder - Radical cystectomy
+SPM529 Major I (BT Shunt/ PA Banding/Epicardial Pacemaker)
+SMJ501 (Fem-POP bypass, Iliac Surgery)
+SMJ601 Urinary Bladder-TURBT 2nd stage
+SMJ602 Major II (CMC /COA/PDA Ligation/Pericardiectomy)
+SMJ701 Major I (ASD/PAPVC/Pulmonary Valvotomy/ VSD/oth)
+SMJ702 Major(AAA Repair/ CEA (Graft Extra)
+SMJ801 Total Hip and Knee Replacement Surgery B/L
+SMJ901 Major II (OMV/Valve Repair/MVR/AVR (Valve Extra)
+SMJ_01 Major III (DORV/DVR/TOF/TAPVC /Other Complex Congenital)
+SMJ_04 CABG (Coronary Arterial Bypass Graft)
+S00036 Hearing aid
+PK1601 Burn greater than 30 percentage Body surface area
+RAD018 USG guided FNAC
+MO103 ICU with ventilator/per day
+MO104 ICU with( Bipap)per day
+MO105 CPAP(Continuous Positive Air Pressure)
+MO106 CAPD (Per Packed/dialysate )(If not covered by Other Programs)+service cost
+MO107 Cap (CAPD)
+MO108 Bipap/per day
+MO109 Hemo-dialysis/per episode(in case not covered by Other Progarms)
+MO110 Incubator charge/per day
+MO111 ICU+Ventilator+Radiant Warmer+Incubator(paediatric)
+MO112 Radiant Warmer Per/day
+SPM530 Perpheral Iridectomy(Laser Procedure)
+SPM533 Implant Removal cannulated screws/pins(SA/GA)
+SPM536 Implant Removal Ortho major under GA
+SPM537 Implant Removal Ortho major under SA
+SPM538 Retina Laser
+SPM539 Laser Photocoagulation/Capsulectomy
+SPM540 Posterior Vitrectomy (only)
+SPM541 Intra Vitral Triamcilonone Injection
+SPM542 Intra Vitral Antibiotics/Other Injection
+SPM543 Buckle Band Removal
+SPM544 Silicon Oil Removal/Injection
+SPM545 Laser Pheripheral Iridectomy(PI)
+SPM546 IUCD Insertion /removal(in case not covered by other programe)
+RAD092 CT (Chest/HRCT) with contrast
+RAD093 CT (Chest/HRCT) Without Contrast
+RAD094 CT (Neck) with contrast
+RAD095 CT (Neck) without contrast
+RAD096 CT scan (Head with (Occipital/Temporal) with contrast
+RAD097 CT scan (Head with Cervical/spine) with contrast
+RAD098 CT Scan (Head with cervical/spine) without contrast
+RAD099 CT scan (Head with PNS) With Contrast
+RAD61 CT scan (Head with PNS) Without contrast
+RAD62 CT Scan (Head with Occipital/Temporal) without contrast
+RAD63 CT single (joints/bone) with contrast
+RAD64 CT single( joints/bone )without contrast
+RAD65 CT IVU
+RAD66 CT Angiography(Head /Neck/Abdomin$Pelvis))
+RAD67 CT Angiography(Upper /lower extrimities)
+RAD68 MRCP/MRI with contrast
+RAD69 MRCP/MRI without contrast
+RAD70 MRI (Abdomin with Pelvis) with contrast
+RAD71 MRI (Abdomin with Pelvis) without contrast
+RAD72 MRI (Abdomin) with contrast
+RAD73 MRI (Abdomin) without contrast
+RAD74 MRI (Pelvis) with contrast
+RAD75 MRI (Pelvis) without contrast
+RAD76 MRI double (extrimities /joints/organ) with contrast
+RAD77 MRI double (extrimities /joints/organ) without contrast
+RAD82 MRI single Segement (spine/Brain)without Contrast
+RAD83 MRI single Segement(spine/Brain) with contrast
+RAD84 MRI Double Organ (Brain with others)without Contrast
+RAD85 MRI Double Organ (Brain with others)with Contrast
+LO170 CRP (Quantitative)
+LO172 Typhoid antibody(IgG/IgM)
+LO173 Fundus Photography(single eye)
+RAD86 OCT(single eye)
+LO174 Scrub Typhus antibody (IgG/IgM)
+RAD87 USG(Anomaly Scan)
+RAD92 NCT(Nerve conduction test)
+RAD88 OBG(Dental)
+RAD89 USG Breast (single)
+RAD90 USG breast (double)
+RAD91 Scrotal USG
+RAD064 X-ray(Two joints)
+RAD100 X-ray(Spine)
+RAD065 X-ray double view(Chest)
+RAD067 X-ray (spine two segment)
+RAD068 X-ray double view(Spine two segment)
+RAD069 X-ray(forearm/leg)
+RAD070 X-ray double view (forearm/leg)
+RAD071 X-ray ( both forearm/ both leg)
+RAD072 X-ray double view ( both forearm/ both leg)
+RAD073 X-ray ( both Thigh/both Pelvis or Hip)
+RAD074 X-ray double view ( both Thigh/ both Pelvis or Hip)
+RAD075 X-ray (Thigh/pelvis/shoulder)
+RAD076 X-ray double view (Thigh/pelvis/shoulder)
+RAD077 X-ray (Thigh with Pelvis)
+RAD078 X-ray double view (Thigh with Pelvis)
+RAD079 X-ray (clavicle)
+RAD080 X-ray double view (clavicle)
+RAD081 X-ray (PNS )
+RAD082 X-ray double view (PNS)
+RAD083 X-ray Triple View( PNS)
+RAD084 X-Ray skull
+RAD085 X-ray (Nasal bone/jaw/mandible /face bone)
+RAD086 X-ray (Temporal/Occipital)
+RAD087 X-ray double view (Nasal bone/sinus/jaw/mandible /face bone)
+RAD088 X-ray double view (Temporal/Occipital)
+RAD090 X-ray Triple view
+RAD091 X-ray Four view
+RAD78 MRI Full organ(Spine/brain etc) with Contrast
+RAD79 MRI single (extrimities/joints )without contrast
+SPM531 Implant Plate Removal GA( large bones)
+SPM532 Implant Removal Nail GA (large bones)
+OPD4 OPD TICKET
+EMRT Emergency Ticket
+LO175 Urine RE/ME
+LO167 Total Count(If Not covered in package)
+LO168 DC(If Not Covered In Package)
+LO169 HB(If Not Covered In Package)
+L0144 Blood Sugar PP
+L0145 Blood Sugar R

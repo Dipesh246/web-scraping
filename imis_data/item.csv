@@ -1,0 +1,1222 @@
+Code,Name,Price
+A01C1R,Amphotericin B 50mg,450.0
+A02B1W,Bisacodyl suppository 5mg,2.0
+A03B2V,Bisacodyl suppository 5mg,20.0
+A04B4V,Bisacodyl suppository 10mg,22.0
+V05E2W,Calcium Acetate 667mg,7.0
+A06C4W,Clopropamide 100mg,6.0
+A07D1W,Clopropamide 250mg,10.0
+A08D1W,Cholecalciferol 250mg,3.5
+A09H2S,Cholecalciferol 200ml Suspension,64.0
+A10A2W,Dexamethasone 0.5mg,0.35
+A11A3W,Glimpiride 1mg,5.0
+A12A6W,Glimpiride 2mg,8.0
+A13A8W,Glimpiride 3mg,11.0
+A14A9W,Glimpiride 4mg,12.25
+A15E5W,Metformin 850 mg,3.4
+D16G7R,"Podophyllin tincture benzoin,10ml solution",50.0
+A17B7A,Omeprazole 20mg,4.0
+A18B4W,Pyridoxine 10mg,1.25
+A19C0W,Pyridoxine 40mg,2.0
+A20C2W,Pyridoxine 60mg,4.0
+A21C4W,Pyridoxine 100mg,4.3
+J22F5P,Spectinomycin 200gm,112.0
+B01D1W,Tranexamic Acid 250mg,6.7
+B02A6W,Warfarin 2mg,3.0
+B03A8W,Warfarin 3mg,3.5
+B04B1W,Warfarin 5mg,4.35
+B05A3W,Warfarin 1mg,2.0
+C01B4W,Atorvastatin 10mg,10.77
+C02B1W,Atorvastatin 5mg,6.0
+C03B7W,Atorvastatin 20mg,20.6
+C04A7W,Enalapril 2.5mg,2.0
+C05B1W,Enalapril 5mg,4.0
+C06B4W,Enalapril 10mg,7.0
+L07B1W,Methotrexate 5mg,11.9
+L08B2W,Methotrexate 7.5mg,20.0
+C09B1A,Nifedipine 5mg,1.6
+C10B4A,Nifedipine 10mg,3.0
+J11C7A,Clindamycin 150mg,21.65
+J13D9I,Clindamycin 600mg INJECTION,355.0
+G01D8W,Vitamic C(Ascorbic Acid) 500mg,2.6
+G02G0C,Vitamic C(Ascorbic Acid) 15ml,21.0
+J01D1A,Amoxycillin 250 mg,5.0
+J02C2S,"Amoxycillin 125 mg/5ml,60ml",41.0
+J03D8I,Ampicillin 500mg,33.0
+J04G0S,"Azithromycin 100mg/5ml,15ml",46.48
+J05D1I,Ceftriaxone 250 mg,44.0
+J06D8I,Ceftriaxone 500 mg,60.0
+J07D1W,Clarithromycin 250mg,33.1
+J08D8W,Clarithromycin 500mg,45.72
+J10D2I,Clindamycin 300mg INJECTION,226.0
+J11C4W,Cefixime 100mg,9.66
+J12C9W,Cefixime 200mg,17.04
+J13G8D,"Cefixime DS,30ml",60.0
+J14G9S,"Erythromycin 125mg/5ml,60ml",51.0
+J15D1A,Erythromycin 250mg,4.8
+J16D8W,Erythromycin 500mg,10.25
+J17C0I,Gentamycin 40mg/ml,9.5
+J18C3I,Gentamycin 80mg/ml,18.0
+J19D8W,Levofloxacin 500mg,11.0
+J20E3W,Levofloxacin 750mg,15.0
+J21D5W,Moxifloxacin 400mg,9.5
+J22H0I,Moxifloxacin 400mg/100ml,352.0
+F23C4F,Ofloxacin 100 mg DT,7.0
+J24C9W,Ofloxacin 200mg,8.5
+J26D5S,"Ofloxacin 50mg/5ml ,30ml",45.0
+J27C9I,Ofloxacin   200mg/100ml,75.0
+J28D8A,Flucloxacillin 500 mg,16.5
+M01C1W,Diclofenac 50mg,2.13
+M02C4W,Diclofenac 100mg SR,5.0
+M03D1W,"Mefenamic Acid,250mg",2.2
+M04D8W,"Mefenamic Acid,500mg",3.32
+N01B8W,Chlorpromazine 25 mg,0.45
+N02B1W,Diazepam 5mg,3.0
+N03B4W,Diazepam 10mg,5.0
+N04G5I,"Fluphenazine Decanoate(Prolinate) 25mg/ml,1ml",77.0
+N05B7A,Fluoxetine 20mg,5.61
+N06B4A,Fluoxetine 10mg,3.0
+N07A5W,Haloperidol 1.5mg,1.61
+N08A2W,Haloperidol 0.25mg,1.0
+N09B9W,Phenobarbitone 30 mg,2.5
+P10G8T,Piperazine citrate 30ml,23.0
+N11A5W,Trihexiphenidyl 1.5mg,2.0
+N12A6W,Trihexiphenidyl 2mg,3.5
+N13B1W,Trihexiphenidyl 5mg,4.0
+N01F4R,Permethin 30gm/5%w/v,176.0
+R03A3W,Pheniramine 1mg,0.5
+R04B8W,Pheniramine 25mg,7.0
+I05B4I,Chlorpheniramine maleate 10mg,25.0
+R01A3W,Chlorpheniramine maleate 1mg,0.5
+R02A6W,Salbutamol 2mg,0.51
+R03H0T,"Salbutamol,100ml",35.0
+S01G7C,"Sulphacetamide 10% Eye DROPS,10ml",13.0
+S02G7C,Suphacetamide 30% Eye Drops,16.0
+S03B7C,Suphacetamide 20% Eye Drops,15.0
+S04B1O,Tetracycline Eye ointment 1%,27.0
+Q05C4W,Valacyclovir 200mg,15.0
+Q06E4W,Acyclovir 800mg,37.0
+Q07D8W,Acyclovir 400mg,22.15
+W01E1W,Amoxycillin and Clavulanate 625mg,24.16
+W02D4W,Amoxycillin and Clavulanate 375mg,19.8
+W03F0W,Amoxycillin and Clavulanate 1.2gm,192.57
+I04F5I,Hepatitis B Vaccine 80 IU,152.0
+W05D8W,Probenecid 500mg,6.4
+W06F8W,"Penicillin G 400,000",0.38
+W07F9W,"Penicillin G 800,000",0.48
+W08G2W,Penicillim G 10 Lac IU,12.65
+I09F9I,"Penicillin G 500,000",20.0
+W10C4W,Spironolactone 100mg,15.4
+W11B5W,Spironolactone 12.5mg,1.5
+W12B8W,Spironolactone 25mg,2.75
+W13B4W,Zinc Sulphate 10mg,2.0
+W14B7W,Zinc Sulphate 20mg,3.0
+U15G0U,Bismuth Iodoform 15mg,60.0
+C16G7C,"Ichthamol in glycerine ear drops,10ml",63.0
+B01RI,Adrenaline 1:1000,0.0
+C02G6W,Amlodipine 5mg,0.0
+S03D1W,Acetazolamide 250mg,0.0
+D04C9W,Acyclovir 200mg,0.0
+P05F1O,Acyclovir 5gm,0.0
+P06D5W,Albendazole 400mg,0.0
+M07D8W,Allupurinol 100mg,0.0
+N08A1W,Alprazolam 0.25mg,0.0
+W09H4W,Aluminium Hydroxide+Magnesium Hydroxide (250mg+250mg),0.0
+N10B4W,Amitryptiline 10mg,0.0
+N11C6W,Amitryptiline 25mg,0.0
+J12C6W,Amoxycillin 125mg DT,0.0
+J13D1W,Amoxycillin 250mg DT,0.0
+J14D8A,Amoxycillin 500mg,0.0
+R15C4W,Aminophyllin 100mg,0.0
+B16W,Aspirin 75 mg,0.0
+B17C7W,Aspirin 150mg,0.0
+B18D2W,Aspirin 300mg,0.0
+C19C1W,Atenolol 50 mg,0.0
+J20H5I,"Atropine 0.6 mg/ml, 1 ml",0.0
+J21D8W,Azithromycin 500mg,0.0
+J22D1W,Azithromycin 250mg,0.0
+W01B9O,"Benzoic Acid 6%+ Salicylic Acid 3% Oint., 30 gm",0.0
+W02G8L,"Calamine Lotion 15%, 30 ml",0.0
+N03G8W,Carbamazepine 200mg,0.0
+N04D5W,Carbamazepine 400mg,0.0
+J05A3I,Ceftriaxone 1 gm,0.0
+R06B4W,Cetrizine 10 mg,0.0
+R07B4S,Cetrizine 10mg/5ml,0.0
+C08F0P,Charcoal Activated 10gm/sachet,0.0
+J09H5O,Chloramphenicol APPLICAP 1%,0.0
+J10D1A,Chloramphenicol 250 mg,0.0
+J11D8A,Chloramphenicol 500mg,0.0
+R12A9W,Chlorpheniramine 4 mg,0.0
+N13C4W,Chlorpromazine 100 mg,0.0
+N14G0O,"Clove oil,5ml",0.0
+S15D1W,Ciprofloxacin 250mg,0.0
+S16D8W,Ciprofloxacin 500 mg,0.0
+S17G6C,"Ciprofloxacin E/E drops 0.3 %,5ml",0.0
+S18C9H,Ciprofloxacin Infusion 200 mg / 100 ml,0.0
+D19C9B,Clotrimazole 25mg 1% w/w,0.0
+D20C4W,Clotrimazole 100mg Pessary(6Tab),0.0
+J21C6A,Cloxacillin 125mg,0.0
+J22D1A,Cloxacillin 250mg,0.0
+J23D8A,Cloxacillin 500mg,0.0
+W24H3R,Compound solution of  Sodium Lactate Solution 500 ml(Ringer Lactate),0.0
+D25B8B,"Cream Silver Sulphadiazine 25g, 1% w/w",0.0
+A01G0I,"Dexamethasone 2 ml, 4 mg/ml",0.0
+W02H3H,Dextrose Solution5 % w/v 500 ml,0.0
+N03B1I,Diazepam 5mg/2ml,0.0
+M04B8I,"Diclofenac 25 mg / ml, 3 ml",0.0
+C05A1W,Digoxin 0.25 mg,0.0
+J06C4A,Doxycycline 100 mg,0.0
+W01C2W,Ferrous Sulphate 60mg elemental Iron,0.0
+D02C7W,Fluconazole 150 mg,0.0
+D03B6O,Fluconazole 15gm,0.0
+W04B1W,Folic Acid 5 mg,0.0
+C05B4I,"Frusemide 10mg/ml,2ml",0.0
+C06C0W,Frusemide 40 mg,0.0
+P01G7L,"Gamma Benzene Hexachloride lotion,100ml",0.0
+W02G7R,"Gentain Violet 2%  ,10ml",0.0
+J03H3I,Gentamicin 80mg/ml,0.0
+C01B8W,Hydrochlorthiazide 25mg,0.0
+C02C4P,Hydrocortisone Succinate 100mg/vial with WFI,0.0
+W03B7I,Hyoscine Butylbromide 20mg/ml,0.0
+W04B4W,Hyoscine Butylbromide 10mg,0.0
+W05B7W,Hyoscine Butylbromide 20mg,0.0
+M01D5W,Ibuprofen 400mg,0.0
+M02B8W,Indomethacin  25mg,0.0
+M03C1W,Indomethacin  50mg,0.0
+A01D8W,Metformin 500 mg,0.0
+A02B4W,Metoclopramide 10mg,0.0
+A03G0I,"Metoclopramide 5mg/ml,2ml",0.0
+A04D8H,Metronidazole 500 mg/100ML,0.0
+A05G9S,"Metronidazole 200 mg/5ml,60ml",0.0
+A06D5W,Metronidazole 400mg,0.0
+A01F2O,"Neomycin Skin Oint., 15 gm",0.0
+R01G6C,"Oxymetazoline 0.1 %, 5 ml",0.0
+N01G9S,"Paracetamol 125 mg / 5 ml,  60 ml",0.0
+N02G0I,"Paracetamol 150 mg / ml,  2 ml",0.0
+N03D8W,Paracetamol 500 mg,0.0
+R04G0I,"Pheniramine 22.75 mg / ml, 2 ml",0.0
+N05C2W,Phenobarbitone 60 mg,0.0
+W06H3W,"Povidone Iodine 5 % Solution, 50 ml",0.0
+V07D8I,Pralidoxim Sodium 500mg,0.0
+H08B1W,Prednisolone 5mg,0.0
+H09B2W,Prednisolone 10 mg,0.0
+D09B8W,Promethazine HCl 25 mg,0.0
+A01C7W,Ranitidine 150 mg,0.0
+A02B8I,Ranitidine 25 mg / ml,0.0
+W04H4Q,Rehydration Solutions(ORS)/Ltr,0.0
+R01A9W,Salbutamol 4 mg,0.0
+W02H4H,Sodium Chloride 500ml(Normal Saline),0.0
+J03H4F,Sulphamethoxazole+ Trimethoprim 120mg DT,0.0
+J04H4F,Sulphamethoxazole+ Trimethoprim 480mg  DT,0.0
+J05H4F,Sulphamethoxazole+ Trimethoprim DT  960mg,0.0
+J01H4A,Tetracycline 250 mg,0.0
+J02H4B,Tetracycline 500mg,0.0
+J02D8W,Tinidazole 500 mg,0.0
+W01H4W,Vitamin B-complex,0.0
+W01G3W,Levothyroxin 100 mcg,0.0
+W02G8I,"Lignocaine 30 ml,1%  with or without Adrenaline ,2%w/v",0.0
+W03G8I,"Lignocaine 30 ml,2%  without Adrenaline",0.0
+D1C9A,Cefpodoxime 200mg,25.0
+D1C10A,Cefpodoxime 200mg,25.0
+D2g3W,Levonorgesterol 150mcg,80.0
+D2c2W,2 tablets of Levonorgesterol 75mg,80.0
+D3C4W,Nimesulide 100mg,3.0
+D3C4A,Nimesulide 100mg,3.0
+D4D5W,Ofloxacin 400mg,8.0
+D4D5A,Ofloxacin 400mg,8.0
+D5C0W,Pantoprazole 40mg,8.0
+D5C0A,Pantoprazole 40mg,8.0
+D6A7W,Amlodipine 2.5mg,2.3
+D6A7A,Amlodipine 2.5mg,2.3
+D7B4W,Amlodipine 10mg,7.0
+D7B4A,Amlodipine 10mg,7.0
+D8B8W,Losartan 25mg,4.41
+D8B8A,Losartan 25mg,4.41
+D9C1W,Losartan 50mg,7.6
+D9C1A,Losartan 50mg,7.6
+D10B5W,Metoprolol 12.5mg,2.9
+D10B5A,Metoprolol 12.5mg,2.9
+D11B8W,Metoprolol 25mg,4.0
+D11B8A,Metoprolol 25mg,4.0
+D12C1W,Metoprolol 50mg,5.3
+D12C1A,Metoprolol 50mg,5.3
+D13E7W,Metformin 1000mg,6.0
+D3E7A,Metformin 1000mg,6.0
+D14B6W,Pioglitazone 15mg,6.5
+D14B6A,Pioglitazone 15mg,6.5
+D15B9W,Pioglitazone 30mg,10.8
+D15B9A,Pioglitazone 30mg,10.8
+D16B8W,Imipramine 25mg,1.32
+D16B8A,Imipramine 25mg,1.32
+D17c2W,Imipramine 75mg,3.0
+D17c2A,Imipramine 75mg,3.0
+D18A3W,Lorazepam 1mg,2.0
+D18A3A,Lorazepam 1mg,2.0
+D19A6W,Lorazepam 2mg,2.8
+D19A6A,Lorazepam 2mg,2.8
+D20A2W,Alprazolam 0.5mg,3.62
+D20A2A,Alprazolam 0.5mg,3.62
+D21C7I,Carboplatin 150mg,1142.22
+D22D6I,Carboplatin 450mg,2548.91
+D23A6W,Chlorabucil 2mg,79.89
+D24B4I,Cisplatin 10mg injection,118.0
+D25C1I,Cisplatin 50mg,410.17
+D26D8I,Cyclophosphamide 500mg injection,91.0
+D27C1W,Cyclophosphamide 50mg,6.62
+D28C4I,Cytosine Arabisonide 100mg/vial,421.23
+D29D8I,Cytosine Arabisonide 500mg/vial,910.74
+D30E7I,Cytosine Arabisonide 1000mg/vial,2068.0
+D31D8I,Dacarbazine 500mg,1817.18
+D32C1A,Danazol 50mg,16.54
+D33C4A,Danazol 100mg,35.9
+D34B7I,Daunorubicin 20mg injection,432.0
+D35B4I,Doxorubicin 10mg injection,271.0
+D36C1I,Doxorubicin 50mg injection,1196.0
+D37C4A,Etoposide 100mg,92.4
+D38I,Etoposide 100mg/5ml injection,269.2
+D39D1W,Flutamide 250mg,15.22
+D40I,5 Flurouracil 250mg/5ml injection/ml,4.0
+D41C9I,Gemcitabin 200mg,875.77
+D42E7I,Gemcitabin 1000mg,5047.69
+D43I,L-Asparaginase 500KU,1921.38
+D44C1W,Mercaptopurine 50mg,15.75
+D45W,Imatinib 400 tablet,284.0
+D46W,Imatinib 100 tablet,115.17
+D47I,Ifsomide 1gm/2ml,609.26
+D48I,Methotrexate 50mg/ml,58.62
+D49A7W,Methotrexate 2.5mg,8.34
+D50C9I,Mensa 200mg,43.41
+D51B4I,Mitomycin c10mg,702.35
+D52C1I,Oxaliplatin 50mg/vial injection,3498.0
+D53I,Paclitaxel 30mg/5ml,516.18
+D54C1W,Procarbazine 50mg,55.89
+D54C1A,Procarbazine 50mg,55.89
+D55B4W,Tamoxifen 10mg,4.9
+D55B4A,Tamoxifen 10mg,4.9
+D56B7W,Tamoxifen 20mg,7.68
+D56B7A,Tamoxifen 20mg,7.68
+D57I,Vinblastin 10mg/pack injection,452.0
+D58I,Vincristin 1mg/ml injection,85.2
+D59A6W,Melphalan 2mg,191.73
+D59A6A,Melphalan 2mg,191.73
+D60B1W,Melphalan 5mg,321.63
+D60B1A,Melphalan 5mg,321.63
+D61C1W,Azathioprine 50mg,15.45
+D61C1A,Azathioprine 50mg,15.45
+D62B8W,Cyclosporine 25mg,43.71
+D62B8A,Cyclosporine 25mg,43.71
+D63C1W,Cyclosporine 50mg,85.25
+D63C1A,Cyclosporine 50mg,85.25
+D64C4W,Cyclosporine 100mg,187.78
+D64C4A,Cyclosporine 100mg,187.78
+D65I,Cyclosporine 100mg/ml,209.6
+D66A2I,Actinomycin d 0.5mg injection,871.0
+D67I,Alpha Interferon 3 MIU,1342.08
+D68B6I,Bleomycin 15mg,958.93
+D69A6W,Busulphan 2mg,6.03
+D70mS,"Ibuprofen 100mg +Paracetamol 125mg/5ml,60ml",32.0
+D71MW,Tab Paracetamol 500mg +Ibuprofen 400mg,2.0
+D72A6C,Paracetamol  100mg/ml,25.0
+D73AD8,Paracetamol 500mg DT,1.0
+D74hH3,Normal saline 500/540ml Glass Bottle,50.0
+D75hH3,Normal saline 500/540ml Plastic Euro Head,53.0
+D76hH7,Normal saline 1000ml Plastic (Nipple Head),65.0
+D77hH8,Normal saline 1000ml Plastic Euro Head,73.0
+D78hH3,5% Dextrose 500/540ml Plastic (Nipple Head),45.0
+D79hH3,5% Dextrose 500/540ml Glass Bottle,50.0
+D80hH7,5% Dextrose 500/540ml Plastic Euro Head,53.0
+D81hH7,5% Dextrose 1000ml Plastic Nipple Head,65.0
+D82hH8,5% Dextrose 1000ml Plaric Euro Head,73.0
+D83hH3,Dextrose Saline 500/540ml Glass Bottle,50.0
+D84hH3,Dextrose Saline 500/540ml Plastic (Nipple Head),45.0
+D85hH3,Dextrose Saline 500/540ml Plastic Euro Head,53.0
+D86hH8,Dextrose Saline 1000ml  Plastic  Nipple Head,65.0
+D87hH8,Dextrose Saline 1000ml  Plastic Euro Head,73.0
+D88hH3,10% Dextrose 500/540ml Glass Bottle,70.0
+D89hH3,10% Dextrose 500/540ml Plastic (Nipple Head),55.0
+D90hH3,10% Dextrose 500/540ml Plastic Euro Head,63.0
+D91hH8,10% Dextrose Saline 1000ml Plastic (Nipple Head),70.0
+D92hH8,10% Dextrose Saline 1000ml Plastic Euro Head,78.0
+D93hH3,Ringers Lactate 500/540/ml Glass Bottle,70.0
+D94hH3,Ringers Lactate 500/540/ml Plastic Euro Head,63.0
+D95hH8,Ringers Lactate 1000 ml Plastic Nipple Head,75.0
+D96hH8,Ringers Lactate 1000 ml Plastic Euro Head,83.0
+D97G7S,"Albendazole 400mg/10ml,10ml Bottle",18.0
+E1A2B,"Acyclovir 3%,5gm",49.0
+E2B1O,"Acyclovir 5%w/w,5gm",93.0
+E3A3E,"Atropine 1%,5ML",35.0
+E4A3E,"Tropicamide 1%,5ML",60.0
+E5A7E,Timolol Maleate 2.5mg/5ml,35.88
+E6B1E,Timolol Maleate 5mg/5ml,61.39
+E7H4E,Tobramycin Sulphate 0.3%w/v +Dexamethasone Sodium Phosphate 0.1%w/v,42.0
+E8H4E,Polyvinyl alcohol 1.4%+Povidone 0.6%,75.0
+E9B1E,Chloramphenicol 5ML / 5%,35.0
+E10H4E,Chloramphenicol 5%w/v+Lidocaine 2%w/v,50.0
+E11H4E,Chloramphenicol 5mg+polymyxin-B 5000I.U.+ Dexamethasone 1mg,56.0
+E12B1E,"Framycetin 5mg/ml ,5ml",20.0
+E13H4E,Framycetin Sulphate 5mg+ Gramicidin 0.05mg+Dexamethasone sodium  metasulfobenzoate 0.5mg,20.0
+E14G7E,Clotrimazole 10ml,101.0
+E15H4E,"Clotrimazole 1%w/v  +Lidocaine 2%w/v ,10ml",55.0
+E16A1E,Gatifloxacin 0.3%,66.0
+E17B1E,Gentamycin 5ml,13.0
+E18F2B,"Gentamycin 0.2%w/w, 15gm",20.0
+E21H4B,"Gentamycin +Betamethasone+Iodochlorohydroxy quinoline +Clotrimazole,5gm",40.0
+E22H4E,Clotrimazole 1%w/w +Gentamicin Sulphate 0.1%w/w+Beclomethasone Dip.0.025%w/w,143.0
+E23G7E,Moxifloxacin 0.5%w/V(10ml),172.0
+E24H4E,"Neomycin 0.5%w/w+Benzalkolium chloride 0.02%w/v+Betametasone 0.1%w/v+thermosal 0.005%w/w,5ml",15.3
+E25H4E,"Polymicin B sulphate USP 5000units+Becitracin Zinc USP 400units+Neomycin Sulphate IP 3400Units,5gm",35.0
+E26B1E,Norfloxacin 5ml,28.0
+E27H4E,Norfloxacin 0.3%w/v +Benzalkolium chloride 0.01%w/v,22.4
+E28B1E,Ofloxacin 5ml,70.0
+E29G7E,"Ofloxacin 0.3%+Dexamethasone 0.1%,10ml",37.6
+E30F1O,Polymxin B 5gm,31.0
+E31H4E,"Phenylepinephrine HCL IP0.12 w/v%+Naphazoline HCL USP0.05%+Menthol 0.005% w/v+Camphor 0.01 w/v%,10ml",106.0
+E32B1E,"Diclofenac ,5ml",56.0
+E33G5E,"Ketorolac,1ml",32.56
+E34B1E,"Ketorolac 0.04%,5ml",48.22
+E35B1E,"Ketotifen Fumarate 0.5mg,5ml",118.0
+E36A3E,Ketotifen Fumarate 1mg,2.96
+E37B1E,"Pilocarpine 2%,5ml",80.0
+S00001,Canula + IV Set,95.0
+S00002,Cervical collor,290.0
+S00003,Cervical Hard collar,950.0
+S00004,Cervical soft collar,450.0
+S00005,Cotton Roll(Small),30.0
+S00006,Elbow Splint,110.0
+S00008,Insulin needle 26 guaze,2.6
+S00009,Insulin syringe (glass),75.0
+S00010,Knee Cap large,210.0
+S00011,Knee Cap small,125.0
+S00012,Lumber Corset,550.0
+S00013,Lumber Support Belt,850.0
+S00014,Syringe (Disposable) 2.5ml,5.0
+S00015,Syringe (Disposable) 5 ml,5.0
+S00016,Syringes- 10 cc disposable,10.0
+S00017,Syringes- Insulin (Glass),70.0
+S00018,Water for inj. 1 litre,73.0
+S00019,Water for inj. 5 ml amp,2.75
+S00020,Water for inj. 500ml,45.0
+D00001,Acarbose 25mg,8.0
+D00002,Acarbose 50mg,14.0
+D00003,Aceclofenac  100mg,4.0
+D00004,Acetylcystein 600mg,19.85
+D00005,"Acetylcysteine 1g/5mL ,amp.",174.4
+D00006,"Aciclovir 250mg ,10ml",681.0
+D00007,"Adapalene + Clindamycin gel 10gm,Tube",112.5
+D00008,"Adenosine  6mg/2ml , Vial",405.6
+D00009,Alamine (amino acid) 500ml,632.0
+D00010,Alendronate70mg,55.2
+D00011,"Amikacin 500mg ,Vial",120.6
+D00012,"Aminophyllin 250mg/10mL ,amp",32.0
+D00013,"Anti haemorrhoidal ointment 30g,tube",98.0
+D00014,Atenolol 25mg,2.46
+D00015,Atracurium 50mg,208.0
+D00016,"Azithromycin 200mg/5ml ,15ml",71.6
+D00017,"L-Arginine Granules 5 gm (Plain),PKT",52.29
+D00018,"L-Arginine Granules 7.5gm(Combination),Sachet",87.47
+D00019,"Beclomethasone Rotacap(100 mcg./dose),30s",62.06
+D00020,Beclomethasone Nasal Spray,235.43
+D00021,"Benzhexol HCL ,2mg",2.5
+D00022,"Benzole peroxide gel 5% 20gm,Tube",110.82
+D00023,Beta Histine  8mg,7.68
+D00024,"Betamethasone 0.1%w/w  + Neomycin 0.5%w/w+ Chlorocresol 0.1% w/w,Tube",36.56
+D00025,Bromohexine +Terbutaline+Guiafenesin Syrup,45.0
+D00026,Bupivacain 5mg/ml + Sodium Chloride 8mg/ml,122.4
+D00027,"Bupivacain 5mg/ml + Dextrose 80mg/ml,amp",42.13
+D00028,Bupropion SR 150mg,13.6
+D00029,Cholecalciferol  sachet 1gm/60KD,48.24
+D00030,Calcium carbonate 500mg + D3 250mg,5.75
+D00031,Carbimazole 5mg (100 Tablets),334.9
+D00032,Carboprost Tromethine 250mcg,233.85
+D00033,Cefadroxil 500mg,12.0
+D00034,Cefazolin 1 gm,86.73
+D00035,Cefipime  1gm,268.87
+D00036,"Cefixime 50mg/5ml ,60ml",135.0
+D00037,Cefotaxime 1 gm,53.6
+D00038,Cefotaxime 250mg,25.63
+D00039,Cefpodoxime Proxetil DT 200mg,20.16
+D00040,Ceftazidime 1gm,310.36
+D00041,Cefuroxime Axetil 250mg,39.15
+D00042,Cefuroxime Axetil 500mg,57.23
+D00043,Cephalexine  500mg,27.36
+D00044,Chlorhexidine mouth wash 80ml,77.5
+D00045,Chlorodiapoxide 10mg,4.0
+D00046,Chlorodiapoxide 25mg,7.0
+D00047,Chlorpromazine 25mg,0.8
+D00048,Chlorpromazine 50mg/2ml,11.6
+D00049,Chymotrypsin Forte,21.2
+D00050,Cinnarazine Tablet 25mg,5.9
+D00051,"Amoxycillin200mg +Clavulanic acid 28.5mg,30ml,Syrup",84.66
+D00052,"Clindamycin phosphate  15gm ,tube",115.0
+D00053,Clobazam 10mg,14.01
+D00054,Clobazam 5mg,8.36
+D00055,Clobetasol propionate 30g,125.0
+D00056,Clonazepam 25mg,10.0
+D00057,Clonazepam 0.25mg,1.19
+D00058,Clonazepam 0.5mg,4.43
+D00059,Clonidine 100mcg,2.0
+D00060,Clopidogrel 75mg,8.03
+D00061,"Clotrimazole  Mouth paint ,20ml",145.0
+D00062,Cloxacillin 500mg,51.64
+D00063,Clozapine 25mg,3.91
+D00064,Codeine phosphate 15mg,6.55
+D00065,Paracetamol 500mg+Codeine 10mg,7.0
+D00066,Colchicine 0.5mg,4.0
+D00067,Dicyclomin Hcl 30ml,63.3
+D00068,Diethylcarbamazine 100mg,2.03
+D00069,"Digoxin 0.5mg ,amp.",13.62
+D00070,"Diptheria, tetanus 0.5ml, amp",17.28
+D00071,Divalporate sodium 250mg,8.96
+D00072,Divalporate sodium 500mg,15.84
+D00073,Dobutamine 250mg,488.41
+D00074,Paracetamol+Caffeine,3.79
+D00075,"Domperidone ,30ml.",50.0
+D00076,Domperidone  10mg,3.76
+D00077,Donepezil 10mg,18.5
+D00078,Donepezil 5mg,12.5
+D00079,"Dopamine 200mg/5ml ,amp.",51.2
+D00080,Doxofylline 400mg,8.0
+D00081,Duloxetine HCL 20mg,11.84
+D00082,Duloxetine HCL 30mg,16.8
+D00083,Enoxapirin  60mg,924.0
+D00084,Enoxapirin 40mg,671.33
+D00085,"Ephedrine 30mg /ml ,1ml",37.44
+D00086,Ergometrine 0.5mg,24.75
+D00087,Erythopoietin Alfa  2000 IU,744.21
+D00088,Erythopoietin Alfa 4000 IU,1405.0
+D00089,"Fentanyl Citrate 2ml ,Ampoule",68.8
+D00090,Ferric ammonium Citrate Mixture,30.0
+D00091,"Fentanyl Citrate 10ml,Ampoule",232.01
+D00092,Escitalopram 10mg,12.48
+D00093,Escitalopram 5mg,7.2
+D00094,"Esmolol Hcl 10mg/ml ,10ml",368.0
+D00095,"Glycerin Enema, 30ml",69.44
+D00096,Febuxostat 40mg,8.5
+D00097,Fenofibrate 160mg,14.0
+D00098,Fenofibrate  200mg,24.33
+D00099,Fexofenadine HCL 120mg,10.0
+D00100,Fexofenadine HCL 180mg,15.0
+D00101,"Fexofenadine HCL,60ml",100.0
+D00102,Finasteride 5mg,21.44
+D00103,Flavoxate HCL 200mg,15.5
+D00104,Flunarizine Hcl 10mg,5.54
+D00105,Flunarizine Hcl 5mg,3.35
+D00106,"Fluticasone prop.250mcg, 30 Rotacaps",404.81
+D00107,"Fluticasone propionate ,Nasal spray",435.2
+D00108,Fondaparinux 2.5mg,958.37
+D00109,Frusemide 20mg + Spironolactone 50mg,6.0
+D00110,Frusemide 20mg/2ml,6.01
+D00111,Gabapentin 100mg,6.0
+D00112,Gabapentin 300mg,15.0
+D00113,Glibenclamide 5mg,1.73
+D00114,Gliclazide 40mg,4.0
+D00115,Gliclazide 80mg,6.56
+D00116,Glucosamine  500mg,7.44
+D00117,"Glycerin supp,  paed.",6.0
+D00118,"Glycerin supp, adult",15.75
+D00119,Sitagliptin 50mg,24.5
+D00120,Sitagliptin 100mg,27.5
+D00121,Insulin Mixed Preparation  30/70,230.78
+D00122,Insulin Mixed Preparation  50/50,237.29
+D00123,"Insulin ,Regular (NPH), 40IU/ml,10ml",252.07
+D00124,"Insulin, Regular, Pen Device, 100IU/ml, 3ml",400.0
+D00125,Insulin Glulisine 30/70,237.39
+D00126,"Insulin Glargine 100 IU/1ml(Penfill device),3ml",1043.0
+D00127,Griseofulvin 250mg,5.0
+D00128,Griseofulvin 500mg,9.5
+D00129,Lactulose 100ml,193.41
+D00130,Lactulose 200ml,357.63
+D00131,Morphine 15mg,150.8
+D00132,Pethidine 100mg,145.35
+D00133,Pethidine 50 mg,105.0
+D00134,Magnesium Sulphate,16.0
+D00135,"Measles,Mumps,Rubella Vaccine(MMR),1 amp",152.17
+D00136,"Rabies Vaccine ,amp",540.0
+D00137,Japanese Encephalitis Vaccine (Green),1127.52
+D00138,Meningitis  A+C,1475.32
+D00139,Naltrexone 50mg,95.0
+D00140,Naproxen 250mg,3.35
+D00141,Naproxen 500mg,5.55
+D00142,Naproxen SR 750mg,6.95
+D00143,"Naproxen ,60ml",27.52
+D00144,Anti Venom 10ml,1280.0
+D00145,Oxytocin 5 IU,31.0
+D00146,Tamsulosin Hydrochloride  400mcg,13.75
+D00147,Sulphasalazine 500mg,7.0
+D00148,Secnidazole 1gm,36.0
+D00149,Triamcinolone Acetonide 40mg/ml,120.07
+D00150,Triamcinolone Acetonide 10mg/ml,57.2
+D00151,"Vaseline 25g,Jar",23.2
+D00152,Torsemide 100mg,36.0
+D00153,Torsemide 10mg,4.0
+D00154,Torsemide 20mg,8.0
+D00155,"Tramadol 50mg,Amp",28.56
+D00156,Tramadol 50mg,6.78
+D00157,"Glucose 100gm,PKT",35.2
+D00158,"Vitamin B1 B6 B12 , 2ml",15.0
+D00159,"Vitamin E ,400mg",2.38
+D00160,Vitamin K 1 (phytomenadione)10mg/1ml,210.0
+D00161,"Yellow Fever Vaccine, amp",2960.0
+D00162,Ursodeosycholic acid 150mg,18.33
+D00163,Ursodeosycholic acid 300mg,31.75
+D00164,Thiopentone 1gm,125.0
+D00165,Ibuprofen 200mg,0.75
+D00166,Diazepam 5mg,2.0
+D00167,Ketamine 100mg/2ml,50.0
+D00168,Phenytoin 50mg,1.25
+D00169,Phenytoin 100mg,1.9
+D00170,Niclosamide 500mg,15.0
+D00171,Praziquantel 150mg (per Tablet),70.0
+D00172,Praziquantel 600mg (per Tablet),160.0
+D00173,Valproic acid 125mg,3.96
+D00174,Valproic acid 250mg,8.16
+D00175,Valproic acid 500mg,14.56
+D00176,Itraconazole 100mg,30.0
+D00177,Ketoconazole  15gm,62.5
+D00178,Ketoconazole Shampoo 50ml,150.0
+D00179,Finasteride 1mg,3.85
+D00180,Losartan Potassium 50mg+ Hychlorothiazide 12.5mg,11.0
+D00181,Losartan Potassium 25mg+ Hychlorothiazide 12.5mg,9.0
+D00182,"Diclofenac gel,30gm",96.0
+D00183,Vitamin K [menadione]10mg/1ml,12.0
+D00184,"Dicyclomine HCl,20mg",1.25
+D00185,"Dicyclomine HCL +Simethicone,10ml",19.0
+SHSDCP,Performa,500.0
+D00200,Abhyarista 4500ml,175.0
+D00201,Acyclovir DT 800mg Tablet,20.0
+D00202,Aldactone 25mg Tablet,2.0
+D00203,Aldactone 50mg Tablet,4.0
+D00204,Allupurinol 300mg Tablet,14.0
+D00205,"Amikacin 100mg Injection,vial",41.12
+D00206,"Amiodarone (50mg/ml) 3ml Injection,Amp.vial",139.0
+D00207,Amiodarone Hydrochloride 100mg Tablet,11.6
+D00208,Amiodarone Hydrochloride 200mg Tablet,24.0
+D00209,Amisulpride 100mg Tablet,13.0
+D00210,Amisulpride 50mg Tablet,8.0
+D00211,Amitriptyline 75mg Tablet,5.96
+D00212,"Amoxycillin Syrup 125mg/5ml ,90ml",110.0
+D00214,"Ampicillin 250mg ,Injection,vial",20.0
+D00215,Ashokarista 450ml,160.0
+D00216,Ashwagandha Churna 100gm,255.0
+D00217,Avipattikar Churna 100gm,185.0
+D00218,"Azithromycin 500mg ,Injection",315.0
+D00219,Beclomethasone inhaler [200 mcg./dose],445.0
+D00220,Beclomethasone rotacap 200mcg(30cap),82.82
+D00221,Beclomethasonerotacap 400mcg(30cap),144.0
+D00222,Benzhexol 2mg + Trifluoperazine 5mg Tablet,5.04
+D00223,Betahistine Hydrochloride DT  8mg Tablet,4.0
+D00224,Betamethasone 0.1%+Neomyicn Eye drops,40.5
+D00225,Bilwadi Churna 100gm,250.0
+D00226,Bisoprolol 10mg Tablet,6.0
+D00227,Bisoprolol 2.5mg Tablet,3.0
+D00228,Bisoprolol 5mg Tablet,4.0
+D00229,Brimonidine + Timolol 0.5% Eye Drops,435.0
+D00230,Calcirol sachet 1gm (60KD cap),50.4
+D00231,Calcitriol Capsule 0.250mcg,19.0
+D00232,"Calcium gluconate 10% 10 mL amp ,Injection",26.4
+D00233,Carbamazepine CR 200mg Tablet,2.25
+D00234,Carbamazepine CR 300mg Tablet,4.0
+D00235,Carbamazepine CR 400mg Tablet,4.75
+D00236,Cefotaxime 500mg Injection,32.0
+D00238,Cephazoline 500 mg Injection,55.52
+D00239,Chanda Nasi Churna 100gm,250.0
+D00240,ChandraPrava Vati 25gm,175.0
+D00241,Charcoal activated 250mg Capsule,6.0
+D00242,Chitrak Haritaki 90gm,195.0
+D00243,Chloramphenicol 0.5% +Dexamethasone 0.1 % Eye Drops,20.0
+D00244,Chloramphenicol 1% eye Ointment 5g,15.0
+D00245,Chloramphenicol 10mg Polymyxin B 5000IU Ointment,42.0
+D00246,"Chloramphenicol 1g Injection,vial",80.0
+D00247,"Chlordiazepoxide 10mg,Tablet",4.0
+D00248,"Chlordiazepoxide 20mg,Tablet",5.0
+D00249,"Chlordiazepoxide 5mg,Tablet",2.25
+D00250,"Chlorhexidine Gluconate Topical, Lignocaine Topical, and Metronidazole, Ointment",75.0
+D00251,Chloroquine phosphate 250mg Tablet,2.33
+D00252,Chlorzoxazone 250mg+Paracetamol 500mg Tablet,7.0
+D00253,Ciprofloxacin 0.3% +Dexamethasone 0.1 % Eye Drops,15.0
+D00254,Ciprofloxacin 0.3% eye Ointment 5gm,24.0
+D00255,Clindamycin 300mg Capsule,35.31
+D00256,Clindamycin Injection 150mg/ml 2ml amp.,185.0
+D00257,Clomipramine 25mg Tablet,7.5
+D00258,Clomipramine 50mg Tablet,10.56
+D00259,Clotrimazole lotion (Topical Solution) 15ml,120.0
+D00260,Clotrimazole Mouth paint 20ml,190.4
+D00261,Clotrimazole Vaginal (Pessary) 6 Tablet,17.78
+D00262,"Cloxacillin 125mg/5ml , 100ml,Syrup",120.0
+D00263,Clozapine 100mg Tablet,21.3
+D00264,Colistimethate Sodium Injection 1Million IU,1325.0
+D00265,Colistimethate Sodium Injection 2Million IU,2475.0
+D00266,Conjugated Estrogen 0.625mg Tablet,40.0
+D00267,Cotrimoxazole paediatric suspension 50ml,30.0
+D00268,Cyclopentolate eye drop,45.0
+D00269,Darbepoetin alfa Injection 25mcg,2558.0
+D00270,Darbepoetin alfa Injection 40mcg,3062.0
+D00271,Dashmularista 450ml,185.0
+D00272,"Dextrose 25% 25ml Injection,amp.",35.0
+D00273,Dextrose 25% in Glycerine 25ml,75.0
+D00274,Dextrose 5% in 0.45% saline 500ml,70.0
+D00275,"Dextrose 50% 25ml Injection,amp.",44.8
+D00276,Diacerin 50mg Capsule,15.0
+D00277,"Diazepam 10mg/2ml Injection,amp.",35.0
+D00278,Diltiazem 30mg Plain Tablet,3.0
+D00279,Diltiazem Hydrochloride 120mg Tablet,24.8
+D00280,Diltiazem Hydrochloride 90mg Tablet,14.54
+D00281,"Disodium Hydrogren Citrate,100ml",80.0
+D00282,Dorzolamide 2% Eye drops,446.0
+D00283,Drotaverine 40mg Tablet,3.5
+D00284,Drotaverine 80mg Tablet,9.71
+D00285,Escitalopram 20mg Tablet,18.0
+D00286,Esmoprazole 20mg Tablet,6.0
+D00287,Esmoprazole 40mg Tablet,9.64
+D00288,Ethamsylate 500mg Tablet,10.0
+D00289,Febuxostat 80mg Tablet,15.0
+D00290,Ferrous fumarate + folic acid Tablet,1.5
+D00291,Fluconazole 0.3% Eye Drops,76.0
+D00292,Fluconazole 50mg Tablet,12.0
+D00293,Fluconazole lotion 30ml,140.0
+D00294,Fluconazole suspension 50mg/5ml 35ml,120.0
+D00295,Fludrocortisone Acetate 100mcg Tablet,18.0
+D00296,Fluorometholone and Neomycin E/Drop,101.0
+D00297,Fluorometholone 0.1% Eye drop,83.0
+D00298,Flurbiprofen sodium Eye Drop,66.0
+D00299,Flurometholone 0.1% Eye Drop,83.0
+D00300,Folic acid Suspension 0.1mcg/ml 30ml,30.0
+D00301,Fusidic Acid +Betamethasone Cream 10gm,91.2
+D00302,Fusidic Acid Cream 10gm,110.14
+D00303,Glipizide 5mg Tablet,0.7
+D00304,Glycerin ear drops 10ml,50.0
+D00305,"Glyceryl trinitrate 0.2% ,25 g Ointment",500.0
+D00306,"Glycopyrrolate Injection 0.2mg/ml ,1ml",20.0
+D00307,Granisetron 1mg Tablet,9.87
+D00308,Granisetron Injection 1mg/1ml,41.92
+D00309,"Haloperidol 1.5 mg +Trihexyphenidyl 2mg,Tablet",2.5
+D00310,"Haloperidol 5 mg +Trihexyphenidyl 2mg,Tablet",3.5
+D00311,Haloperidol 5mg Tablet,2.5
+D00312,Haloperidol 5mg/ml Injection,10.12
+D00313,"Heparin 25,000 IU/5ml Injection, vial",350.0
+D00314,Heparin Ointment 15 gm,160.0
+D00315,Hepatitis A (adult) vaccine,3350.0
+D00316,HIB Vaccine (Haemophilus influenzae type B vaccine),600.0
+D00317,Hing Wastak Churna 60gm,170.0
+D00318,Hydralazine 20mg Injection.amp,750.0
+D00319,Hydrochlrothiazide 12.5mg Tablet,1.5
+D00320,Hydrocortisone 1% cream/Ointment 10gm,65.0
+D00321,Hydroxychloroquine sulfate 200mg Tablet,10.0
+D00322,Hydroxypropyl methylcellulose eye drop,48.0
+D00323,Imipenem and clastatin 0.5g Injection,1055.0
+D00324,Imipramine 50mg Tablet/Capsule,3.6
+D00325,Indomethacin 75mg SR Tablet,12.0
+D00326,Influenza vaccine 0.5ml,1200.0
+D00327,Ipratropium inhaler [20 mcg/dose],220.0
+D00328,Ipratropium respiratory solution 10ml,59.0
+D00329,Ipratropium Rotacap 40mcg (30cap),86.0
+D00330,Isoprenalin 2mg/2ml Injection amp,70.0
+D00331,Isosorbide dinitrate 10mg Tablet,1.5
+D00332,Isosorbide mononitrate 10mg Tablet,4.5
+D00333,Isosorbide mononitrate 20mg Tablet,9.0
+D00334,Isosorbide mononitrate 5mg Tablet,2.1
+D00335,Itopride 50mg Tablet,7.0
+D00336,Jatyadi Tail 100ml,243.0
+D00337,Kaam Dudha Ras 5gm,120.0
+D00338,Ketamine 500mg/10ml Injection,200.0
+D00339,Ketoralac Tromethamine 10mg Tablet,6.0
+D00340,Labetalol Injection 20mg.4ml,472.0
+D00341,Lactic acid wash 100ml,260.0
+D00342,Lamotrizine 25mg Tablet,3.0
+D00343,L-Arginine Granules 3gm (Amino acid),55.0
+D00344,Latanoprost 0.05% Eye drops,629.0
+D00345,Laxmi Vilas Ras 10gm,120.0
+D00346,L-dopa 100mg + carbidopa 10mg Tablet,2.4
+D00347,L-dopa 250mg + carbidopa 25mg Tablet,5.0
+D00348,Levitirecetam 1000mg Tablet,32.0
+D00349,Levitirecetam 500 mg Tablet,16.0
+D00350,Levocetirizine 5mg Tablet,4.0
+D00351,Levofloxacin 5mg/ml 100ml Infusion,210.0
+D00352,Lidocaine 15% Topical (spray)Aerosol 100gm,350.0
+D00353,"Lidocaine 2% , 50ml Injection,vial",85.0
+D00354,Lidocaine 2% jelly 30g,55.0
+D00355,"Lidocaine 5% heavy 2ml Injection, amp",49.0
+D00356,Lignocaine and Neomycin Ear Drops,75.0
+D00357,Lithium Carbonate 300 mg Tablet,2.48
+D00358,Lithium Carbonate 450 mg Tablet,3.25
+D00359,Loratadine 10mg Tablet,4.0
+D00360,Lorazepam Injection 2mg/ml 2ml,29.0
+D00361,"L-Ornithine L- Aspartate Injection,10ml",454.5
+D00362,L-Ornithine L- Aspartate Tablet,19.52
+D00363,Magaldrate +Simethicone 170ml Suspension,95.0
+D00364,Magnesium Hydroxide +Aluminium Hydroxide 170ml Suspension,80.01
+D00365,Magnesium trisilicate mixture 500 ml,100.0
+D00366,Mahanaran Tail 100ml,225.0
+D00367,Mahasankha Vati 20gm,140.0
+D00368,Mahayog Raj Gugggul 10gm,160.0
+D00369,"Mannitol 20% 100ml ,Injection",85.0
+D00370,Mebeverine Hydrochloride 135mg Tablet,8.5
+D00371,"Medroxy Progesterone Acetate,10mg Tablet",9.69
+D00372,Megestrol Acetate 40mg Tablet,33.44
+D00373,Menthol and Methyl salicylate cream,205.0
+D00374,"Mephentermine Sulphate 300mg, 10ml Injection",322.62
+D00375,Mephentiramine 30mg/1mL 10ml  Injection,320.0
+D00376,Meropenem 1g Injection,1150.0
+D00377,Meropenem 500mg Injection,805.0
+D00378,Mesalamine 400mg Tablet,11.0
+D00379,Mesalazine extended release 1.2g Tablet,40.0
+D00380,"Metformin500mg+Glimepiride 2mg,Tablet",12.52
+D00381,Methyl pred.acetate 40mg/1ml Injection,120.0
+D00382,Methyl pred.acetate 80mg/2ml Injection,145.0
+D00383,Methyl pred.sod.succinate 500mg Injection vial,855.0
+D00384,Methyl pred.sod.succinate.1g Injection vial,1405.0
+D00385,Methylcobalamin 1500mcg Tablet,10.0
+D00386,Methylcobalamin 500mcg Tablet,5.0
+D00387,Methyldopa 250mg Tablet,2.8
+D00388,Methyldopa 500mg Tablet,4.1
+D00389,Metoclopramide 10mg/2ml Injectoion amp,15.0
+D00390,Metoprolol 5mg Injection,28.0
+D00391,Metoprolol succinate XL 12.5mg Tablet,5.04
+D00392,Metoprolol succinate XL 25mg Tablet,7.21
+D00393,Metoprolol succinate XL50mg Tablet,12.3
+D00394,Metoprolol XL 100mg Tablet,20.0
+D00395,Metronidazole +Clotrimazole (8tabs/Pack),105.0
+D00396,"Metronidazole 100mg + Diloxanide Furoate 125mg Syrup,5ml",60.0
+D00397,Metronidazole 200mg Tablet,1.0
+D00398,"Metronidazole 400mg + diloxanide furoate 500mg ,Tablet",4.0
+D00399,Metronidazole 400mg Tablet,2.5
+D00400,Metronidazole 500 mg/100ml Infusion,34.85
+D00401,"Metronidazole Diloxanide Furoate Suspension ,100mg/5ml",55.0
+D00402,Metronidazole+Clotrimazole+Lacticacid bacillus Pessary,85.0
+D00403,Miconazole cream 15 gm,35.0
+D00404,Midazolam 5mg/5ml Injection,50.0
+D00405,Milk of magnesia 170 ml,150.0
+D00406,Mirtazapine 30mg Tablet,24.0
+D00407,Mirtazepine 15mg Tablet,12.2
+D00408,Mirtazepine 7.5mg Tablet,6.5
+D00409,Mometasone Furoate 0.1% Ointment 15gm,100.0
+D00410,Montelukast sodium 10mg Tablet,12.0
+D00411,Montelukast sodium 5mg Tablet,6.0
+D00412,Morphine 10mg amp Injection,95.0
+D00413,Morphine 10mg Tablet,4.5
+D00414,Mupirocin Ointment 5g,105.0
+D00415,Naloxone adult 400mcg/1ml Injection amp,135.0
+D00416,Nasal saline drops,40.0
+D00417,Natamycin 5% Eye /Ear Drop,168.0
+D00418,Neomycin+polymyxin B+ bacitracin  Powder 10gm,60.0
+D00419,Neomycin+polymyxin B+bacitracin  skin Ointment 5gm,40.0
+D00420,Neostigmin 2.5mg/5 ml amp Injection,30.0
+D00421,Nitrofurantion 100mg Tablet,6.0
+D00422,Nitroglycerin 2.6mg(25tabs/bottle),214.72
+D00423,Nitroglycerin 25mg/5ml Injection,65.0
+D00424,Nitroprusside Sodium 50gm Injection,235.0
+D00425,Noradrenaline  2mg/2ml Injection,200.0
+D00426,Norethisterone 5 mg Tablet,8.0
+D00427,Norfloxacin 400mg Tablet,7.0
+D00428,Normal saline (sod. Cl 0.9%) 100ml Plastic,25.0
+D00429,"Nystatin Suspension,30ml",90.0
+D00430,Octreotide 100mcg Injection,850.0
+D00431,Olanzapine 10mg Tablet,9.61
+D00432,Olanzapine 2.5mg Tablet,4.0
+D00433,Olanzapine 5mg Tablet,5.22
+D00434,Olanzapine 7.5mg Tablet,6.5
+D00435,"Ondansetron 2mg/5ml ,30ml Syrup",50.0
+D00436,Ondansetron 4mg Tablet,5.0
+D00437,Ondansetron 8 mg Tablet,10.0
+D00438,Ondansetron 8mg Injection,60.0
+D00439,Ornidazole 500mg Tablet,8.0
+D00440,Ornidazole 500mg/100ml IV,65.0
+D00441,Oxybutinin 2.5mg Tablet,9.0
+D00442,Oxybutinin 5mg Tablet,17.0
+D00443,"Oxymetazoline HCL,Peadiatric nasal drops 0.025% 10ml",79.0
+D00444,Pantoprazole 40mg Injetcion,70.0
+D00445,Paracetamol 300mg/2ml Injection,30.0
+D00446,Paracetamol Injection 1gm/100ml,250.0
+D00447,Paracetamol suppository.125 mg,14.0
+D00448,Penicillin V 250mg Tablet,4.0
+D00449,Pentoxifylline 400mg Tablet,3.63
+D00450,Phenytoin 300mg Tablet,7.0
+D00451,Phenytoin 50mg/ml 2ml amp Injection,20.0
+D00452,"Phosphate solution 1 mmol/ml, 100 ml",50.0
+D00453,Piperacillin 4.5gm Injection,310.0
+D00454,"Piperacillin+Tazobactam 2.25 g,Injection",234.26
+D00455,"Potassium chloride 20meq 10ml, amp Injection",25.0
+D00456,Potassium Chloride mixture 150 ml,50.0
+D00457,Potassium Citrate mixture 150 ml,70.0
+D00458,Potassium permanganate 30 gm,60.0
+D00459,Povidone Iodine Gargle 1% (100ml),104.0
+D00460,Povidone Iodine Ointment 15gm,50.0
+D00461,Povidone iodine Vaginal Pessary,165.0
+D00462,Povidone polyvenyl  eye drops 10ml,75.0
+D00463,Prazosin 1mg Tablet,7.0
+D00464,Prazosin 2.5mg Tablet,10.25
+D00465,Prednisolone 20mg Tablet,6.0
+D00466,Prednisolone acetate 0.1% Eye Drops,127.0
+D00467,Pregabalin 150mg Capsule,20.0
+D00468,Pregabalin 75mg Capsule,12.0
+D00469,Prochlorperazine 12.5mg inj.amp,24.0
+D00470,Prochlorperazine 5mg Tablet,2.1
+D00471,Promethazine Injection 2 ml amp,15.0
+D00472,Promethazine Syrup 100ml.,40.0
+D00473,Propanolol Hydrochloride 10mg Tablet,2.0
+D00474,Propanolol Hydrochloride 20mg Tablet,3.0
+D00475,Propanolol Hydrochloride 40mg Tablet,4.0
+D00476,Propofol 1% 20ml Injection,210.0
+D00477,Propranolol 1mg/1ml Injection,210.0
+D00478,Protamine sulphate 50mg Injection,80.0
+D00479,Psyllium Husk 100g powder,150.0
+D00480,Pushyanug Churna 100gm,128.0
+D00481,Quetiapine 100mg Tablet,6.0
+D00482,Quetiapine 25mg Tablet,2.5
+D00483,Quetiapine 50mg Tablet,4.0
+D00484,Quinine 300mg/5ml ml Injection amp,40.0
+D00485,Rabeprazole 20mg Tablet,10.0
+D00486,Ramipril 2.5mg Tablet,5.0
+D00487,Ramipril 2.5mg+Hydrochlorthiazide 12.5mg Tablet,8.0
+D00488,Ramipril 5mg Tablet,9.0
+D00489,Ramipril 5mg+Hydrochlorthiazide 12.5mg Tablet,13.0
+D00490,Ranitidine 50 mg/2 ml Injection amp,11.0
+D00491,Recuronium bromide 50mg/5ml,440.0
+D00492,Risperidone 1mg Tablet,2.9
+D00493,Risperidone 2mg Tablet,3.5
+D00494,Risperidone 3mg Tablet,4.5
+D00495,Risperidone 4mg Tablet,7.36
+D00496,Rivastigmine 1.5mg Capsule,15.0
+D00497,Rosuvastatin 10mg Tablet,17.0
+D00498,Rosuvastatin 20mg Tablet,28.0
+D00499,Rosuvastatin 5mg Tablet,11.0
+D00500,Rotahaler,145.0
+D00501,Roxithromicin 150mg Tablet,7.0
+D00502,Sadbindu Tail 300ml,160.0
+D00503,"Salbutamol +Bromohexine ,100ml,Expectorant",70.0
+D00504,Salbutamol inhaler [100 mcg/dose],170.0
+D00505,Salbutamol SA 8mg Tablet(i.e.Albuterol extended release),1.35
+D00506,Salbutamol Sulphate 200mcg R/C (30 cap),25.0
+D00507,Salicylic acid Ointment 10% 25gm,45.0
+D00508,Salicylic acid Ointment 5% 25gm,35.0
+D00509,Salisalic Acid Ointment 20% 25gm,60.0
+D00510,Salisalic Acid Ointment 40% 25gm,80.0
+D00511,Salmetorol inhalar 200 puff,220.0
+D00512,Salmetorol Rotacap 50mcg  30 caps,110.0
+D00513,Salmeterol+Fluticasone 250mcg (MDI),1045.0
+D00514,Salmeterol+Fluticasone 250mcg (R/C),548.75
+D00515,S-amlodipine Besilate 2.5mg Tablet,8.06
+D00516,Sankha Bhasma 10gm,60.0
+D00517,Sarpandhandha Vati 25gm,160.0
+D00518,Serratiopeptidase 10mg Tablet,7.0
+D00519,Serratiopeptidase 5mg Tablet,3.5
+D00520,"Sertaconazole Nitrate 2% ,15gm Cream",180.02
+D00521,Sertraline Hydrochloride 100mg Tablet,13.6
+D00522,Sertraline Hydrochloride 25mg Tablet,5.6
+D00523,Sertraline Hydrochloride 50mg Tabet,9.7
+D00524,Silver nitrate 1% solution 1ml,10.0
+D00525,Sirsuladhi Bajra Ras 10gm,120.0
+D00526,Sisomicin cream 15g,40.0
+D00527,Sitagliptin 25mg Tablet,15.0
+D00528,Sitagliptin 50mg+Metformin 1000 Tablet,25.0
+D00529,Sitopaladi Churna 100gm,180.0
+D00530,"Sodium bicarbonate,300mg(100 Tabs/Bottle)",300.0
+D00531,"Sodium bicarbonate,Injection 7.5%(10ml)",32.0
+D00532,Sodium carboxy methyl cellulose 0.5% eye drops,252.0
+D00533,Sodium Cromoglycate 2% Eye Drops,69.0
+D00534,Sodium fluoride 0.2% m/w 150 ml,30.0
+D00535,Sodium fusidate Ointment (10gm),120.8
+D00536,Sodium Nitroprusside 50mg Inj,237.82
+D00537,Sodium valporate 200mg Tablet,4.5
+D00538,Sodium valporate 300mg Tablet,7.0
+D00539,Sodium valporate 500mg Tablet,12.0
+D00540,sodium Valporate CR 200mg Tablet,6.0
+D00541,sodium Valporate CR 500mg Tablet,13.0
+D00542,Sodium valporate Injection 100mg/5ml  5ml,45.0
+D00543,Sodium valproate 200mg /5ml 100ml Syrup,95.0
+D00544,Sodium valproate CR 300mg Tablet,8.0
+D00545,"Streptokinase 1,500,000 IU inj.vial",3755.0
+D00546,Succinylcholine chloride 500mg/10 ml vial,100.0
+D00547,Sucralfate Suspension 500mg(200ml),107.18
+D00548,Suddha Silajeet 50gm,480.0
+D00549,Sumatriptan 50mg Tablet,100.0
+D00550,Sumitriptan 25mg Tablet,65.0
+D00551,Sut sekhar Ras 10gm,190.0
+D00552,Tacromus Ointment 0.03% 10gm,225.0
+D00553,Telmisartan 20mg Tablet,7.25
+D00554,Telmisartan 40mg +Hydrochloride 12.5mg Tablet,15.76
+D00555,Telmisartan 40mg Tablet,10.0
+D00556,Telmisartan 80mg Tablet,19.5
+D00557,Terbinafine Hcl 250mg Tablet,15.0
+D00558,Terbinafine Hcl cream 1% 10gm,125.0
+D00559,Tetanus toxoid 0.5 ml amp,20.0
+D00560,Theophylline  150mg Tablet,1.1
+D00561,Theophylline 400mg Tablet,14.25
+D00562,Thephylline +Etophylline (2ml )Injection,7.6
+D00563,Thiamine (Vitamin B1) Tablet,1.0
+D00564,Thyroxin Sodium 0.025mg Tablet(100tabs),175.0
+D00565,Thyroxin Sodium 0.05mg Tablet(100tabs),180.0
+D00566,Thyroxin Sodium 0.1mg Tablet(100tabs),200.0
+D00567,Thyroxin Sodium 0.75mg Tablet(100tabs),190.0
+D00568,Tinidazole 300mg Tablet,3.5
+D00569,Tiotropium Bromide18mcg(20 caps),395.0
+D00570,Tizanidine 2mg Tablet,5.0
+D00571,Tizanidine 4mg Tablet,10.0
+D00572,Tobramycine 1% Eye Drops,82.0
+D00573,Topiramate 100mg Tablet,15.0
+D00574,Topiramate 25mg Tablet,5.0
+D00575,Torsemide 20mg Injection,30.04
+D00576,Tramadol 37.5+Paracetamol 325mg Tablet,14.0
+D00577,"Tramadol Hcl 100mg2ml ,Injection",35.0
+D00578,Tranexamic acid 500mg Injection,80.0
+D00579,Tranexamic acid 500mg Tablet,15.0
+D00580,Tretinoin cream 0.025% 20gm,115.0
+D00581,Tretinoin cream 0.05% 20gm,135.0
+D00582,Triamcinolone 15g Ointment,45.0
+D00583,Triamsilone 40 mg Injection,144.0
+D00584,Trifala Churna 100gm,75.0
+D00585,"Trifluoperazine 5mg+Trihexyphenidyl 2mg,Tab",2.5
+D00586,Trimetazidin 20mg Tablet,13.0
+D00587,Tropicamide + Phenylephrine eye drop,94.0
+D00588,Typhoid vaccine Injection,480.0
+D00589,Valethamate 8mg Injection amp,28.0
+D00590,Vancomycin 500 mg Injection,612.0
+D00591,"Vasopressin 20units,Injection(1ml)",293.38
+D00592,Vecuronium brom. 4mg/1ml amp Injection,160.0
+D00593,Verapamil 5mg/2ml amp Injection,10.0
+D00594,Vitamin B complex Tablet,1.5
+D00595,Vitamin B1 [thiamine] 75 mg Tablet,3.5
+D00596,"Vitamin B-complex ,Syrup",115.0
+D00597,Voglibose 0.3 mg Tablet,15.0
+D00598,Voglibose(0.2)mg Tablet,11.0
+D00599,Wart paint (salicylic acid) 10 ml,100.0
+D00600,Wax removing drops 10ml,70.0
+D00601,Zinc Acetate solution 1ml,0.5
+D00602,Zinc oxide Ointment 30gm,50.0
+D00603,Zinc sulphate solution 40 ml,25.0
+D00604,Zolpidem 10mg Tablet,10.0
+D00929,LEUCOVORIN CALCIUM INJECTION 50MG,528.0
+D00930,5-FLUROURACIL 500MG INJECTION,30.75
+D00931,ALFUZOSIN 10MG TAB,15.51
+D00932,ALUMINIUM HYDROXIDE MAGNESIUM HYDROXIDE 175ML SYR.,98.72
+D00933,AMLODIPINE 5 MG+ ATENELOL 50MG,4.35
+D00934,AMLODIPINE BESILATE 2.5MG + ATENOLOL 25MG,3.21
+D00935,AMLODIPINE BESILATE 2.5MG + ATENOLOL 50MG,4.0
+D00936,AMLODIPINE BESILATE 5MG + ATENOLOL 25MG,4.4
+D00937,AMLODIPINE BESILATE 5MG + ATENOLOL 50MG,7.0
+D00938,AMLODIPINE BESYLATE 2.5MG + LOSARTAN POTASSIUM 25MG TABLET,9.0
+D00939,AMLODIPINE BESYLATE 5MG + LOSARTAN POTASSIUM 25MG TABLET,12.5
+D00940,ANASTRAZOLE 1MG TABLET,80.66
+D00941,ARIPIPRAZOLE 10MG TAB,12.6
+D00942,ARIPIPRAZOLE 15MG TAB,16.8
+D00943,ATENOLOL50mg +CHLORTHALIDONE 12.5 mg Tablet,3.69
+D00944,ATENOLOL50mg +CHLORTHALIDONE 25 mg Tablet,6.0
+D00945,BACLOFEN  25MG/ TAB,35.2
+D00946,BACLOFEN 10MG TAB,16.0
+D00947,BENDAMUSTINE 100MG INJECTION,10354.0
+D00948,BENZYDAMINE HCL 0.15%W/V / TOPICAL,35.3
+D00949,BENZYDAMINE MOUTH GARGLE,80.0
+D00950,"BETAMETHASONE CREAM 0.1 % ,10 GM",40.0
+D00951,BORTEZOMIB 2MG INJECTION,16056.0
+D00952,BUDECORT 200MCG INHALER,525.74
+D00953,BUDESONIDE 100MCG INHALER,456.0
+D00954,BUDESONIDE 100MCG ROTACAP,115.0
+D00955,BUDESONIDE 200MCG ROTACAP,151.2
+D00956,BUDESONIDE 400MCG ROTA CAP,197.6
+D00957,BUTENAFINE 1% CREAM,110.0
+D00958,BUTENAFINE 1% OINTMENT,150.0
+D00959,BUTENAFINE HCL 1%W/W/ 1 GM/TOPICAL,95.01
+D00960,CALCIUM SUSPENSION,90.0
+D00961,CAPACITABIN 500MG TABLET,225.0
+D00962,CARVEDILOL 3.125MG TAB,6.7
+D00963,CARVEDILOL 6.25MG TAB,7.6
+D00964,CEFACLOR ANHYDROUS 25 MG/ML/LIQUID,107.75
+D00965,CEFADROXIL ANHYDROUS 25 MG/ML/LIQUID,14.0
+D00966,CEFADROXIL MONOHYDRATE 250 MG/ORAL TAB,3.5
+D00967,CEFADROXIL MONOHYDRATE 500 MG/ORAL TAB,6.27
+D00968,CEFADROXIL-125MG DRY/SYRUP,29.0
+D00970,CEFPODOXIME  100MG SYRUP,250.0
+D00971,CEFPODOXIME 50MG SYRUP,170.0
+D00972,CEFPODOXIME DRY /SYRUP 100MG,206.0
+D00973,CEFPODOXIME DRY /SYRUP 50MG,112.0
+D00974,CLOBETASOLE+GENTAMYCIN OINT,150.0
+D00975,CLOBETASOLE+GENTAMYCIN+ MICONAZOLE OINT,55.0
+D00976,CLOBETASOLE+SALISYLIC ACID OINT,142.5
+D00977,CLOMIPRAMINE HYDROCHLORIDE 10MG TAB,4.24
+D00978,CONJUGATED ESTROGEN VAGINAL CREAM,625.0
+D00979,"CROMOLYN SODIUM OPHTHALMIC 5ML,EYE DROP",73.6
+D00980,CYPROHEPTADINE 200ML SYP,115.0
+D00981,DECITABINE 50MG INJECTION,12787.0
+D00982,DEXTROMETHORPHAN+CHLORPHENIRAMINE 100ML SYP,112.0
+D00983,DIETHYLCARBAMAZINE CITRATE 150MG TAB,2.35
+D00984,"DIGESTIVE ENZYMES SYRUP,100ML",100.0
+D00985,DOCETAXEL INJECTION 120MG,24374.0
+D00986,DOCETAXEL INJECTION 20MG,4082.0
+D00987,DOCETAXEL INJECTION 80MG,14752.0
+D00988,DOXORUBICIN HYDROCHLORIDE LIPOSOME INJECTION 20MG,7360.0
+D00989,EBASTINE 10MG,8.0
+D00990,EBASTINE 20MG,10.0
+D00991,EFAVIRENZ 200 MG,1252.91
+D00992,EFAVIRENZ 600 MG,3200.0
+D00993,ENTECAVIR 0.5MG / 10 tablets,1216.0
+D00994,EPIRUBICIN HYDROCHLORIDE INJECTION 10MG,1061.62
+D00995,EPIRUBICIN HYDROCHLORIDE INJECTION 50MG,4373.2
+D00996,ERLOTINIB 100MG TABLET,378.0
+D00997,ERLOTINIB 150MG TABLET,566.0
+D00998,ERYTHROPOETIN ALFA 6000 IU INJECTION,2000.0
+D00999,ETORICOXIB 90MG TAB,19.0
+D01000,EXEMESTANE 25MG TABLET,531.0
+D01001,FERROUS ASCORBATE+FOLIC ACID TABLET,11.0
+D01002,FILGRASTIM INJECTION 300MCG,2120.0
+D01003,FLUCLOXACILLIN 125MG DRY /SYRUP,185.0
+D01004,FLUTICASONE RESPULES,64.8
+D01005,FORMETEROL 6MCG + BUDESONIDE 100MCG INHALER,365.04
+D01006,FORMETEROL 6MCG + BUDESONIDE 100MCG ROTACAPS,195.2
+D01007,FORMETEROL 6MCG + BUDESONIDE 200MCG ROTACAPS,304.0
+D01008,FORMETEROL 6MCG + BUDESONIDE 400MCG ROTACAPS,382.4
+D01009,FORMOTEROL AND BUDESONIDE ROTA CAP 200,304.0
+D01010,FORMOTEROL AND BUDESONIDE ROTA CAP 400,382.0
+D01011,GEFETINIB 250MG TABLET,249.0
+D01012,GRISEOFULVIN 125MG TABLET,3.0
+D01013,HALOBATOSOLE GENTAMYCIN OINTMENT,150.0
+D01014,HYDROCORTISONE 0.5% CREAM/10GM,50.0
+D01015,HYDROQUINONE CREAM,150.0
+D01016,IPRATROPIUM BROIMIDE 40MCG,103.2
+D01017,IPRATROPIUM BROIMIDE 500MCG,7.89
+D01018,"IPRAVENT NEB SOLUTION, 250 MCG/ML",65.0
+D01019,IRINOTECAN INJECTION 100MG,3545.0
+D01020,IRINOTECAN INJECTION 40MG,1975.0
+D01021,IRON 15ML DROP,75.0
+D01022,IRON 200ML SYP,109.5
+D01023,IRON POLYMALTOSE TAB,9.0
+D01024,IRON SUCROSE 100MG INJ,418.0
+D01025,ISOPRENALINE 1 MG/ML,57.4
+D01026,ISOSORBIDE DINITRATE/5MG/TAB,0.8
+D01027,ISOTRETINOIN 10MG CAP,18.0
+D01028,ISOTRETINOIN 20MG CAP,27.0
+D01029,IVERMECTIN 6MG DT TAB,20.0
+D01030,LAMIVUDINE 100MG,160.06
+D01031,LAMIVUDINE 150MG,173.6
+D01032,LANSOPRAZOLE 30MG/CAP,6.9
+D01033,LETROZOL 2.5MG TABLET,19.0
+D01034,LEVODOPA 200 MG + CARBIDOPA 50 MG TABLET,3.53
+D01035,LEVODROPROPIZINE 100ML SYRUP,100.0
+D01037,LINAGLIPTIN 5MG TAB,16.0
+D01038,LIVER TONIC 450ML,246.0
+D01039,LOSARTAN POTASSIUM and AMLODIPINE 27.5MG TAB,6.0
+D01040,LOSARTAN POTASSIUM and AMLODIPINE 50MG TAB,9.0
+D01041,Amlodipine +Losartan Potassium (5/50),10.85
+D01042,LOSARTAN POTASSIUM 50 MG+HYDROCHLORTHIAZIDE  25MG TAB,11.0
+D01043,LOSARTAN POTASSIUM 50MG +HYDROCHLORTHIAZIDE 12.5 MG TAB,7.0
+D01044,MEBENDAZOLE 100mg Tab,27.42
+D01045,MEBENDAZOLE SYP,36.8
+D01046,MECOBALAMIN 1500MG TAB,18.0
+D01047,MECOBALAMIN 500MG TAB,8.0
+D01048,MEMANTINE 5MG,12.0
+D01049,METFORMIN HCL SR 1000MG+GLIMPIRIDE 1MG TAB,10.56
+D01050,METFORMIN HCL SR 1000MG+GLIMPIRIDE 2MG TAB,13.36
+D01051,METFORMINE 500MG + GLEMIPRIDE 1MG,7.1
+D01052,METHOTREXATE 500MG INJECTION,917.0
+D01053,METHYLPREDNISOLONE 4MG TAB,5.5
+D01054,MOMETASONE NASAL SPRAY,493.1
+D01055,MORPHINE 10 MG SR TAB,6.0
+D01056,Mycophenolate mofetil 250,48.01
+D01057,MYCOPHENOLATE MOFETIL 500MG TABLET,65.0
+D01058,N-ACETYL CYSTEINE 600MG,32.0
+D01059,NEBIVOLOL 2.5MG TAB,6.0
+D01060,NEBIVOLOL 5MG TAB,10.0
+D01061,URINARY ALKALIZER (INCLUDING AYURVEDIC) SYRUP 200ML,320.0
+D01062,URINARY ALKALIZER (INCLUDING AYURVEDIC) TAB,3.0
+D01063,NITROFURANTOIN 50 MG TAB,5.0
+D01064,NITROGLYCERIN OINT,150.0
+D01065,OLMESARTAN 20MG,14.96
+D01066,OLMESARTAN 40MG,24.96
+D01067,"OMEPRAZOLE  INJECTION 40MG,VIAL",48.0
+D01068,ONDANSETRON 4MG INJ,30.0
+D01069,OXCARBAZEPINE 150MG TAB,8.16
+D01070,PACLITAXEL INJECTION 100MG,4421.0
+D01071,PACLITAXEL INJECTION 260MG,10224.0
+D01072,PACLITAXEL NANOPARTICLE INJECTION 100MG,10295.0
+D01073,PACLITAXEL NANOPARTICLE INJECTION 300MG,26810.0
+D01074,PACLITAXEL NANOPARTICLE INJECTION 30MG,4242.0
+D01075,PARACETAMOL +PHENYLEPHEDRINE+CHLORPHENIRAMINE MALEATE PAED.SYRUP,75.0
+D01076,PARACETAMOL+PHENYLEPHRINE+CHLORPHENIRAMINE 100ML  Adult SYP,91.0
+D01077,PARACETAMOL+PHENYLEPHRINE+CHLORPHENIRAMINE TAB,3.0
+D01078,PEGFILGRASTIM INJECTION 6MG,5115.0
+D01079,PEMETREXATE 100MG INJECTION,1454.0
+D01080,PEMETREXATE 500MG INJECTION,6034.0
+D01081,PHENOXYMETHYL PENICILLIN 250MG TAB,5.0
+D01082,PNEUMOCOCCAL VACCINE 13S INJECTION,6000.0
+D01083,"POLYVINYL ALCOHOL,POVIDONE AND CHLORBUTOL 10ML EYE DROP",101.76
+D01084,PRAZOSIN EXTENDED RELEASE TABLET 5MG,16.0
+D01085,PRE AND PROBIOTIC CAP,15.9
+D01086,PRE AND PROBIOTIC DRY/SYRUP,151.0
+D01087,PROGESTERONE 200MG CAP,48.7
+D01088,RITUXIMAB 100MG INJECTION,10192.0
+D01089,RITUXIMAB 500MG INJECTION,51966.0
+D01090,"SALBUTAMOL NEB SOLUTION, 5 MG/5 ML",24.0
+D01091,SALBUTAMOL RESPIRATORY SOLUTION,17.2
+D01092,SALBUTAMOL RESPIRATORY SOLUTION IN RESPULE,6.4
+D01093,SALBUTAMOL SUSTAINED RELEASE TAB 8MG/TAB,1.4
+D01094,SILDENAFIL CITRATE 25MG TABLET,20.0
+D01095,SITAGLIPTIN 50MG+METFORMIN 850MG,24.0
+D01096,SORAFENIB 200MG TABLET(120 Tabs),12500.0
+D01097,SUCRALFATE TAB/ 1G,3.65
+D01098,SULBACTAM+CEFOPERAZONE 1.5MG INJECTION,310.0
+D01099,SULBACTAM+CEFOPERAZONE 3 MG INJECTION,480.0
+D01100,SUNITINIB 50MG TABLET,3600.0
+D01101,TAB CALCIUM DOBISILATE 500MG,14.5
+D01102,TAB CARVEDILOL 12.5MG,6.77
+D01103,TAB CARVEDILOL 3.125MG,2.8
+D01104,TAB CARVEDILOL 6.25MG,5.75
+D01105,TAB CINNARIZINE 25MG,5.27
+D01106,TAB FRUSEMIDE 20MG,0.52
+D01107,TAB FRUSEMIDE 40MG+AMILORIDE 5MG,2.22
+D01108,TAB NIFEDIPINE SR 20MG,3.5
+D01109,TAB PRAZOSIN XL 5MG,15.48
+D01110,TAB REPAGLIMIDE 1MG,6.76
+D01111,TAB REPAGLIMIDE 2MG,9.25
+D01112,TACROLIMUS 0.5MG TABLET,32.0
+D01113,TACROLIMUS 1MG TABLET,55.0
+D01114,TAMSULOSIN HYDROCHLORIDE  200MCG CAPSULE,7.5
+D01115,TEMOZOLAMIDE 100MG TABLET,2060.0
+D01116,TEMOZOLAMIDE 250MG TABLET,4425.0
+D01117,TERAZOSIN HYDROCHLORIDE 2MG TAB,12.0
+D01118,TERBUTALINE+BROMHEXINE 100ML SYP,130.0
+D01119,TINIDAZOLE INFUSION 400ML,65.0
+D01120,VERAPAMIL HYDROCHLORIDE 120 MG SR,4.66
+D01121,VITAMIN B1+B6+B12 TAB,3.5
+D01122,VITAMIN B-COMPLEX INJECTION,6.0
+D01123,ZOLEDRONIC ACID INJECTION 4MG,2046.0
+D01124,Cefixime 400mg,14.0
+D01125,"Insulin 30/70 100IU/1ml(Penfill device) ),3ml",511.0
+D01126,"Insulin 50/50 100IU/1ml(Penfill device)),3ml",550.0
+D01127,Ketoconazole Shampoo 100ml,194.0
+D01128,Levodopa 100mg+Carbidopa 25mg,3.5
+D01129,Thyroxin 12.5(120 tab),268.5
+D01130,Thyroxin 75mcg(120 tab bottle),267.9
+D01131,Thyroxin 25mcg(120 tabs),265.8
+D01132,Thyroxin 50mcg(120 tabs),231.2
+D01133,Thyroxin100mcg(120 tabs),253.5
+D01134,Torsemide 40mg,9.0
+D01135,Empagliflozin 5mg,22.0
+D01136,Empagliflozin 10 mg,38.0
+D01137,Empagliflozin 25mg,55.0
+D01138,Telmisartan 40mg +Amlodipine 5mg,12.5
+D01139,Tiotropium Bromide18mcg(30 caps),510.0
+D01140,Amoxycillin+Clavulanic acid 228.5mg/5ml Dry Syrup (60ml),140.0
+S00021,3 way connector (3-way cannula),10.0
+S00022,Ankle binder - large/medium/small/XL,310.0
+S00023,Anti-embolism above knee stocking large/medium,1360.0
+S00024,Arm sling strap,155.0
+S00025,Arm sling-large/medium/small,245.0
+S00026,Cannula fixator large,25.0
+S00027,Cannula fixator medium,20.0
+S00028,Cannula fixator small,15.0
+S00029,Cervical collar soft- S,200.0
+S00030,Crepe bandage - 4 inch,100.0
+S00031,Crepe bandage - 6 inch,150.0
+S00033,Extended forearm splint- XL/L/M/S,210.0
+S00034,Finger splint all size,75.0
+S00035,Frog splint- L/M/S,70.0
+S00037,IV cannula,45.0
+S00038,Knee brace long- XL/L/M/S,620.0
+S00039,Plaster of paris -4 inch,60.0
+S00040,Plaster of paris -6 inch,80.0
+S00041,Shoulder immobilizer- XL/large/medium/small,350.0
+S00042,Supporting walking cane/ white stick,1000.0
+S00043,Wrist and forearm splint,480.0
+S00044,Wrist splint right/left – large,220.0
+S00045,Wrist splint right/left - medium,205.0
+Ser24,Ring Pessary per unit,150.0
+S00032,Crutches,1000.0

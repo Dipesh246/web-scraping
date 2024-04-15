@@ -1,0 +1,160 @@
+1: {'title': 'MWC Bluetooth 5.3 TWS Air Buds Mini | Full Touch Control | ENC | 20Hrs Full Volume Playback | 1px4 Water, Dust And Sweat Resistant | Colorful SO'}
+2: {'ratings': '4.2/5'}
+1: {'title': 'MWC Bluetooth 5.3 TWS Air Buds Mini | Full Touch Control | ENC | 20Hrs Full Volume Playback | 1px4 Water, Dust And Sweat Resistant | Colorful SO'}
+2: {'ratings': '4.2/5'}
+3: {'title': 'Ultima Atom 192 Bluetooth Truly Wireless Earbuds With Mic, 42H Playtime, Beast Mode(Low Latency 60Ms) For Gaming, Enx Tech, Asap Charge, Iwp, Ipx4'}
+4: {'ratings': '4.2/5'}
+5: {'title': 'Ryte T10 Wireless Earbuds 6 Months Warranty | IPX4 | 20 Hours Real Playtime | 200 Days Replacement Guarentee'}
+6: {'ratings': '4.4/5'}
+7: {'title': 'Ultima Atom 520 Pro Earbuds With 45Hrs Playtime| Game Mode(60ms)| Quad Mic| IPX5 Rated| Loud Sound & Deep Bass| Type-C Charging Port Wireless Earbuds'}
+8: {'ratings': '4.2/5'}
+9: {'title': 'Kick Newly Launched ANC Buds S Classic Vita Truly Wireless in-Ear Earbuds | ANC Earbuds | 30H Playtime | Quick Charge | 13mm Driver | BT v5.3'}
+10: {'ratings': '4.2/5'}
+11: {'title': 'Kick Buds S Pro V 2.0 Truly Wireless in-Ear Earbuds with ANC (Upto 42dB) | 32H Playtime | Quick Charge (10 min= 250min) | 10mm Driver | BT v5.3'}
+12: {'ratings': '4.3/5'}
+13: {'title': 'Daewoo Excite101 Earbuds | 15 Months Warranty | 60 Hrs Playtime | Extra Bass | Fast Charge | Type-C | ENC | IPX5'}
+14: {'ratings': '4.4/5'}
+15: {'title': 'Ultima Atom 820 Earbuds With 25Hrs Playtime | Fast Charging | 13MM Drivers | IPX5 Sweat Proof | ENC Noise Cancellation Bluetooth Wireless Earbuds'}
+16: {'ratings': '4.1/5'}
+17: {'title': 'Asta WOLF Sleek Wireless Earbuds + Charging Case | ENC | Movie Mode | 60ms Low Latency | 24Hrs Full Volume Playback | Water Resistant'}
+18: {'ratings': '4.2/5'}
+19: {'title': 'Airbuds Pro Wireless Charging Case Powerful Sound'}
+20: {'ratings': '4.3/5'}
+21: {'title': 'I12 Pods Wireless Earbuds'}
+22: {'ratings': '3.7/5'}
+23: {'title': 'M10 Wireless TWS Earbuds Version 5.1 and Above'}
+24: {'ratings': '3.5/5'}
+25: {'title': 'Gravity AIRSHOT 250 TWS Environmental Noise Cancellation Wireless Earbuds'}
+26: {'ratings': '4.4/5'}
+27: {'title': 'Gravity Airshot Bassbuds PRO | 40 Hrs Playback | ENC | Bluetooth 5.3 | Quad Mic'}
+28: {'ratings': '4.5/5'}
+29: {'title': 'Asta WOLF Rock Gaming Earbuds | 13mm Drivers | Dual Mic ENC | Immersive Sound Quality | Ergonomic Design | 50 ms Low Latency | IPX4 Water Resistant'}
+30: {'ratings': '4.3/5'}
+31: {'title': 'Ryte A20 Wireless Earbuds With Mic | IPX4 | 20 Hours Real Playtime | 200 Days Replacement Guarantee'}
+32: {'ratings': '4.4/5'}
+33: {'title': 'PlayGo T20 Ultralight Wireless Earbuds With ENC Environmental Noise Reduction and EBEL Drivers | HD Call Quality | Sensory Controls | 6 Month Warranty'}
+34: {'ratings': '4.8/5'}
+35: {'title': 'Airbud4 Pro Wireless Top Selling'}
+36: {'ratings': '3.6/5'}
+37: {'title': 'Ryte T1 Wireless Earbuds | IPX4 | 20 Hours Real Playtime | 200 Days Replacement Guarantee'}
+38: {'ratings': '4.2/5'}
+39: {'title': 'M19 TWS Wireless Bluetooth Earbuds 5.1 With Mini Power Bank'}
+40: {'ratings': '3.7/5'}
+41: {'title': 'Airbuds Pro Powerful Sound'}
+42: {'ratings': '3.5/5'}
+43: {'title': 'Airbuds Pro 2 Wireless Charging Case Powerful Sound'}
+44: {'ratings': '4.6/5'}
+45: {'title': 'M19 BT Wireless V5.3 Newest Digital Indicator'}
+46: {'ratings': '5/5'}
+47: {'title': 'White Color Bluetooth Enabled Anc Earbuds Pro'}
+48: {'ratings': '4/5'}
+49: {'title': 'M10 TWS Bluetooth Wireless Earbuds With Mini Power Bank'}
+50: {'ratings': '3.6/5'}
+51: {'title': 'Hbq I7 Tws Twins Mini Wireless Earbuds'}
+52: {'ratings': '3.8/5'}
+53: {'title': 'TWS EarPods Pro 2 2nd Genaration Wireless Bluetooth Earbuds with Charging case'}
+54: {'ratings': '4.5/5'}
+55: {'title': 'M19 Earbuds TWS Wireless Bluetooth 2 Hour Charging Time 15hrs Back Up Glossy Finish'}
+56: {'title': 'Airbud4 Pro Wireless'}
+57: {'ratings': '3.6/5'}
+58: {'title': 'Pro4 Bluetooth 5.0 Wireless Earbuds'}
+59: {'ratings': '3.8/5'}
+60: {'title': 'RC Ultra Pods Bluetooth 5.3 Earbuds Stereo Touch Control With Flash Light'}
+61: {'title': 'Wireless Charging Case Earbuds Pro Powerful Sound'}
+62: {'ratings': '5/5'}
+63: {'title': 'M10 TWS Wireless Earbuds Sports Waterproof Touch Control LED Display Bass Wireless Earbuds M10'}
+64: {'ratings': '3.5/5'}
+65: {'title': 'TWS L21 The Best Budget Wireless Earbuds'}
+66: {'ratings': '3.4/5'}
+67: {'title': 'M19 TWS Wireless Bluetooth 5.1'}
+68: {'ratings': '3.3/5'}
+69: {'title': 'M19 ProTWS Wireless Bluetooth 5.1'}
+70: {'ratings': '2.5/5'}
+71: {'title': 'M19 TWS Wireless Bluetooth | Charging Time 2 Hours | Play Time 15 Hours | Digital Indicator'}
+72: {'ratings': '3.6/5'}
+73: {'title': 'Tws Wireless Twins Bluetooth Earbud'}
+74: {'ratings': '3.5/5'}
+75: {'title': 'M19 Tws Wireless Bluetooth 5.3 Earbuds Stereo Touch Control With Flash Light In Case Phone Charging'}
+76: {'ratings': '3.6/5'}
+77: {'title': 'Daewoo Excite101 Earbuds | 15 Months Warranty | 60 Hrs Playtime | Extra Bass | Fast Charge | Type-C | ENC | IPX5'}
+78: {'ratings': '4.3/5'}
+1: {'title': 'MWC Bluetooth 5.3 TWS Air Buds Mini | Full Touch Control | ENC | 20Hrs Full Volume Playback | 1px4 Water, Dust And Sweat Resistant | Colorful SO'}
+2: {'ratings': '4.2/5'}
+3: {'title': 'Ultima Atom 192 Bluetooth Truly Wireless Earbuds With Mic, 42H Playtime, Beast Mode(Low Latency 60Ms) For Gaming, Enx Tech, Asap Charge, Iwp, Ipx4'}
+4: {'ratings': '4.2/5'}
+5: {'title': 'Ryte T10 Wireless Earbuds 6 Months Warranty | IPX4 | 20 Hours Real Playtime | 200 Days Replacement Guarentee'}
+6: {'ratings': '4.4/5'}
+7: {'title': 'Ultima Atom 520 Pro Earbuds With 45Hrs Playtime| Game Mode(60ms)| Quad Mic| IPX5 Rated| Loud Sound & Deep Bass| Type-C Charging Port Wireless Earbuds'}
+8: {'ratings': '4.2/5'}
+9: {'title': 'Kick Newly Launched ANC Buds S Classic Vita Truly Wireless in-Ear Earbuds | ANC Earbuds | 30H Playtime | Quick Charge | 13mm Driver | BT v5.3'}
+10: {'ratings': '4.2/5'}
+11: {'title': 'Kick Buds S Pro V 2.0 Truly Wireless in-Ear Earbuds with ANC (Upto 42dB) | 32H Playtime | Quick Charge (10 min= 250min) | 10mm Driver | BT v5.3'}
+12: {'ratings': '4.3/5'}
+13: {'title': 'Daewoo Excite101 Earbuds | 15 Months Warranty | 60 Hrs Playtime | Extra Bass | Fast Charge | Type-C | ENC | IPX5'}
+14: {'ratings': '4.4/5'}
+15: {'title': 'Ultima Atom 820 Earbuds With 25Hrs Playtime | Fast Charging | 13MM Drivers | IPX5 Sweat Proof | ENC Noise Cancellation Bluetooth Wireless Earbuds'}
+16: {'ratings': '4.1/5'}
+17: {'title': 'Asta WOLF Sleek Wireless Earbuds + Charging Case | ENC | Movie Mode | 60ms Low Latency | 24Hrs Full Volume Playback | Water Resistant'}
+18: {'ratings': '4.2/5'}
+19: {'title': 'Airbuds Pro Wireless Charging Case Powerful Sound'}
+20: {'ratings': '4.3/5'}
+21: {'title': 'I12 Pods Wireless Earbuds'}
+22: {'ratings': '3.7/5'}
+23: {'title': 'M10 Wireless TWS Earbuds Version 5.1 and Above'}
+24: {'ratings': '3.5/5'}
+25: {'title': 'Gravity AIRSHOT 250 TWS Environmental Noise Cancellation Wireless Earbuds'}
+26: {'ratings': '4.4/5'}
+27: {'title': 'Gravity Airshot Bassbuds PRO | 40 Hrs Playback | ENC | Bluetooth 5.3 | Quad Mic'}
+28: {'ratings': '4.5/5'}
+29: {'title': 'Asta WOLF Rock Gaming Earbuds | 13mm Drivers | Dual Mic ENC | Immersive Sound Quality | Ergonomic Design | 50 ms Low Latency | IPX4 Water Resistant'}
+30: {'ratings': '4.3/5'}
+31: {'title': 'Ryte A20 Wireless Earbuds With Mic | IPX4 | 20 Hours Real Playtime | 200 Days Replacement Guarantee'}
+32: {'ratings': '4.4/5'}
+33: {'title': 'PlayGo T20 Ultralight Wireless Earbuds With ENC Environmental Noise Reduction and EBEL Drivers | HD Call Quality | Sensory Controls | 6 Month Warranty'}
+34: {'ratings': '4.8/5'}
+35: {'title': 'Airbud4 Pro Wireless Top Selling'}
+36: {'ratings': '3.6/5'}
+37: {'title': 'Ryte T1 Wireless Earbuds | IPX4 | 20 Hours Real Playtime | 200 Days Replacement Guarantee'}
+38: {'ratings': '4.2/5'}
+39: {'title': 'M19 TWS Wireless Bluetooth Earbuds 5.1 With Mini Power Bank'}
+40: {'ratings': '3.7/5'}
+41: {'title': 'Airbuds Pro Powerful Sound'}
+42: {'ratings': '3.5/5'}
+43: {'title': 'Airbuds Pro 2 Wireless Charging Case Powerful Sound'}
+44: {'ratings': '4.6/5'}
+45: {'title': 'M19 BT Wireless V5.3 Newest Digital Indicator'}
+46: {'ratings': '5/5'}
+47: {'title': 'White Color Bluetooth Enabled Anc Earbuds Pro'}
+48: {'ratings': '4/5'}
+49: {'title': 'M10 TWS Bluetooth Wireless Earbuds With Mini Power Bank'}
+50: {'ratings': '3.6/5'}
+51: {'title': 'Hbq I7 Tws Twins Mini Wireless Earbuds'}
+52: {'ratings': '3.8/5'}
+53: {'title': 'TWS EarPods Pro 2 2nd Genaration Wireless Bluetooth Earbuds with Charging case'}
+54: {'ratings': '4.5/5'}
+55: {'title': 'M19 Earbuds TWS Wireless Bluetooth 2 Hour Charging Time 15hrs Back Up Glossy Finish'}
+56: {'ratings': None}
+57: {'title': 'Airbud4 Pro Wireless'}
+58: {'ratings': '3.6/5'}
+59: {'title': 'Pro4 Bluetooth 5.0 Wireless Earbuds'}
+60: {'ratings': '3.8/5'}
+61: {'title': 'RC Ultra Pods Bluetooth 5.3 Earbuds Stereo Touch Control With Flash Light'}
+62: {'ratings': None}
+63: {'title': 'Wireless Charging Case Earbuds Pro Powerful Sound'}
+64: {'ratings': '5/5'}
+65: {'title': 'M10 TWS Wireless Earbuds Sports Waterproof Touch Control LED Display Bass Wireless Earbuds M10'}
+66: {'ratings': '3.5/5'}
+67: {'title': 'TWS L21 The Best Budget Wireless Earbuds'}
+68: {'ratings': '3.4/5'}
+69: {'title': 'M19 TWS Wireless Bluetooth 5.1'}
+70: {'ratings': '3.3/5'}
+71: {'title': 'M19 ProTWS Wireless Bluetooth 5.1'}
+72: {'ratings': '2.5/5'}
+73: {'title': 'M19 TWS Wireless Bluetooth | Charging Time 2 Hours | Play Time 15 Hours | Digital Indicator'}
+74: {'ratings': '3.6/5'}
+75: {'title': 'Tws Wireless Twins Bluetooth Earbud'}
+76: {'ratings': '3.5/5'}
+77: {'title': 'M19 Tws Wireless Bluetooth 5.3 Earbuds Stereo Touch Control With Flash Light In Case Phone Charging'}
+78: {'ratings': '3.6/5'}
+79: {'title': 'Daewoo Excite101 Earbuds | 15 Months Warranty | 60 Hrs Playtime | Extra Bass | Fast Charge | Type-C | ENC | IPX5'}
+80: {'ratings': '4.3/5'}

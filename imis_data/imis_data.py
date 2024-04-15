@@ -7,6 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import requests
 # from pandas import DataFrame as df
 from bs4 import BeautifulSoup
+import re
 
 chrome_options= Options()
 # chrome_options.add_argument("--headless")
@@ -27,8 +28,19 @@ login_button.click()
 response = requests.get("https://imis.hib.gov.np/AutoCompleteHandlers/AutoCompleteHandler.ashx?_=1706267067891")
 if response.status_code == 200:
     main_dg_data = response.json()
-    
-    with open("main_dg_data,json","w") as json_file:
+
+    for icd in main_dg_data:
+        icd['ICDCode'] = icd.pop('ICDID')
+        match = re.match(r'^(\S+)\s(.+)$', icd["ICDNames"])
+        if match:
+            icdcode = match.group(1)
+            icdname = match.group(2)
+        
+        icd['ICDCode'] = icdcode
+        icd['ICDNames'] = icdname
+        
+
+    with open("main_dg_data.json","w") as json_file:
         json.dump(main_dg_data, json_file,indent=4)
 
     print("data inserted successfully.") 
@@ -80,7 +92,7 @@ add_button.click()
 #     print("service_data file created")
 
 item_input= WebDriverWait(browser, 10).until(
-    EC.presence_of_element_located((By.ID,"Body_gvService_txtServiceCode_0"))
+    EC.presence_of_element_located((By.ID,"Body_gvItems_txtItemCode_0"))
 )
 item_input.click()
 
