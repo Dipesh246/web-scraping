@@ -1,1364 +1,1316 @@
 Code,Name,Price
-OPD 1,OPD PHC,100
-OPD 2,OPD Hospital,200
-EMR 1,Emergency Hospital,400
-IPD 92,Mammectomy / Mastectomy,18000
-PO12,ECHO,1050
-PRO02,Cyst aspiration,3134
-PRO03,Upper Gastro-Intestinal Endoscopy (UGI),1000
-PRO04,Fracture Reduction (cast/ POP),2000
-PRO07,Coronary Angiography,12000
-PO07,CT scan (Abdomen/Pelvis) plain,5000
-LO1,Gram stain,56
-LO2,KOH/india ink fungal Microscopy,70
-LO6,Blood CS (Conventional),200
-LO7,Urine CS,200
-LO8,Stool CS,200
-LO9,"Respiratory specimen (Sputum, throat swab, bronc. lavage, fluid) CS",190
-LO10,Pus CS,200
-LO11,"Body Fluid (CSF, Ascitic, Peritoneal, bile )CS",200
-LO12,Urethral / vaginal swab CS,200
-LO13,HIV (RDT) (when not covered by program),300
-LO14,HbsAg(RDT),200
-LO15,HCV(RDT),265
-LO16,RPR(RDT),95
-LO17,TPHA,230
-LO136,Dengue(RDT) when not covered by Programe,800
-LO19,Brucellosis(Latex),325
-LO20,Widal(Salmonella agglutination),100
-LO21,Leptospira (RDT),400
-LO22,Influenza RDT(if covered by Program),0
-LO23,Urine Pregnancy TesT,100
-LAB21,Bl grouping,50
-LO26,Cross Match,100
-LO27,Rheumatoid Factor,100
-LO28,AntiStrep.O antibody (titre)/ASO,200
-LO29,CRP,160
-LO30,Blood sugar Fasting(OPD),0
-LO33,Uric acid,95
-LO34,SGOT,120
-LO35,SGPT,120
-LO36,Alkaline phosphatase (ALP),123
-LO37,Billirubin T/D,100
-LO39,S. Albumin,100
-LO40,S. Amylase,200
-LO41,S. Urea,90
-LO42,S. Creatinine,100
-LO44,Total Cholesterol,150
-LO45,HDL,150
-LO46,LDL,150
-LO47,Triglyceride,150
-LO48,24 hr Ur protein,160
-LO49,Sodium (NA),150
-LO51,Total Count,0
-LO52,DC,0
-LO53,HB,0
-LO54,ESR,35
-LO55,RBC,35
-LO56,Platelet Count,50
-LAB48,Aldehyde,25
-LAB49,ME Periferal  smear,50
-LO63,HbA1C,500
-LO64,PT/INR,180
-LO65,BT,35
-LO68,Pap reporting,315
-LO69,FNAC procdure and reporting,510
-LO70,CPK,215
-LO71,CKMB,330
-LO73,Ft3,308
-LO74,Ft4,308
-LO75,TSH,308
-LO76,CA 125,1055
-LO77,PSA,800
-LO78,Troponin I (Qualitative),715
-LO79,Hep E (RDT),630
-LO80,Packed Cell Volume (PCV),50
-LO81,Histopatho Minor,600
-LO82,Histopatho Major,1500
-LO84,S. Calcium,200
-LO85,S. Magnesium,300
-LO86,CSF routine biochem (Protein/sugar),171
-LO87,H. Pylori (RDT),646
-LO88,Mountox,60
-LO89,Occult Blood,60
-LO90,ABG per Parameter,100
-LO91,Anti CCP,1050
-LO92,Reticulocyte count,125
-EMRPHC,Emergency PHC,100
-E01,Refraction test(Eye OPD),0
-E02,Slit Lamp examination(Eye OPD),0
-E03,Eye Pressure examination(Eye OPD),0
-E04,Eye Dryness examination(Eye OPD),0
-E05,Foreign body removal from eye(Eye OPD),0
-EMR 2,Emergency Eye Hospital,175
-LO24,Blood grouping (Emergency),0
-LO25,Blood grouping general,50
-LO3,Stool RE(OPD),0
-LO31,Blood Sugar PP(OPD),0
-LO32,Blood sugar Random(EMER),0
-LO38,Liver function test (pannel),460
-LO4,Urine RE(OPD/EMR),0
-LO43,Lipid Profile,600
-LO5,CSF RE,100
-LO50,Potassium (K),150
-LO57,MCH,30
-LO58,MCV,30
-LO59,MCHC,30
-LO60,Absolute count,50
-LO61,Aldehyde test,95
-LO62,Comment on Periferal  smear,100
-LO66,CT,35
-LO67,APTT,290
-LO72,TFT,900
-LO83,Routine Cytology stain/report,425
-OPD 3,OPD Eye Hospital,140
-PO08,USG Abdomen,600
-PO09,X-Ray,150
-PO10,ECG general,200
-PO11,ECG (Emergency),0
-E07,Color Vision,200
-E08,"Orthoptic Screening (PBCT, WFDT)",300
-E09,Optical biometry,396
-E10,Probing,2500
-EO6,Eye (Visual Field Series),2000
-L0135,Stool RE/ME,40
-L0137,Blood Sugar F,60
-L0138,S. Creatinine (EMR),0
-L0139,HIV CD4 COUNT,100
-L0140,HIV VIRAL LOAD,100
-L0141,MALARIA RDT,250
-L0142,KALAZAR K39 RDT,300
-L0143,INFLUENZA RDT/PCR,1320
-L018,Dengue(RDT) when covered by Programe,0
-LO100,Urobillinogen/prophobillinogen,40
-LO101,Urine Acetone,50
-LO102,Pnenytoin level,600
-LO103,GTT (Glucosetolerance),240
-LO104,S lipase,332
-LO105,Urine microalbumin,460
-LO106,Eosinophil count,160
-LO107,TORCH,2000
-LO108,Vitamin D,1500
-LO109,Vitamin B12,1000
-LO110,Ca153,1025
-LO111,Alphafetoprotein,900
-LO112,Beta HCG,800
-LO113,Serum cortisol,990
-LO114,Creatinine clearance,390
-LO115,Sickling test,70
-LO116,Total Protein,130
-LO117,S Gamma GT,105
-LO118,S Globulin,150
-LO119,A/G ratio,105
-LO120,Bone marrow aspiraion,317
-LO121,Bone marrow report,350
-LO122,ANA,525
-LO123,Anti-DNA,525
-LO124,Cyticercosis,550
-LO125,Folic acid,300
-LO126,Parathyroid Hormone,500
-LO127,Ferritin,500
-LO128,Testesterone,650
-LO129,Leutinizing(LH),650
-LO130,FSH,500
-LO131,Troponin I Quantitative,1200
-LO132,Blood CS Bactec,700
-LO133,Histopatho Intermediate,1000
-LO134,S phosphorus,185
-LO99,LDH,310
-RADO1,"USG (Eye, Neck, Throat, Hand, Soft Tissue) A Scan",600
-RADO12,CT (abdomen/pelvis) plain,5000
-RADO13,CT (abdomen/pelvis) contrast,6000
-RADO14,CT (head) without contrast,3500
-RADO15,CT (head) with contrast,4500
-RADO16,CT(Other:cervical spine/ KUB/joint/neck etc ),6000
-RADO19,CT guided FNAC,3500
-RADO2,plain X Ray (10x12/ 14X17),150
-RADO20,Coronary angiography,12000
-RADO21,Renal angiography,8000
-RADO22,EEG,1080
-RADO23,Sigmoidoscopy (general),1500
-RADO24,Bronchoscopy(general),2000
-RADO25,ENT endoscopy,600
-RADO26,Barium meal/swallow,1500
-RADO3,CR X Ray Small (8X10/10X12),200
-RADO4,X-ray single view(hand/foot),300
-RADO5,X-ray double view(hand/foot),450
-RADO6,X-ray double  view(Spine),550
-RADO7,X-ray Chest,500
-RADO8,X-ray triple view(spine),600
-RADO9,Dental X ray,100
-Ser08,Suturing major under LA/service,1040
-Ser09,Spirometry,550
-Ser10,Audiometry,325
-Ser11,TMT,1500
-Ser20,Spectacles,1000
-Sur01,Minor Surgery,2500
-Sur02,Intermediate Surgery,5000
-Sur03,Major surgery,10000
-LO144,Adenosine deaminase (ADA) Test,575
-LO1444,D-dimer,400
-LO145,Hemoglobin electrophoresis,550
-LO146,Protein Electrophoresis (serum/urine),195
-LO147,Serum Iron profile,1100
-LO148,Serum Lithium,559
-LO149,Anti TPO (Thyroid peroxidase) antibody,1650
-LO150,HCV/HIV/HBsAg ELISA,200
-LO151,Immunohistochemistry (per marker),1500
-LO152,Thyroglobulin Antibody,2640
-LO153,Bone Marrow Biopsy,1700
-LO154,Bone Marrow Test (with Aspiration),950
-LO155,LE Cell,90
-LO156,C-peptide,2200
-LO157,Estradiol,500
-LO158,Growth Hormone,700
-LO159,Progesterone,650
-LO160,Prolactin Hormone,550
-LO161,Serum Inhibin,2000
-LO162,Serum insulin,2000
-LO163,Carcinoembryonic antigen (CEA),730
-LO164,Beta 2 Microalbumin (tumour marker),3150
-LO165,"Other Tumour markers (CA 19.9, Vimentin, Desmin, S100 etc.) – per marker",1067
-LO166,Flow Cytometry (Per marker),1200
-RAD030,Thyroscan/ Parathyroid scan,4500
-RAD031,Colour Doppler,950
-RAD032,Urethrogram /cystogram,360
-RAD033,Intravenousurogram(IVU),1900
-RAD034,MRCP Urethrograph,5000
-RAD035,Myelogram (cervical/whole length),2000
-RAD036,Fistulogram,1170
-RAD037,T-tube Cholangiogram,1250
-RAD038,MRCP (Magnetic Resonance Cholangiopancreatography),5000
-RAD039,ERCP (Endoscopic Retrograde Cholangiopancreatography),4000
-RAD040,ERCP with procedures,9000
-RAD041,Colposcopy,1225
-RAD042,Hysteroscopy,750
-RAD043,Fluoroscopy,100
-RAD044,Retrograde pyelography/Urethrography,950
-RAD045,Percutaneous Nephrogram,950
-RAD046,HIDA scan,6500
-RAD047,MUGA Scan,1500
-RAD048,Mammogram(unilateral),875
-RAD049,Sialography,650
-RAD050,NPL (laryngoscopy),700
-RAD051,Lymphocytography,5000
-RAD052,DTPA/DMSA Scan,6500
-RAD053,"MRI Group A (Brain, Spine, body organs) Segment",4500
-RAD054,MRI Full organ (Spine/brain etc)without Contrast,8500
-RAD055,MRI single (extrimities /joints) with contrast,8500
-RAD056,MRI Group D (Screening for tumour),13000
-RAD057,Transvaginalsonography,600
-RAD058,Saline Sonohysterogram,1200
-RAD059,Fluorosceine Angiography,3000
-RAD60,USG B Scan,500
-RAD061,Cardiotocogram (CTG),275
-RAD062,Uroflowmetry,500
-RAD063,Urodynamic evaluation,6000
-MD01,Nebulization per episode,100
-MD02,Speech therapy per session,150
-MD03,Physiotherapy per sitting,150
-MD04,Phototherapy per sitting,200
-MD05,Oxygen Charge/per hour,30
-MD06,PAC(Post abortion Medical care),500
-MD07,Blood /Blood component  per unit,800
-MD08,Physiotherapy  package  1 week (level1),875
-MD09,Posterior Nasal Packing,1200
-MD10,Physiotherapy package  1 week (level2),1750
-MDP101,Poisoning  Emergency Management package,2000
-MDP201,Snakebite Medical Management,3000
-MDP202,Acute appendicitis (Medical management),3000
-MDP203,Renal calculi medical management,3000
-MDP204,Cellulitis ( Medical  Management with minor dressing),3000
-MDP205,Ante-natal Care package (Medical Management),3000
-MDP206,Sickle cell/Aplastic Anemia (Medical Management/ blood transfusion),3000
-MDP207,Acute Nephritis(Medical Management),3000
-MDP301,Acute Gastroenteritis ( Medical  Management ),4000
-MDP302,BPH (Benign prostrate hyperplasia) medical package,4000
-MDP303,Conversion disorder (Medical Management),4000
-MDP304,Rheumatoid Arthritis(Medical Management),4000
-MDP305,Thalassemia (Medical Management including Blood transfusion),4000
-MDP306,Nephrotic Syndrome(Medical Management),4000
-MDP401,Malnutrition (Medical Management),5000
-MDP402,Diarrhoea (Medical Management),5000
-MDP403,Neonatal care (basic care package),5000
-MDP404,Diabetic Cellulitis (Medical Management including minor dressing),5000
-MDP405,Anaemia (Medical Management including blood transfusion),5000
-MDP406,Avastin Injection  3rd,5000
-MDP407,Normal delivery,5000
-MDP409,Abdominal pain,5542
-MDP501,Cholera (Medical Management),6000
-MDP502,Dysentery(Medical Management),6000
-MDP503,"Wound/ Abscess requiring inpatient care (including I andD, dressing)",6000
-MDP504,Puerperal sepsis Management package,6000
-MDP601,Severe depression (Medical management),7000
-MDP602,Hypovolumeic shock management package,7000
-MDP603,Acute Hepatitis (Medical Management),7000
-MDP604,Avastin Injection 1st and 2nd dose,7000
-MDP701,"Trauma and Injuries (medical management including blood transfusion, dressing, oxygen etc.)",8000
-MDP702,Severe Pneumonia Medical Management Adult package,8000
-MDP703,Typhoid and Paratyphoid Fevers (Medical Management.),8000
-MDP704,Hospitalization package for medical management of Zoonotic/ Vector Borne infections,8000
-MDP705,Acute Respiratory Distress Syndrome (ARDS) (Medical management without ICU/CCU care),8000
-MDP706,Viral hemorrhagic fever Medical Management,8000
-MDP707,Complicated Urinary Tract Infection (Medical Management),8000
-MDP708,Acute Cholecystitis (Medical  Management ),8000
-MDP709,Dengue/ Dengue Hemorrhagic Fever (Medical Management /Blood Transfusion),8000
-MDP710,Neonatal care (special care package),8000
-MDP711,Fever of Unknown Origin (FUO)(Medical Management),8000
-MDP712,Meningitis  (Medical Management),8000
-MDP801,Hydrocephalus medical management package,9000
-MDP802,Asthma (Medical Management),9000
-MDP901,Diabetes mellitus (Hospitalization for blood sugar control)package,10000
-MDP902,Severe Pneumonia Medical Management Pediatric package,10000
-MDP903,Chronic Obstructive Pulmonary Disease (COPD) (Medical Management including oxygen),10000
-MDP904,Burn less than 30% Body surface area  (Medical Management including dressing),10000
-MP1001,Pneumothorax medical management package,12000
-MP1002,Myocardial Infarction (Medical management where CCU care not available)(MI) : Level l,12000
-MP1101,Pyogenic Liver abscess (Including Aspiration/ Drainage),14000
-MP1102,Hypertensive Emergency  Urgency (Medical Management),14000
-MP1103,Bipolar disorder (Medical Management),14000
-MP1201,Diabetes mellitus related complications management package,16000
-MP1202,Paralytic syndromes/stroke Medical management  package,16000
-MP1301,Atherosclerotic Vascular Disease CCU care(AVD),18000
-MP1302,Epilepsy adult (Medical Management),18000
-MP1303,Epilepsy pediatric (Medical Management),18000
-MP1501,Congestive Cardiac Failure(CCF) (CCU care included),22500
-MP1602,Schizophrenia (Medical management),25000
-MP1701,Upper Gastrointestinal bleeding (Medical mgmt including blood transfusion/ injection octreotide),30000
-MP1901,Severe Septicemia (Medical Management/ including ICU care ),40000
-MP2001,Myocardial Infarction(package with CCU care included) : Level ll,45000
-MP101,ICU/CCU/NICU (Per day),3000
-MP102,Hospitalization per day general bed (Per day),2000
-CS01,Aortic Valve Balloon Dilation (AVBD) (Balloon Extra),45000
-CS02,Atrial Septal Defect (ASD) Device Closure,55000
-CS03,Balloon Septosotomy (Balloon Extra) (with contrast),6000
-CS04,Patent Ductus Arteriosus (PDA) Device Closure,20000
-CS05,Pericardiocentesis (Except Aspiration Catheter),3500
-CS06,Pulmonary Artery Thrombectomy / Embolectomy (with catheter),34000
-CS07,Ventricular Septal Defect (VSD) Device Closure (with contrast),55000
-CS08,Permanent Pacemaker Implantation (Pacemaker Generator Extra),20000
-CS09,Epicardial Pacemaker Insertion,7000
-CS10,Single Pacemaker insertion,10000
-CS11,Dual Pacemaker insertion,18000
-CS12,Programming Single Pacemaker,400
-CS13,Programming Dual Pacemaker,1000
-CS14,External C Pap Care,150
-CS15,EP Study,10000
-CS16,EP/Ablation Type A (with contrast),45000
-CS17,EP/Ablation Type B (with contrast),60000
-CS18,ABP Monitoring,1400
-CS19,Ambulatory BP Monitoring (ABPM),1000
-CS20,Ankle Brachial Index (ABI),800
-CS21,Bilateral Limb Arterial Doppler,3500
-CS22,Bilateral Limbs Venous Doppler,3000
-CS23,Carotid Doppler,1500
-CS24,External C pap Care For 24 Hours,130
-CS25,Holter Monitoring,1300
-CS26,Insertion Of Arterial Line,65
-CS27,Insertion Of Swan gauge Catheterization,925
-CS28,Left Heart Catheterization Including Contrast,12000
-CS29,Renal Doppler,3500
-CS30,Right Heart Catheterization (Oxymetry Extra) with contrast,12000
-CS31,Single Limb Arterial Doppler,2000
-CS32,Single Limb Venous Doppler,1800
-CS33,Stress ECHO,2000
-CS34,TEE (Transesophageal Echocardiography),1500
-CS35,Tilting Table Test,1200
-CS36,Umbilical Artery Doppler,1800
-CA01,Radiotherapy per fraction unit,800
-CA02,Radio Therapy Full Course (X30 Fraction),24000
-CA03,"Chemotherapy Per Day (Day Care + Bed charges+ surgical supplies, Medicine Extra)",700
-CA04,Brachytherapy per episode,8500
-CA05,"Hospice (Palliative) Care per day (Inclusive of Bed charge, Nursing care, Surgical supplies)",500
-SPM01,Dressing minor,65
-SPM02,Dental extraction simple per unit,120
-SPM03,Urinary Catheterization (Procedure only),225
-SPM04,Stitch Removal/Dressing major,250
-SPM05,Eye Suture Removal Under LA,300
-SPM06,Dental extraction (difficult) per unit,300
-SPM07,Dental filling (composite) per unit,350
-SPM08,Incision and drainage abscess (small),450
-SP109,Urinary Bladder - Intravesical BCG/Mitomycin instillation,500
-SP110,Electric Cautery,500
-SP111,Suprapubic/Pleural/other body fluid aspiration,500
-SP112,Laceration repair Minor/Suturing Minor,500
-SP114,USG guided drainage procedure,650
-SP115,Surgical extraction (dental) per unit,670
-SP116,Foreign body removal (eye/ear/throat) simple,700
-SP201,Intra-Articular Steroid injection (including steroid medicine),850
-SP202,Ganglion aspiration and steroid injection (Including steroid medicine),850
-SP203,Penis-Intralesional injection for Pyronies disease,850
-SPM09,Incision and drainage abscess (Large),900
-SP301,Fallopian tube- Hydrotubation,1000
-SP302,Fallopian tube- Insufflation LA,1000
-SP303,Vagina-Vault Thread Removal,1000
-SP304,Eye lid; Stye/Lid Abscess Drainage,1000
-SP305,Impacted tooth/molar (LA) package,1000
-SP306,Cryotherapy/service,1000
-SP307,Laceration repair Major/Suturing Major,1000
-SPM10,Fracture reduction POP cast minor/slab,1200
-SPM11,Ear Lobe repair,1500
-SPM12,Examination under IV sedation,1500
-SPM13,Uterus-Endometrial Biopsy LA,1500
-SPM14,Cyclocryo Therapy/Electro Epilation,1500
-SPM15,Corneal Scrapping,1500
-SPM16,Eye: Macular Grid Laser (One eye),1500
-SPM17,I and D LA,1750
-SPM18,Secondary suturing LA,1750
-SMI101,Burr Hole for Subdural/Ventricular puncture,2000
-SMI102,Secondary suturing LA,2000
-SMI103,Kidney-Antegradepyelogram,2000
-SMI104,Prostate-Prostatic biopsy (Finger guided),2000
-SMI105,Cervix-Cervical Biopsy LA,2000
-SMI106,Cervix-Cervical Polypectomy LA,2000
-SMI107,Perineum-1st and 2nd degree Tear Old LA,2000
-SMI108,Uterus-Dilatation and Curettage LA,2000
-SMI109,Vagina- Hymenectomy LA,2000
-SMI110,Vagina-Bartholin Abscess IandD LA,2000
-SMI111,Vagina-Biopsy Vulva/Vagina LA,2000
-SMI112,Vagina-Excision of bartholin cyst LA,2000
-SMI113,Vagina-Vaginal Wall Cyst Removal LA,2000
-SMI114,Simple Caste in OT(cast extra)/Fracture reduction intermediate(below knee/elbow) including cast,2000
-SMI115,Penis-Aspiration and irrigation for priapism,2000
-SMI116,Conjunctiva Plasty/Suturing,2000
-SMI117,Eye: Prophylactic Laser (One Eye),2000
-SMI118,Corrective cast,2000
-SMI119,Epidural Block,2000
-SMI120,Foot Fracture Fixation LA,2000
-SMI121,K-wire Removal,2000
-SPM19,Colonoscopy,2500
-SPM20,Hemorrhoid banding,2500
-SPM21,Cervix-Cryosurgery,2500
-SPM22,Cystoscopy (with DJ removal /biopsy),2500
-SPM23,Urethra-Retrograde Urethrogram (RGU) +Micturating Cystourethrogram (MCUG),2500
-SPM24,Eye Retina Yag Laser,2500
-SPM25,Perioral sinus excision LA,2550
-SPM26,Papilloma excision simple LA,2550
-SPM27,Muscle biopsy LA,2550
-SPM28,Mucous retention cyst LA,2550
-SPM29,Ingrowing toenail excision unilateral LA,2550
-SPM30,Granuloma excision LA,2550
-SPM31,Ganglion excision LA,2550
-SPM32,Frenuloplasty LA,2550
-SPM33,Foreign body exploration LA,2550
-SPM34,Fibroma excision LA,2550
-SPM35,Dermoid cyst excision LA,2550
-SPM36,Hip Spica,2550
-SPM37,"Fracture reduction POP cast major (long leg, above elbow, above knee)",2550
-SPM38,Steinmann pin For Fracture fixation,2550
-SPM39,Urethra-Excision of urethral caruncle,2550
-SPM40,Urethra-Urethral dilation LA,2550
-SPM41,Anal- Seton change IVA,2625
-SPM42,Adrenal - Adrenalectomy Open,2700
-SPM43,Urethra-Meatotomy,2720
-SPM44,Urinary Bladder - SPC insertion LA,2750
-SPM45,Chalazion Surgery,2800
-SMI201,Prostate-Prostatic biopsy (RURS guided),3000
-SMI202,Urethral Dilation LA,3000
-SMI203,Cervix-Electric Cauterization of Cervix LA,3000
-SMI204,Cervix-McDonald suture LA,3000
-SMI205,Uterus-Suctino Evacuation for Molar Pregnancy IVA,3000
-SMI206,Urinary Bladder - SPC insertion under USG guidance,3000
-SMI207,Eye Probing Under LA,3000
-SMI208,F.B. In Corneal Stroma Deep,3000
-SMI209,Cystoscopy  LA,3000
-SMI210,Vas-Vasectomy,3000
-SPM46,Cisternal Puncture  (OPD procedure),3400
-SPM47,Sebaceous cyst excision single LA,3400
-SPM48,Lymphnode excision biopsy LA,3400
-SPM49,lipoma excision single LA,3400
-SPM50,Corn sole excision LA,3400
-SPM51,Vas-Vasoepididymostomy (Microsurgery)LA,3400
-SPM52,Cervix-LEEP LA,3500
-SPM53,Uterus-Hysterosalpingograph (HSG),3500
-SPM54,Vagina-Marsupilization of Bartholin cyst,3500
-SPM55,DJ removal LA,3500
-SPM56,Lid Laceration Repair  Small,3500
-SPM57,Eye Suture Removal Under GA,3500
-SPM58,Dacryocystectomy (DCT),3600
-SPM59,I and D SA,3600
-SPM60,Sigmoidoscopy with biopsy/polypectomy,4000
-SPM61,Cervix-Conization Ketamine and others,4000
-SPM62,Fallopian tube- Hydrotubation Ketamine and others,4000
-SPM63,Uterus-Diagnostic Hysteroscopy LA,4000
-SPM64,Post Abortion Care (PAC) with MVA,4000
-SPM65,Eye : Canthoplasty,4000
-SPM66,Sebaceous cyst excision multiple LA,4250
-SPM67,Papilloma excision multiple LA,4250
-SPM68,Lipoma excision multiple LA,4250
-SPM69,Ingrowing toenail excision bilateral LA,4250
-SPM70,Hemorrhoid banding,4250
-SPM71,Gynaecomastia excision unilateral LA,4250
-SPM72,Comprehensive Abortion Care (CAC) LA,4250
-SPM73,Foot- MTP/IP Joints Dislocations,4250
-SPM74,Hand- MCP/IP Joints Dislocations,4250
-SPM75,Shoulder/Elbow Dislocation (traction/arm sling),4250
-SPM76,Penis-Dorsal Slit for paraphimosis,4250
-SMI301,Cleft Lip (Revision) LA,4500
-SMI302,Testis-Testicular biopsy percutaneous,4500
-SMI303,Urinary Bladder - SPC insertion SA,4500
-SMI304,Eye Cyst Removal(Big/Small),4500
-SMI305,I and D GA,4500
-SPM77,Colonoscopy with biopsy/polypectomy,5000
-SPM78,Cervix-Shirodhker Suture LA,5000
-SPM79,Lid Tumor Excision With Reconstruction  Small,5000
-SPM80,Eye Probing Under GA,5000
-SPM81,Testicular biopsy LA,5100
-SPM82,Root Block,5100
-SPM83,Contracture Release with Z Plasty LA,5100
-SPM84,Dermabrasion /Chemical Peel LA,5100
-SPM85,Tongue Tie Release LA,5100
-SPM86,Trigger Finger Release LA,5100
-SPM87,Urethra-Meatoplasty,5100
-SPM88,Debridement and Closure(LA) package,5200
-SPM89,Secondary suturing GA,5400
-SPM90,Vagina- Le Forte LA,5400
-SPM91,Foot Fracture Fixation SA,5400
-SPM92,Urethra-Urethral dilation SA,5400
-SPM93,Perineum-3rd Degree Tear Acute,5500
-SPM94,Uterus-Hysteroscopy with Biopsy,5500
-SPM95,Endoscopic Variceal banding,5500
-SPM96,Eye Evisceration,5500
-SPM97,Eye lid: Entropion Surgery,5500
-SPM98,Anterior Vitrectomy,5750
-SMI401,Examinaiton under Anesthesia (EUA),6000
-SMI402,Penis-Frenuloplasty,6000
-SMI403,Epidural Anesthesia in labor,6000
-SMI404,EUA + Cervical Biopsy or Endometrial biopsy,6000
-SMI405,EUA + Cystoscopy,6000
-SMI406,Eye lid: Ectropion Surgery,6000
-SMI407,Lid Laceration Repair  Large,6000
-SMI408,ICG Angiogram,6000
-SMI409,Corneal Repair  Simple,6000
-SMI410,Conjunctiva: Pterigium Surgery,6000
-SMI411,Glaucoma: Peripheral Iridotomy (PI),6000
-SMI412,Burr Hole(s) for EVD placement,6000
-SMI413,Amputation digital SA,6000
-SMI414,Implant Plate Removal SA (large bones),10000
-SMI415,Toes and Finger Arthrodesis SA/Regional block,6000
-SMI416,Cleft Lip Bilateral LA,6000
-SMI417,Cystoscopy (Rigid) Caudal block,6000
-SMI418,Cystoscopy SA,6000
-SMI419,DJ removal SA,6000
-SMI420,Assisted Delivery (Vacuum/Forceps);,6000
-SPM99,Cervix-LEEP Ketamine,6500
-SPM100,Dilation and Curettage (D and C),6549
-SPM101,Squint Surgery  1 muscle,6700
-SPM102,DJ stenting LA,6750
-SPM103,Hernia repair unilateral LA,8750
-SPM104,CSF Shunt Removal (OPD procedure),6800
-SPM105,Umbilical hernia repair LA,6800
-SPM106,Gynaecomastia excision bilateral LA,6800
-SPM107,Evisceration (EVS) for hydrocele LA,6800
-SPM108,CRPP (Small Joints),6800
-SPM109,Implant removal Simple,6800
-SPM110,Surgical Release (Trigger/DQ release),6800
-SPM111,Tendon Repair Intermediate,6800
-SPM112,Tendon Repair Minor,6800
-SPM113,Excision of Cutaneous Lesion and SSG or FTSG LA,6800
-SPM114,Facial Laceration Suturing (Simple) LA,6800
-SPM115,Minor Lip procedure LA,6800
-SPM116,Orocutaneous Fistula Closure with Flaps LA,6800
-SPM117,Polydactyli Correction Single LA,6800
-SPM118,Skin Grafting Raw Area LA,6800
-SPM119,Tendon Repair (Single) LA,6800
-SPM120,Conjunctival Laceration Repair,7200
-SPM121,Debridement GA,7200
-SPM122,Debridement SA,7200
-SPM123,Re-Exploration Laparotomy,7200
-SPM124,Neurorrhaphy with Nerve Graft,7200
-SPM125,Cervix-Cervical Biopsy GA/Ketamine,7200
-SPM126,Cervix-Electric Cauterization of Cervix GA,7200
-SPM127,Uterus-Dilatation and Curettage GA,7200
-SPM128,Uterus-Endometrial Biopsy GA,7200
-SPM129,Vagina-Excision of Bartholin cyst GA,7200
-SPM130,Anterior Transposition of Ulnar Nerve GA/Regional Block,7200
-SPM131,Elbow - ( Epicondyle/Condyle Fracture) Epiphyseal Excision Regional Block,7200
-SPM132,Finger/Toes Fracture ORIF Regional block,7200
-SPM133,Hips Dislocation MUA and Traction Ketamine,7200
-SPM134,Contracture Release with Multiple Z plasty GA,7200
-SPM135,Electrical Burns Fasciotomy GA,7200
-SPM136,Excision of Granulation Tissue Escharectomy Or Debridement GA Small,7200
-SPM137,Pedicled Flap Detachment Major or Minor GA/LA,7200
-SPM138,Tongue Tie Release GA,7200
-SPM139,Trigger Finger Release GA,7200
-SPM140,Cystoscopy (Rigid) GA,7200
-SPM141,Kidney-Percutaneous Nephrostomy (PCN) placement LA,7200
-SPM142,Penis-Circumcision GA,7200
-SPM143,Circumcision /phimosis LA,7225
-SPM144,Dacrocystorhinostomy (DCR) surgery,7500
-SPM145,Eye Evisceration With Implant,7500
-SPM146,Epigastric hernia repair LA,7650
-SPM147,Foot Toes Debridement Repair Regional Block,7650
-SPM148,Hand Carpal Tunnel Release LA/Regional block,7650
-SPM149,Tendon Grafting LA,7650
-SPM150,Pharyngeal Abscess package(including Drainage),8000
-SPM151,breast lump excision single LA,8075
-SPM152,Breast- Ganaecomastia GA,8100
-SPM153,Biopsy Orthopaedic GA/SA,8100
-SPM154,Decompression Septic Arthritis/Osteomyelitis,8100
-SPM155,Foot Toes Debridement Repair SA,8100
-SPM156,Implant Removal Nail  SA (large bones),11500
-SPM157,Toes and Finger Arthrodesis GA,8100
-SPM158,Contracture Release with Skin Grafting GA,8100
-SPM159,"Foreign body removal under GA(airway, esophageal)",8153
-SPM160,Neuroplasty and/or Transposition of Median Nerve at Carpal Tunnel(OPD procedure),8500
-SPM161,"Neuroplasty, Major Peripheral Nerve(OPD procedure)",8500
-SPM162,Femoral hernia mesh repair,8500
-SPM163,Perineum-3rd Degree Tear Interval,8500
-SPM164,Polydactyli Correction Multiple LA,8500
-SPM165,Pneumatic Retinopexy,8500
-SPM166,Intraocular Foreign Body,8500
-SPM167,Corneal Repair  Complicated,8500
-SPM168,Vulva-Evacuation of Vulvar hematoma GA,8550
-SMI501,Excision of Neuroma,9000
-SMI502,Esophageal Dilatation GA,9000
-SMI503,CAC GA,9000
-SMI504,Cervix-Cervical Polypectomy GA,9000
-SMI505,Ankle Ligament Tear Repair Sa,9000
-SMI506,Elbow - ( Epicondyle/Condyle Fracture) Epiphyseal Fixation GA,9000
-SMI507,External Fixators,9000
-SMI508,Foot Curettage and Debridement Removal of Plate SA,9000
-SMI509,Foot Curettage and Debridement SA,9000
-SMI510,Foot Hallux Valgus Correction SA,9000
-SMI511,Foot Toes Debridement Repair GA,9000
-SMI512,Hand Dislocation Fixation SA,9000
-SMI513,Hips Dislocation MUA and Traction SA,9000
-SMI514,Radial Head Excision Regional Block,9000
-SMI515,Wrist/Hand Fracture Dislocation ORIF Regional Block,9000
-SMI516,Skin Grafting Raw Area GA Small,9000
-SMI517,DJ removal GA,9000
-SMI518,Harmonic scalpel,9000
-SMI519,Percutaneous peritonial Dialysis catheter insertion,9000
-SMI520,Urinary Bladder - Vesicovaginal Fistula repair (RAZ procedure),9000
-SMI521,Urinary Bladder-Hydrodistension of bladder GA,9000
-SMI522,Urinary Bladder-Restaging TURBT(Scar resection),9000
-SMI523,Minor I (Sternal Wire Removal),9000
-SMI524,Eye: Enucleation,9000
-SMI525,Cataract: Small incision,9000
-SMI526,Rectum- Thierch suturing,9000
-SPM169,Anal- Lateral Sphinterotomy IVA,9625
-SPM170,Breast Lump excision multiple LA,9775
-SPM171,Anal- Evacuation/ Excision of Thrombosed External Hemorrhoid GA,9900
-SPM172,Breast- Breast Lump Excision GA,9900
-SPM173,Uterus-Diagnostic Hysteroscopy GA,9900
-SPM174,Vagina-Repair of vaginal/Cervical laceration Small,9900
-SPM175,Femure Shaft Fracture Plating SA,9900
-SPM176,Tibia Shaft Fracture Plating SA,9900
-SPM177,Squint Surgery  2 Muscle,10000
-SPM178,Lid Tumor Excision With Reconstruction  Medium,10000
-SPM179,Neuroplasty and/or Transposition of Ulnar Nerve at Elbow(OPD procedure),10200
-SPM180,Inguinal hernia mesh repair LA,10200
-SPM181,Children Injuries: CRPP distal radius/Epiphyseal Fracture separation,10200
-SPM182,CRPP (Large Joints)e.g. Ankle,10200
-SPM183,Creation of AV Fistula for Hemodyalysis LA,10200
-SPM184,Cross Finger Flap LA,10200
-SPM185,Facial Laceration Suturing (Complex) LA,10200
-SPM186,AV fistula,10200
-SPM187,Varicose vein surgical management with excision and ligation,10600
-SPM188,Hernia repair unilateral GA,10800
-SPM189,Vagina-Bartholin Abscess IandD GA,10800
-SPM190,Vagina-Excision of Vaginal septum SA/GA,10800
-SPM191,Vagina-Vaginal Wall Cyst Removal GA,10800
-SPM192,Amputation digital GA,10800
-SPM193,Elbow/Wrist Arthrodesis Regional Block,10800
-SPM194,Femur Shaft Fracture Plating GA,10800
-SPM195,Foot Club Foot Soft Tissue Release GA,10800
-SPM196,Foot Hallux Valgus Correction GA,10800
-SPM197,Forearm- Fracture Distal Radius - ORIF Regional Block,10800
-SPM198,Hand Dislocation Fixation GA,10800
-SPM199,Hips Dislocation MUA and Traction GA,10800
-SPM200,Radius Malunion Excision ORIF Styloid DARRCH,10800
-SPM201,Tibia Malleolar Fracture INT. Fixation SA,10800
-SPM202,Wrist/Hand Fracture Dislocation ORIF GA,10800
-SPM203,Ear Reconstruction 2nd stage with FTSG GA,10800
-SPM204,Excision of Granulation Tissue Escharectomy Or Debridement GA Medium,10800
-SPM205,Fracture Mandible Plating and IMF LA,10800
-SPM206,Fracture Maxilla Fixation LA,10800
-SPM207,Lobule Transposition GA,10800
-SPM208,Minor Lip procedure GA,10800
-SPM209,Nipple and Areola Reconstruction GA,10800
-SPM210,Pedicled Flaps Inset - Minor GA/LA,10800
-SPM211,Polydactyli Correction Single GA,10800
-SPM212,Soft Tissue and Nerve Repair GA,10800
-SPM213,Tendon Repair (Single) GA,10800
-SPM214,Transposition Flaps - Minor,10800
-SPM215,Epididymis-Epididymectomy,10800
-SPM216,Eye Evisceration With Implant,11000
-SPM217,Orbitotomy Small,11000
-SPM218,Circumcision for phimosis (IVA/GA),11050
-SPM219,Kidney-Percutaneous Nephrostomy (PCN) placement GA Blind/USG guided,11250
-SPM220,Retinal Detachment (R D)Surgery,11500
-SPM221,Burr Hole(s) for Biospy of Brain,11700
-SPM222,Burr Hole(s) for Evacuation of CSDH single,11700
-SPM223,Cervix-McDonald suture GA,11700
-SPM224,Pelvic Floor repair,11700
-SPM225,Perineum-1st and 2nd degree Tear Old GA,11700
-SPM226,Uterus-Mannual Removal of Placenta (MRP) with EPI,11700
-SPM227,Vagina- Hymenectom GA,11700
-SPM228,Vagina-Biopsy Vulva/Vagina GA,11700
-SPM229,Vagina-Repair of vaginal/Cervical laceration Large,11700
-SPM230,Ankle Ligament Tear Repair GA,11700
-SPM231,Foot Ankle Arthrodesis SA,11700
-SPM232,Foot Fracture INT. Fixation SA,11700
-SPM233,Forearm- Fracture Distal Radius - ORIF GA,11700
-SPM234,Hips Fracture Femur Neck Displacement Osteotomy SA,11700
-SPM235,Knee Arthrodesis SA,11700
-SPM236,Knee collateral Ligament Injury Repair SA,11700
-SPM237,Patella Fracture Excision/Fixation SA,11700
-SPM238,Patella Recurrent Dislocation Lateral Release SA,11700
-SPM239,Patella Recurrent Dislocation Quadricepsplasty SA,11700
-SPM240,Patella Recurrent Dislocation Tendon Transfer SA,11700
-SPM241,Soft Tissue Nerve Repair GA,11700
-SPM242,Tibia Malleolar Fracture INT. Fixation GA,11700
-SPM243,Tibia Malleolar Osteotomy SA,11700
-SPM244,Cleft Lip Unilateral GA,11700
-SPM245,Testis-Testicular biopsy open,11700
-SPM246,Testis-U/L Orchidectomy SA/GA,11700
-SPM247,Urethra-Optical Internal Urethrotomy (OIU) Caudal block,11700
-SPM248,Urethra-Urethrovaginal Repair,11700
-SPM249,Urinary Bladder - VVF Repair (O Conner procedure),11700
-SPM250,Tonsillectomy Surgery,12000
-SPM251,Cataract: Phacoemulsion with Fred Hollow Intraocular Lens (One eye),12050
-SPM252,Dacryocystorhinostomy With Tubation,12500
-SPM253,Knee Tibial Spiral Fracture INT. Fixation SA,12600
-SPM254,Tarsal Bone Fracture Or Calcanium INT. Fixation SA,12600
-SPM255,Tarsal Joint Arthrodesis SA,12600
-SPM256,Tibia Condylar Fracture Screwing Percutaneous SA,12600
-SPM257,Tibia Shaft Fracture Plating GA,12600
-SPM258,Testis-B/L Orchidectomy SA/GA,12600
-SPM259,Testis-EVS of Hydrocele GA/SA (Unilateral),12600
-SPM260,Urethra-Optical Internal Urethrotomy (OIU) OIU SA,12600
-SPM261,Urinary Bladder - Cystolitholapaxy caudal block,12600
-SPM262,Minor(AV Fistula / IABP Insertion/ Perma Cath Insertion),12600
-SPM263,Scrotum-Debridement of Fourniers Gangrene,12750
-SPM264,Pyogenic liver abscess (Including Aspiration/ drainage),12845
-SI0101,Squint Surgery  3 Muscle,13500
-SI0102,Eye: Cryo Buckling,13500
-SI0103,Uterus-Suction Evacuation for Molar Pregnancy GA,13500
-SI0104,Skin Grafting Raw Area GA Medium,13500
-SI0105,DJ stenting SA,13500
-SI0106,Burr Hole(s) for Drainage of Brain Abscess/Cyst,13500
-SI0107,Cervix-Conization GA,13500
-SI0108,Vagina-Anterior Colporrhaphy GA/SA,13500
-SI0109,Knee OA Knee Deformity Osteotomy SA,13500
-SI0110,Patella Recurrent Dislocation Tendon Transfer GA,13500
-SI0111,Burn Early Excision and Grafting,13500
-SI0112,Fracture Maxilla Fixation GA,13500
-SI0113,Fracture Zygoma Fixation LA,13500
-SI0114,Liposuction for Gynaecomastia GA,13500
-SI0115,Lymphoedema Surgery GA,13500
-SI0116,Tendon Grafting GA,13500
-SI0117,DJ stenting GA,13500
-SI0118,Penis-Partial Penectomy,13500
-SI0119,Scrotum-Scrotoplasty SA/GA,13500
-SI0120,Urinary Bladder - Cystolitholapaxy SA,13500
-SI0121,Urinary Bladder - Cystolithotomy SA,13500
-SI0122,CRPP Supracondylar/Neck Fracture Humerus,13500
-SI0123,Humerus- Lateral Condyle Fracture Children/Adult ORIF,13500
-SI0124,Rush Nailing- Paediatric and Adult Fracture,13500
-SI0125,Tendon Repair (Multiple) LA,13500
-SPM265,Hernia repair bilateral LA,14000
-SPM266,SICS + Trabeculectomy,14000
-SPM267,Urinary Diversion,14256
-SPM268,Burr Hole(s) for Aspiration of Hematoma/Cyst,14400
-SPM269,Burr Hole(s) for Multiple,14400
-SPM270,Neurorrhaphy Anastomosis Facial-Hypoglossal,14400
-SPM271,Breast- Simple Mastectomy GA,14400
-SPM272,Hernia repair unilateral SA,14400
-SPM273,Psoas Abscess drainage,14400
-SPM274,Vagina-Tension free Vaginal Tape (TVT) SA,14400
-SPM275,Vagina-Transobturator Tape (TOT) SA,14400
-SPM276,Amputation above knee/below knee/below Forearm SA,14400
-SPM277,Ankle Infection Arthritis Degenerative Arthrodesis GA,14400
-SPM278,Arthrotomy small joints,14400
-SPM279,Drainage of Psoas Abscess,14400
-SPM280,Elbow communitedIntercondylar Fracture Anterior Transposition of Ulnar nerve Regional Block,14400
-SPM281,Femur condylar Fracture Plating SA,14400
-SPM282,Femure Shaft Fracture IM-Nailing SA,14400
-SPM283,Foot Ankle Arthrodesis GA,14400
-SPM284,Foot Club Foot ETA GA,14400
-SPM285,Foot Club Foot Soft Tissue + Bone Repair GA,14400
-SPM286,Foot Fracture Fixation GA,14400
-SPM287,Foot Fracture INT. Fixation GA,14400
-SPM288,Forearm- Fracture Both Bones Forearm GA,14400
-SPM289,Forearm- Fracture Both Bones Forearm Regional Block,14400
-SPM290,Hips Fracture Femur Neck Displacement Osteotomy GA,14400
-SPM291,Humerus Fracture ORIF GA,14400
-SPM292,Knee Arthrodesis GA,14400
-SPM293,Knee collateral Lig. Injury Repair GA,14400
-SPM294,Knee Tibial Spiral Fracture INT. Fixation GA,14400
-SPM295,Patella Recurrent Dislocation Lateral Release GA,14400
-SPM296,Patella Recurrent Dislocation Quadricepsplasty GA,14400
-SPM297,Radius Malunion Excision ORIF Styloid DARRCH GA,14400
-SPM298,Soft Tissue Nerve and Tendon Repair SA/Regional Block,14400
-SPM299,Tarsal Joint Arthrodesis GA,14400
-SPM300,Tibia Condylar Fracture Screwing Percutaneous GA,14400
-SPM301,Tibia Malleolar Osteotomy GA,14400
-SPM302,Cleft Lip (Revision) GA,14400
-SPM303,Cleft Lip Bilateral Revision GA,14400
-SPM304,Cross Finger Flap GA,14400
-SPM305,Excision of Granulation Tissue Escharectomy Or Debridement GA Large,14400
-SPM306,Polydactyli Correction Multiple GA,14400
-SPM307,Syndactyli Release and Grafting GA,14400
-SPM308,Urethra-1st stage Byars flap,14400
-SPM309,Urethra-2nd stage Byars flap,14400
-SPM310,Fistula/Sinus excision,14850
-SPM311,Orbitotomy Lateral,15000
-SPM312,Lid Tumor Excision With Reconstruction  Big,15000
-SPM313,Eye Ptosis: Sling Surgery Only,15000
-SPM314,Glaucoma Valve Implant Procedure(Valve Extra),15000
-SPM315,Elbow communitedIntercondylar Fracture Anterior Transposition of Ulnar nerve GA,15300
-SPM316,Hips Fracture Femur Neck Pins SA,15300
-SPM317,Hips Fracture Femur Neck Screw SA,15300
-SPM318,Knee OA Knee Deformity Osteotomy GA,15300
-SPM319,Tarsal Bone Fracture Or Calcanium INT. Fixation GA,15300
-SPM320,Tarsal Bone Fracture Talus INT. Fixatoin GA,15300
-SPM321,Hernioplasty SA/GA,15300
-SPM322,Kidney-Drainage of perinephric abscess SA/GA,15300
-SPM323,Penis-Shunt surgery for Priapism,15300
-SPM324,RPG + Instillation of Sclerosant LA,15300
-SPM325,Testis-Radical Orchidectomy,15300
-SPM326,Urethra-Urethral Diverticulectomy,15300
-SPM327,Urinary Bladder - Cystolithotomy GA,15300
-SPM328,Chronic suppurative otitis media Surgical management package,15456
-SPM329,Squint Surgery  4 Muscle,15500
-SPM330,Orbitotomy Medium,16000
-SPM331,Eye Ptosis: Levator Resection,16000
-SPM332,Blepheroplasty,16000
-SPM333,Thyroglossal Cyst - Excision package,16000
-SPM334,Appendix- Open Appendectomy SA,16200
-SPM335,Excision of Rib GA/Open Lung Biospy GA,16200
-SPM336,Cervix-Shirodhker Suture GA,16200
-SPM337,Cleft Palate Repair GA,16200
-SPM338,Urethra-1st stage Johansen procedure,16200
-SPM339,Urethra-2nd stage Johansen procedure,16200
-SPM340,Urinary Bladder - Cystolitholapaxy GA,16200
-SPM341,Anal- Hemorrhoidectomy (Open),16650
-SPM342,Ilioingunal block dissection of lymphnode,16650
-SPM343,Closed Reduction and K-Wire Fixation/TENS,17000
-SPM344,Tendon Repair Major,17000
-SPM345,Posterior Vitrectomy Package 1 (VITRECTOMY/MEMBRAME PEEL/GASC3F8/SF6 (VIT/MP/GAS)),17000
-SPM346,Tibia Shaft Fracture Nailing SA,17100
-SI0201,Laparotomy with Biopsy,18000
-SI0202,Stomach-Palliative Gastrojejunostomy,18000
-SI0203,Stomach- Rammstedt Operatio for Pyloric Stenosis,18000
-SI0204,Appendix- Open Appendectomy GA,18000
-SI0205,CSF Shunt Placement,18000
-SI0206,Hemilaminectomy and Decompression of Cord/Excision of Disc (Posterior Approach),18000
-SI0207,Laminectomy  and Decompression of Cord/Excision of Disc (Posterior Approach),18000
-SI0208,Diagnostic Laparoscopy/Laparoscopic biopsy,18000
-SI0209,Urethra- Burch Colposuspension GA,18000
-SI0210,Urethra- Burch Colposuspension LA,18000
-SI0211,Vagina-Fothergills operation (Manchester),18000
-SI0212,Vagina-Tension free Vaginal Tape (TVT) GA,18000
-SI0213,Vagina-Transobturator Tape (TOT) GA,18000
-SI0214,Arthrotomy Large joints,18000
-SI0215,Femur condylar Fracture Plating GA,18000
-SI0216,"Hand - Carpal, Metacarpal and phalanges Fracture - ORIF",18000
-SI0217,Hips CDH Acetabuloplasty GA,18000
-SI0218,Hips Fracture Femur Neck Hemiarthroplasty SA,18000
-SI0219,Hips Fracture Femur Neck Pins GA,18000
-SI0220,Hips Fracture Femur Neck Screw GA,18000
-SI0221,"Humerus Supracondylar, Lateral condylar Fracture - ORIF Ga",18000
-SI0222,Shoulder Joint Arthrodesis GA,18000
-SI0223,Soft Tissue Nerve and Tendon Repair GA,18000
-SI0224,"Soft Tissue, Nerve and Vessels Repair SA",18000
-SI0225,Spine Infection Potts Drainage Procedure GA,18000
-SI0226,Tibia Condylar Fracture Elevation Bone Graft SA,18000
-SI0227,Transpendicular Biopsy,18000
-SI0228,Hand- Carpal/Metacarpal/Phalanges Fracture : ORIF,18000
-SI0229,Elbow- Olecranon Fracture ORIF,18000
-SI0230,Alveolar Bone Grafting GA,18000
-SI0231,Augmentation Rhinoplasty,18000
-SI0232,Blow Out Fracture Reconstruction GA,18000
-SI0233,Cancer Excision and Flap Construction GA,18000
-SI0234,Contracture Band Multiple Z plasty GA,18000
-SI0235,Contracture Release with Rotation Flap GA,18000
-SI0236,Dermabrasion /Chemical Peel GA,18000
-SI0237,Excision of Cutaneous Lesion and SSG or FTSG GA,18000
-SI0238,Facial Laceration Suturing (Complex) GA,18000
-SI0239,Facial Paralysis Cross Facial Nerve Grafting GA,18000
-SI0240,Facial Paralysis Cross Temporalis Transfer GA,18000
-SI0241,Flaps For Bed Sore GA,18000
-SI0242,Fracture Mandible Plating and IMF GA,18000
-SI0243,Framework Elevation and FTSG GA,18000
-SI0244,Hemimandibulectomy and Reconstruction,18000
-SI0245,Le Forte Advancement GA,18000
-SI0246,Lip Reconstruction GA,18000
-SI0247,Malar Augmentation with Bone Graft GA,18000
-SI0248,Mandibular Osteotomies Ga,18000
-SI0249,Nose Reconstruction with Flaps GA,18000
-SI0250,Orocutaneous Fistula Closure with Flaps GA,18000
-SI0251,Palatal Fistula Closure GA,18000
-SI0252,Pedicled Flaps Inset - Major GA,18000
-SI0253,Pharyngoplasty GA,18000
-SI0254,Pollicization GA,18000
-SI0255,Scalp Transposition and Grafting GA,18000
-SI0256,Skin Grafting Raw Area GA Large,18000
-SI0257,"Soft Tissue, Tendon and Nerve  Repair GA",18000
-SI0258,Tendon Repair (Multiple) GA,18000
-SI0259,TMJ ankylosis Release GA,18000
-SI0260,Transposition Flaps - Major,18000
-SI0261,Vaginal Reconstruction,18000
-SI0262,Kidney-Drainage of renal abscess SA/GA,18000
-SI0263,Penis-Radical penectomy,18000
-SI0264,RPG + Instillation of Sclerosant SA,18000
-SI0265,Scrotum-Scrotal exploration for trauma,18000
-SI0266,Single stage SNODGRASS(TIP),18000
-SI0267,Testis-Exploration of testicular torsion,18000
-SI0268,Ureter-Ureterocystoneostomy (UCN) B/L GA,18000
-SI0269,Ureter-Ureterocystoneostomy (UCN) U/L SA,18000
-SI0270,Ureter-Ureteroscopic Lithotripsy(URSL) + DJ stenting SA,18000
-SI0271,Ureter-Ureteroscopy (URS) SA,18000
-SI0272,Urethra-Blandys perianal urethroplasty,18000
-SI0273,Urethra-Matheu Flip Flap,18000
-SI0274,Urinary Bladder - Repair of Traumatic bladder rupture,18000
-SI0275,Vas-Microscopic varicocele ligation,18000
-SI0276,Amputation above knee/below knee/Below Forearm GA,18000
-SI0277,Cesarian Section Delivery,18000
-SPM347,Biliary-Open cholecystectomy,19350
-SPM348,Hand Carpal Tunnel Release GA,19350
-SPM349,Anal- Hemorrhoidectomy (Stapled),19800
-SPM350,Exploratory laparotomy,19800
-SPM351,Intestine- Iliostomy/Colostomy,19800
-SPM352,Craniotomy/Craniectomy Drainage of Intracranial Abscess Supratentorial,19800
-SPM353,Thyroid- Hemithyroidectomy GA,19800
-SPM354,Hips Fracture Trochanteric Fracture DHS Fixation SA,19800
-SPM355,Cleft Lip Bilateral GA,19800
-SPM356,Ureter-Ureterolithotomy open SA,19800
-SPM357,Urinary Bladder-TURBT 1st stage,19800
-SPM358,Posterior Vitrectomy Package 2 (VITRECTOMY/BUCKLE BAND/ENDO LASER/SILICON OIL INJECTION (VIT/BB/EL/),20000
-SPM359,Orbitotomy Big,20000
-SPM360,Keratoplasty PK,20000
-SPM361,Laparoscopy for Oophorectomy or Salpingo-Oophorectomy or Ectopic pregnancy or Pelvic Abscess,20250
-SPM362,Laparotomy with Wedge resection of ovary,20250
-SPM363,Ureter-Ureteroscopy (URS) GA,20250
-SPM364,Ankle Fracture Dislocation Open reduction Repair/Fixation GA,20700
-SPM365,Patella Fracture Excision/Fixation GA,20700
-SPM366,Phaco+Iol+ Trabeculectomy,21000
-SPM367,Biliary-CBD exploration,21600
-SPM368,Bone Flap Removal,21600
-SPM369,Bone Flap Replacement,21600
-SPM370,Craniotomy/CraniectomyInfratentorial,21600
-SPM371,Craniotomy/Craniectomy Orbital Biopsy,21600
-SPM372,Breast- Mastectomy GA/Wide Local Excision of Ca Breast,21600
-SPM373,ERCP (ES stone extraction/Stenting,21600
-SPM374,Laparoscopic Diagnostic Lap with Blue test (dye included),21600
-SPM375,Laparoscopic Tubal Ligation,21600
-SPM376,Adnexal Operations - including Ovarian Cystectomy,21600
-SPM377,Hips Fracture Femur Neck Hemiarthroplasty GA,21600
-SPM378,Hips Old Unreduced Dislocation/CDH Open Reduction GA,21600
-SPM379,Shoulder Fracture Dislocation INT. Fixation GA,21600
-SPM380,Shoulder/Wrist/Elbow Arthrodesis GA,21600
-SPM381,"Soft Tissue, Nerve and Vessels Repair GA",21600
-SPM382,Hernia repair bilateral SA,21600
-SPM383,Spine Potts Spine Costo-Transversectomy,21600
-SPM384,Tibia Condylar Fracture Elevation Bone Graft GA,21600
-SPM385,Plating Forearm/Arm/Leg/Thigh bones Children,21600
-SPM386,Ear Reconstruction Cartilage Framework GA,21600
-SPM387,Penile Reconstruction GA,21600
-SPM388,"Soft Tissue, Tendon, Nerve and Vessel Repair GA",21600
-SPM389,Prostate-TURP SA,21600
-SPM390,"Acute osteomyelitis (Surgical management including IandD, dressing)",21715
-SPM391,Anal- Pilonidal Sinus surgery,22200
-SI0301,Vulva-Vulvectomy simple,22500
-SI0302,Ureter-Ureterolithotomy open GA,22500
-SI0303,Kidney-Graft nephrectomy,22500
-SI0304,Kidney-Nephrectomy for XGP,22500
-SI0305,Kidney-Open pyelolithotomy,22500
-SI0306,Penis-Nestbitt operation for Pyronies disease,22500
-SI0307,Penis-Repair of Penile fracture,22500
-SI0308,Penis-Total Penectomy,22500
-SI0309,Prostate-Retropubic Prostatectomy SA,22500
-SI0310,RPG + Instillation of Sclerosant GA,22500
-SI0311,Testis-Orchidopexy 1st stage,22500
-SI0312,Testis-Orchidopexy 2nd stage,22500
-SI0313,Ureter- Transureteroureterostomy,22500
-SI0314,Ureter-Ureterocystoneostomy (UCN) B/L SA,22500
-SI0315,Ureter-Ureterocystoneostomy (UCN) U/L GA,22500
-SI0316,Ureter-Ureteroscopic Lithotripsy(URSL) + DJ stenting GA Unilateral,22500
-SI0317,Urethra-Tension Free Vaginal Tape (TVT) repair,22500
-SI0318,Urinary Bladder- Percutaneous Cystolithotripsy (PCCL) SA,22500
-SI0319,Uterus-Myomectomy GA,22500
-SPM392,Intestine- Iliostomy/Colostomy closure,22950
-SPM393,Vagina-Repair of Vault prolapse,23400
-SPM394,Biliary-Cholecysto-Jejunostomy,24300
-SPM395,"Exploratory laparotomy with - band release, Adhesiolysis, Derotation for intestinal obstruction",24300
-SPM396,Exploratory Laparotomy with - Repair of DU or Gastric perforation peritonitis,24300
-SPM397,"Exploratory Laparotomy -Repair Small bowel perforation,segment resection anastomosis, stoma creation",24300
-SPM398,Rectum- Delormes Procedure for Rectal Prolapse,24300
-SPM399,Stomach- Vagotomy and Pyloroplasty,24300
-SPM400,Laparoscopic Appendectomy,24300
-SPM401,Femure Shaft Fracture IM-Nailing GA,24300
-SPM402,Tibia Shaft Fracture Nailing GA,24300
-SPM403,Kidney-Simple nephrectomy Open,24300
-SPM404,Urethra-LASER Optical Internal Urethrotomy (OIU),24750
-SPM405,Breast- Modified Radical Mastectomy GA,25200
-SPM406,Thoracotomy with Decortication GA,25200
-SPM407,Thoracotomy with Symphesectomy GA,25200
-SPM408,Uterus-Hysterectomy with Burch Colposuspension GA/SA,25200
-SPM409,Shoulder Joint Old Dislocation ORIF GA,25200
-SPM410,Shoulder Joint Recurrent Dislocation Open Reduction GA,25200
-SPM411,Routine Arthroscopic Procedures (GA/SA),25500
-SPM412,Hernia repair bilateral GA,25650
-SPM413,Spleen- Splenectomy,25650
-SPM414,Stomach- Truncal Vagotomy + Gastrojejunostomy,25650
-SPM415,Fallopian Tube- Tuboplasty GA,25650
-SPM416,Vagina-VVF repair Small,25650
-SPM417,Keratoplasty Dalk/Dsaek/Dmek,26000
-SPM418,Acute pancreatitis (surgical management including inj infliximab),26026
-SPM419,Uterus-Hysterectomy Abdominal,26100
-SPM420,"Chronic osteomyelitis (surgical management including IandD, dressing)",26300
-SPM421,Prostate-TURP GA small,26550
-SMJ101,Anterior Cervical Discectomy (ACD) Single Level,27000
-SMJ102,Biopsy/Excision of Intraspinal Neoplasm,27000
-SMJ103,Biliary- Partial Pericystectomy,27000
-SMJ104,Cranioplasty For Skull Defect,27000
-SMJ105,Cranioplasty For Skull Defect less than 5cm,27000
-SMJ106,Cranioplasty Simple,27000
-SMJ107,Cranioplasty with Autograft less than 5cm,27000
-SMJ108,Craniotomy/Craniectomy Decompression of Orbit,27000
-SMJ109,Craniotomy/CraniectomyExcison of Foreign Body from Brain,27000
-SMJ110,Craniotomy/CraniectomyExcison of Tumor or Other Lesion of Bone,27000
-SMJ111,"Craniotomy/CraniectomyExcison, Intra and Extracranial, Benign Tumor of Cranial Bone",27000
-SMJ112,Craniotomy/Craniectomy Removal of Foreign Body,27000
-SMJ113,Craniotomy/Craniectomy Removal of Lesion,27000
-SMJ114,Craniotomy/CraniectomySuboccipitalCraniectomy and Laminectomy for Arnold Chiari,27000
-SMJ115,Craniotomy for Excision of Pituitary Tumor,27000
-SMJ116,Excision by Laminectomy Occlusion of AVM,27000
-SMJ117,"Fusion of Posterior, Cervical, Interspinous",27000
-SMJ118,"Fusion of Posterior, Cervical, Sublaminar",27000
-SMJ119,Instrumentation Lateral Mass Screw,27000
-SMJ120,Instrumentation Anterior Odontoid Screw Fixation,27000
-SMJ121,Instrumentation Lumbar,27000
-SMJ122,"Instrumentation Occiput - C3/4 Fusion using Luque Rectangle, Sublaminar Wiring",27000
-SMJ123,Laminectomy for Spinal Cord Tumor Excision Simple ( Posterior Approach),27000
-SMJ124,"LUQUE Rod/Rectangle Fixation, Thoracic",27000
-SMJ125,Hellers Operation (Cardiomyotomy) GA,27000
-SMJ126,Laparoscopic cholecystectomy,27000
-SMJ127,Laparoscopic rectopexy,27000
-SMJ128,Laparoscopic partial pericystectomy,27000
-SMJ129,Other Laparoscopic OB/GYN Surgery,27000
-SMJ130,Laparoscopic  (Ovarian) Cystectomy,27000
-SMJ131,Ureter- Ureteric Transplantation,27000
-SMJ132,Uterus-Cesarean Hysterectomy,27000
-SMJ133,Uterus-Hysterectomy Vaginal GA/SA,27000
-SMJ134,Vagina-Reconstruction of Artifical Vagina,27000
-SMJ135,Vulva- Radical Vulvectomy GA,27000
-SMJ136,HumerusIntercondylar Fracture - ORIF GA,27000
-SMJ137,Pelvis/Acetabular Fracture,27000
-SMJ138,Radial Head Excision Difficult,27000
-SMJ139,Plating Both Bones Forearm/Humerus,27000
-SMJ140,Tendon Graft/Transfer,27000
-SMJ141,Ileal interposition,27000
-SMJ142,Kidney - AH pyeloplasty Open,27000
-SMJ143,Penis-Total Penile Disassembly for Epispadias,27000
-SMJ144,Prostate-Retropubic Prostatectomy GA,27000
-SMJ145,Retroperitoneal Lymph Node Dissection (RPLND),27000
-SMJ146,RNU  with Bladder cuff excision open,27000
-SMJ147,Ureter-BOARI flap,27000
-SMJ148,Ureter-Ureterocalicostomy,27000
-SMJ149,Urinary Bladder - Bladder Divertilulectomy,27000
-SMJ150,Urinary Bladder - Extrophy repair,27000
-SMJ151,Urinary Bladder - Partial Cystectomy,27000
-SMJ152,Urinary Bladder- Percutaneous Cystolithotripsy (PCCL) GA,27000
-SMJ153,Urinary Bladder-Modified CantewellRansley Operation,27000
-SMJ154,Urinary Diversion (MAINZ POUCH) only,27000
-SMJ155,Urinary Diversion (Ureterosigmoidostomy) only,27000
-SMJ156,Vas-Vasectomy reversal SA/GA,27000
-SMJ157,Vas-Vasovasostomy (Microsurgery),27000
-SMJ158,Intestine- Ileal resection,27000
-SMJ159,Pancreas-Triple Bypass,27000
-SMJ160,Stomach- Cystograstrostomy,27000
-SMJ161,Stomach-Partial Gastrectomy,27000
-SPM422,Biliary- Lap Cholecystectomy Converted to Open Cholecystectomy,28800
-SPM423,Exploratory Laparotomy with - Resection Anastomosis of Small bowel with or without stoma,28800
-SPM424,Craniotomy/CraniectomyCraniosynostosis: Single Cranial Suture,28800
-SPM425,Craniotomy/Craniectomy Evacuation of Hematoma : Supratentorial/Extradural/Subdural,28800
-SPM426,"Craniotomy/CraniectomyExvision of Brain Tumor Supratentorial, Except meningioma",28800
-SPM427,Craniotomy/CraniectomyExcison of Meningioma Supratentorial,28800
-SPM428,Craniotomy/CraniectomyInfratentorial; Extradural/Subdural,28800
-SPM429,Craniotomy/Craniectomy Penetrating wound of Brain,28800
-SPM430,Craniotomy/Craniectomy Trans Sphenoidal Approach for Excision of Pituitary Tumor,28800
-SPM431,Thoracotomy with Enucleation of Cyst GA,28800
-SPM432,Thyroid- Total or Subtotal Thyroidectomy GA,28800
-SPM433,Laparoscopic Hernia repair U/L,28800
-SPM434,Hips Fracture Trochanteric Fracture DHS Fixation GA,28800
-SPM435,Kidney-LASER PUV Ablation,28800
-SPM436,Urethra- Posterior Urethral Valve Ablation,28800
-SPM437,Urinary Bladder - Bipolar TURBT,28800
-SPM438,Spine Sacrum/Coccyx Excision SA,29700
-SPM439,Posterior Vitrectomy Package 3 (VITRECTOMY AND PROCEEDURE(Combined surgery)  VITRECTOMY+PHAECO ),30000
-SPM440,Anterior Cervical Discectomy (ACD) Multiple Levels,30600
-SPM441,Exploratory Laparotomy with - Resection Anastomosis of Large bowel with or without stoma,30600
-SPM442,"Craniotomy/CraniectomyExvision of Brain Tumor Infratentorial, Except meningioma",30600
-SPM443,Breast- Modified Radical Mastectomy GA/WLE + Axillary Clearance,30600
-SPM444,Laparoscopic/Lap Assisted Closure of DU/Enteric Perforation,30600
-SPM445,Vulva-Vulvectomy Radical,30600
-SPM446,ORIF with Bone Grafting,30600
-SPM447,Rectum- Altermiers Operation /STARR procedure for Rectal prolapse,30600
-SPM448,Ilizarov Fixation,30600
-SPM449,Minimally Invasive Percutaneous Osteosynthesis (MIPPO),30600
-SPM450,Kidney- Pyelolithotomy,30600
-SPM451,Ureter-Ureteroscopic Lithotripsy(URSL) bilateral,30600
-SMJ163,Spine PIVD Laminectomy GA,31500
-SMJ202,Kindey - AnatrophicNephrolithotomy,31500
-SMJ165,Urethra - Anastomotic Urethroplasty,31500
-SMJ204,Urinary Bladder - LASER Cystolithotrite,31500
-SMJ205,Biliary-Choledocho-duodenostomy,31500
-SMJ168,Stomach-Subtotal Gastrectomy,31500
-SPM452,Anterior Cervical Discectomy and Fusion (ACDF) Single Level,32400
-SPM453,Anterior Vertebral Corpectomy Cervical Single Level,32400
-SPM454,Biliary- Hilar cholangiocarcinoma excision,32400
-SPM455,Colon- Hemicolectomy,32400
-SPM456,Colon- Perineal Proctosigmoidectomy,32400
-SPM457,Pancreas- Distal pancreatectomy,32400
-SPM458,Pancreas- Freys Operation,32400
-SPM459,Pancreas- Peustows operation,32400
-SPM460,Rectum- abdominal rectopexy,32400
-SPM461,Shunt surgery,32400
-SPM462,Spleen- Splenectomy and Devascularization,32400
-SPM463,Stomach- Fundoplication,32400
-SPM464,Stomach-Hellers Myotomy,32400
-SPM465,Costovertebral Approach(Posterolateral),32400
-SPM466,Cranioplasty Complex,32400
-SPM467,Cranioplasty For Skull Defect Larger than 5cm,32400
-SPM468,Cranioplasty with Autograft Larger than 5cm,32400
-SPM469,Craniotomy/CraniectomyCerebellopontine Angle Tumor,32400
-SPM470,Craniotomy/CraniectomyExcison of Meningioma Intratentorial,32400
-SPM471,Craniotomy/Craniectomy Multiple Cranial Sutures,32400
-SPM472,Craniotomy/Craniectomy Trans Oral Approach to Skull Base,32400
-SPM473,Excision by Laminectomy Intraspinal Lesion Other Than Neoplasm,32400
-SPM474,"Fusion of Posterior, Lumbar",32400
-SPM475,"Fusion Posterolateral, Lumbar",32400
-SPM476,Lumbar- Transforaminal Lumbar Interbody Fusion (TLIF),32400
-SPM477,"Instrumentation Lumbar, Single Segment",32400
-SPM478,Instrumentation Posterior,32400
-SPM479,Instrumentation Transarticular Screw Fixation: Anterior,32400
-SPM480,Laminectomy  for Spinal Cord Tumor Excision Complex (Posterior Approach),32400
-SPM481,Microvascular Decompression (MVD),32400
-SPM482,Spine Sacrum/Coccyx Excision GA,32400
-SPM483,Spine Spondylolisthesis Fusion GA,32400
-SPM484,Breast Reconstruction with Muscle Flaps GA,32400
-SPM485,Mandibular Reconstruction GA,32400
-SPM486,Revascularization GA,32400
-SPM487,Toe Transfer GA,32400
-SPM488,Kidney-Extracorporeal Shock Wave Lithotripsy (ESWL),32400
-SPM489,Penis-Hypospadias repair with flaps,33750
-SPM490,Ureter-Ureteroureterostomy unilateral,33750
-SPM491,Anterior Cervical Discectomy and Fusion (ACDF) Multiple levels,34200
-SPM492,Anterior Vertebral Corpectomy Cervical Multiple Level,34200
-SPM493,Anterior Vertebral Corpectomy Thoracic Single Level,34200
-SMJ301,Anastomosis: EC/IC bypass,36000
-SMJ302,Anterior Vertebral Corpectomy Thoracic Multiple Level,36000
-SMJ303,Carotid Endarterectomy (CEA),36000
-SMJ304,Craniotomy/Craniectomy Midline Tumor at Skull Base,36000
-SMJ305,Anterior Lumbar Interbody Fusion (ALIF),36000
-SMJ306,posterior lumbar interbody fusion (PLIF),36000
-SMJ307,Lumbar- Lateral lumbar interbody fusion (XLIF),36000
-SMJ308,Instrumentation Multiple Segment,36000
-SMJ309,Thoracotomy with Lobectomy/Pneumonectomy GA,36000
-SMJ310,ThoracotomySternotomy with Mediastinal Tumor Excision GA,36000
-SMJ311,Laparoscopic CBD exploration,36000
-SMJ312,Laparoscopic Gastrectomy,36000
-SMJ313,Laparoscopic Hernia repair B/L,36000
-SMJ314,Combine- TAH with Cholecystectomy,36000
-SMJ315,Vagina-Vaginal Radical Hysterectomy GA,36000
-SMJ316,Vagina-VVF repair Complicated,36000
-SMJ317,Shoulder Joint Replacement GA,36000
-SMJ318,Spine Cervical Spine Fracture Fusion GA,36000
-SMJ319,Spine Potts Spine Fusion Decompression GA,36000
-SMJ320,Hemi Replacement Arthroplasty (HRA),36000
-SMJ321,Arthroscopic Meniscectomy,36000
-SMJ322,Abdominoplasty GA,36000
-SMJ323,Microvascular Free Flap Transfer GA,36000
-SMJ324,Kidney-Radical Nephrectomy open,36000
-SMJ325,Urinary Diversion (Ileal conduit) only,36000
-SMJ326,Intermediate Embolectomy),36000
-SMJ327,Minor II (Pericardiotomy),36000
-SMJ328,Colon- Subtotal colectomy,36000
-SMJ329,"Liver- Non major Liver resection segmental, bisegmental",36000
-SPM494,Thoracotomy with Neck Dissection GA,37800
-SPM495,Kidney-Partial Nephrectomy Open,38250
-SPM496,Urethra-Buccal Mucosal (BMG) Urethroplasty (BULBAR),38250
-SPM497,Urethra-Buccal Mucosal (BMG) Urethroplasty (PENILE),38250
-SPM498,Spinal Osteotomy,39600
-SPM499,Colon- Total Proctocolectomy,39600
-SPM500,Spinal Tumor Excision,39600
-SPM501,Spine Scoliosis Fusion/Epiphysodesis GA,39600
-SPM502,Thoracolumbar Fracture Fixation,39600
-SPM503,ORIF + Bone Graft Completed,39600
-SPM504,Uterus-Hysterectomy Radical -Wertheims operation,40500
-SPM505,Penis-Hypospadias repair with BMG graft,40500
-SPM506,Ureter-LASER Deroofing of ureterocele,40500
-SPM507,Ureter-LASER Endopolypectomy/Endoureterotomy,40500
-SPM509,Uterus-Laparoscopic Myomectomy,41400
-SPM510,Prostate-Bipolar TURP,41400
-SPM511,Laparoscopic Hysterectomy,42300
-SPM512,Kidney-Percutaneous Nephrolithotomy (PCNL),42300
-SPM513,Biliary-Extended cholecystectomy,43200
-SPM514,Laparoscopic splenectomy,43200
-SSJ101,Laparoscopic Adhesolysis/Adenectomy,45000
-SSJ102,Laparoscopic colectomy,45000
-SSJ103,Laparoscopic Deroofing of renal cyst,45000
-SSJ104,Laparoscopic Pyeloplasty,45000
-SSJ105,Laparoscopic Radical nephrectomy,45000
-SSJ106,Uterus-Hysterectomy Lap converted to Open,45000
-SSJ107,Patellar Reconstruction,45000
-SSJ108,Major Flap Surgery,45000
-SSJ109,Shoulder- Reconstruction,45000
-SSJ110,Replantation GA,45000
-SSJ111,Urinary Bladder-Radical cystectomy with Ileal conduit,45000
-SSJ112,Liver- Open CBD exploration with Hepaticojejunostomy,45000
-SSJ113,Retum- abdominal perineal resection,45000
-SSJ114,Retum- Anterior resection/Low anterior resection,45000
-SSJ115,Stomach-Total Gastrectomy,45000
-SPM515,Esophagectomy GA,46800
-SPM516,Knee - Anterior/Posterior Cruciate Ligament Reconstruction,46800
-SPM517,Kidney-Percutaneous Nephrolithotomy (PCNL) multiple stone,47300
-SPM518,Total Laparoscopic Hysterectomy,47700
-SPM519,Spinal Fixation,48600
-SPM520,Laparoscopic Adrenalectomy I,49500
-SPM521,Urethra-Buccal Mucosal (BMG) Urethroplasty (PANURETHRAL),49500
-SPM522,Urethra-Progressive perinealurethroplasty,49500
-SPM523,Liver- Hepaticojejunostomy,52200
-SMJ201,Laparoscopic Abdominoperineal resection,54000
-SMJ164,Laparoscopic Incisional Hernia repair,54000
-SMJ203,Laparoscopic Rectopexy for rectal prolapse,54000
-SMJ213,Laparoscopic Nephrectomy I,54000
-SMJ167,Spinal Fixation with Decompression and Grafting,54000
-SMJ206,Elbow - Total Elbow Replacement,54000
-SMJ169,Prostate-Radical Prostatectomy,54000
-SMJ209,Ureter-Ureteroureterostomy bilateral,54000
-SMJ210,Urinary Bladder - Augmentation cystoplasty,54000
-SMJ211,Urinary Bladder- Indiana Pouch,54000
-SPM524,Esophagus- Esophagectomy,58500
-SPM525,Liver- Major hepatic resection,58500
-SPM526,Pancreas- Whipples Operation,58500
-SPM527,Urinary Bladder - Radical cystectomy with neobladder,58500
-SMJ170,Kidney- Retrograde Intrarenal Surgery (RIRS),63000
-SMJ171,Total Hip and Knee Replacement Surgery U/L(implant extra),63000
-SPM528,Coronary Angioplasty,70000
-SMJ401,Laparoscopic Low anterior/anterior resection,72000
-SMJ402,Laparoscopic Adrenalectomy II,72000
-SMJ403,Laparoscopic Nephrectomy II,72000
-SMJ404,Kidney-Donor nephrectomy Open,72000
-SMJ405,Kidney-Renal transplantation,72000
-SMJ406,Prostate- Holmium Laser Enucleation of the prostate (HoLEP),72000
-SMJ407,Urinary Bladder - Radical cystectomy,72000
-SPM529,Major I (BT Shunt/ PA Banding/Epicardial Pacemaker),75600
-SMJ501,"(Fem-POP bypass, Iliac Surgery)",81000
-SMJ601,Urinary Bladder-TURBT 2nd stage,90000
-SMJ602,Major II (CMC /COA/PDA Ligation/Pericardiectomy),90000
-SMJ701,Major I (ASD/PAPVC/Pulmonary Valvotomy/ VSD/oth),99000
-SMJ702,Major(AAA Repair/ CEA (Graft Extra),99000
-SMJ801,Total Hip and Knee Replacement Surgery B/L,108000
-SMJ901,Major II (OMV/Valve Repair/MVR/AVR (Valve Extra),117000
-SMJ_01,Major III (DORV/DVR/TOF/TAPVC /Other Complex Congenital),126000
-SMJ_04,CABG (Coronary Arterial Bypass Graft),144000
-S00036,Hearing aid,5000
-PK1601,Burn greater than 30 percentage Body surface area,25000
-RAD018,USG guided FNAC,850
-MO103,ICU with ventilator/per day,6000
-MO104,ICU with( Bipap)per day,4500
-MO105,CPAP(Continuous Positive Air Pressure),1900
-MO106,CAPD (Per Packed/dialysate )(If not covered by Other Programs)+service cost,480
-MO107,Cap (CAPD),21
-MO108,Bipap/per day,1650
-MO109,Hemo-dialysis/per episode(in case not covered by Other Progarms),2850
-MO110,Incubator charge/per day,500
-MO111,ICU+Ventilator+Radiant Warmer+Incubator(paediatric),8500
-MO112,Radiant Warmer Per/day,945
-SPM530,Perpheral Iridectomy(Laser Procedure),2000
-SPM533,Implant Removal cannulated screws/pins(SA/GA),8000
-SPM536,Implant Removal Ortho  major under GA,11500
-SPM537,Implant Removal Ortho major under SA,10000
-SPM538,Retina Laser,2500
-SPM539,Laser Photocoagulation/Capsulectomy,2500
-SPM540,Posterior Vitrectomy (only),11500
-SPM541,Intra Vitral Triamcilonone Injection,1260
-SPM542,Intra Vitral Antibiotics/Other  Injection,1250
-SPM543,Buckle Band Removal,4500
-SPM544,Silicon Oil Removal/Injection,5600
-SPM545,Laser Pheripheral Iridectomy(PI),2000
-SPM546,IUCD Insertion /removal(in case not covered by other programe),750
-RAD092,CT (Chest/HRCT) with contrast,5500
-RAD093,CT (Chest/HRCT) Without Contrast,4500
-RAD094,CT (Neck) with contrast,5500
-RAD095,CT (Neck) without contrast,4500
-RAD096,CT scan (Head with (Occipital/Temporal) with contrast,8200
-RAD097,CT scan (Head with Cervical/spine) with contrast,8200
-RAD098,CT Scan (Head with cervical/spine) without contrast,7000
-RAD099,CT scan (Head with PNS) With Contrast,8200
-RAD61,CT scan (Head with PNS) Without contrast,7000
-RAD62,CT Scan (Head with Occipital/Temporal) without contrast,7000
-RAD63,CT single (joints/bone) with contrast,5500
-RAD64,CT single( joints/bone )without contrast,4500
-RAD65,CT IVU,7000
-RAD66,CT Angiography(Head /Neck/Abdomin$Pelvis)),7500
-RAD67,CT Angiography(Upper /lower extrimities),10500
-RAD68,MRCP/MRI with contrast,8500
-RAD69,MRCP/MRI without contrast,7500
-RAD70,MRI (Abdomin with Pelvis) with contrast,10500
-RAD71,MRI (Abdomin with Pelvis) without contrast,9000
-RAD72,MRI (Abdomin) with contrast,8500
-RAD73,MRI (Abdomin) without contrast,7500
-RAD74,MRI (Pelvis) with contrast,8500
-RAD75,MRI (Pelvis) without contrast,7500
-RAD76,MRI double (extrimities /joints/organ) with contrast,16000
-RAD77,MRI double (extrimities /joints/organ) without contrast,14500
-RAD82,MRI single Segement (spine/Brain)without Contrast,7500
-RAD83,MRI single Segement(spine/Brain) with contrast,8500
-RAD84,MRI Double Organ (Brain with others)without Contrast,12000
-RAD85,MRI Double Organ (Brain with others)with Contrast,14000
-LO170,CRP (Quantitative),600
-LO172,Typhoid antibody(IgG/IgM),700
-LO173,Fundus Photography(single eye),500
-RAD86,OCT(single eye),1500
-LO174,Scrub Typhus antibody (IgG/IgM),1300
-RAD87,USG(Anomaly Scan),1000
-RAD92,NCT(Nerve conduction test),2000
-RAD88,OBG(Dental),700
-RAD89,USG Breast (single),600
-RAD90,USG breast (double),1000
-RAD91,Scrotal USG,800
-RAD064,X-ray(Two joints),600
-RAD100,X-ray(Spine),500
-RAD065,X-ray double view(Chest),550
-RAD067,X-ray (spine two segment),550
-RAD068,X-ray double view(Spine two segment),650
-RAD069,X-ray(forearm/leg),400
-RAD070,X-ray double view (forearm/leg),450
-RAD071,X-ray ( both forearm/ both leg),600
-RAD072,X-ray double view ( both forearm/ both leg),700
-RAD073,X-ray  ( both Thigh/both Pelvis or Hip),650
-RAD074,X-ray double view (  both Thigh/ both Pelvis or Hip),750
-RAD075,X-ray (Thigh/pelvis/shoulder),450
-RAD076,X-ray double view (Thigh/pelvis/shoulder),500
-RAD077,X-ray (Thigh with Pelvis),500
-RAD078,X-ray double view  (Thigh with Pelvis),600
-RAD079,X-ray (clavicle),400
-RAD080,X-ray double view (clavicle),500
-RAD081,X-ray (PNS ),400
-RAD082,X-ray double view (PNS),450
-RAD083,X-ray Triple View( PNS),550
-RAD084,X-Ray skull,450
-RAD085,X-ray (Nasal bone/jaw/mandible /face bone),450
-RAD086,X-ray (Temporal/Occipital),450
-RAD087,X-ray double view (Nasal bone/sinus/jaw/mandible /face bone),500
-RAD088,X-ray double view (Temporal/Occipital),550
-RAD090,X-ray Triple view,550
-RAD091,X-ray Four view,650
-RAD78,MRI Full organ(Spine/brain etc) with Contrast,9000
-RAD79,MRI single (extrimities/joints )without contrast,7500
-SPM531,Implant Plate Removal GA( large bones),11500
-SPM532,Implant Removal Nail  GA (large bones),13500
-OPD4,OPD TICKET,50
-EMRT,Emergency Ticket,100
-LO175,Urine RE/ME,40
-LO167,Total Count(If Not covered in package),35
-LO168,DC(If Not Covered In Package),35
-LO169,HB(If Not Covered In Package),35
-L0144,Blood Sugar PP,60
-L0145,Blood Sugar R,60
+LAB01,"FLUID (PERICARDIAL, PERITONEAL, SYNOVIAL,PLEURAL)-LDH",240.0
+LAB02,24 HOUR URINE FOR PROTEIN,120.0
+LAB03,24 Hrs URINE VMA,210.0
+LAB04,24 HRS. CREATININE CLEARIENCE,120.0
+LAB05,ABG PER PARAMETERS,100.0
+DENT01,DENTAL X RAY(IOPA/RVG),150.0
+LAB06,ABSOLUTE COUNT,55.0
+LAB07,ABSOLUTE EOSINOPHIL COUNT,160.0
+DENT02,DENTAL EXTRACTION SIMPLE PER UNIT(LA),300.0
+SPFM 59,MANDIBLE FRACTURE GA UNILATATERAL,30000.0
+SOPTH01,CONJUNCTIVA PLASTY/ SUTURING,3000.0
+LAB08,AFB STAIN,20.0
+DENT03,DENTAL EXTRACTION  DIFFICULT PER UNIT GA,3000.0
+LAB09,ALBUMIN,90.0
+SPFM 60,MANDIBLE FRACTURE GA BILATERAL),40000.0
+SOPTH02,AC REFORMATION/ WOUND REPAIR,2500.0
+LAB10,ALDEHYDE TEST,104.5
+DENT04,DENTAL EXTRACTION (DIFFICULT) PER UNIT(LA),1000.0
+SPFM 61,MANDIBLE OSTEOTOMIES (TUMOURS),40000.0
+LAB11,ALKALINE PHOSPHATASE,60.0
+SPFM 62,HEMI-MANDIBULECTOMY,40000.0
+LAB12,CULTURE & SENSITIVITY,200.0
+LAB13,AMYLASE SERUM,220.0
+SPFM 63,OROANTRAL-FISTULA CLOSURE,25000.0
+DENT05,IMPACTED TOOTH/MOLAR (LA) PACKAGE,2500.0
+LAB14,APTT,180.0
+SPFM 64,PALATAL FISTULA CLOSURE,25000.0
+LAB15,BACTEC CULTURE,700.0
+SOPTH03,VISION THERAPY,1500.0
+SPFM 65,INTERMAXILLARY FIXATATION LA,10000.0
+LAB16,BILIRUBIN CONJUGATED / Total (EACH),50.0
+LAB17,BIOPSY(BIG),1600.0
+DENT06,PERIORAL SINUS EXCISION LA,3500.0
+CARD01,ECHOCARDIOGRAPHY,1050.0
+ASD01,ANKLE BINDER - SMALL/ MEDIUM/ LARGE/ EXTRA LARGE,375.0
+DENT07,FRACTURE MANDIBLE PLATING(EXTRA) AND  IMF LA,15000.0
+LAB18,BIOPSY (SMALL),800.0
+LAB19,BLOOD TRANSFUSION INCLUDING BAG SEROLOGY CROSSMATCH AND SCREENING),850.0
+DENT08,FRACTURE MAXILLA FIXATION LA,15000.0
+SPFM 66,INTERMAXILLARY FIXATATION GA,20000.0
+ASD02,ANTI-EMBOLISM ABOVE KNEE STOCKING LARGE/MEDIUM,1635.0
+LAB20,BLOOD UREA,60.0
+CARD02,HOTLER MONITORING,2000.0
+DENT09,FRACTURE MAXILLA FIXATION GA,20000.0
+ASD03,ARM SLING STRAP,185.0
+CARD03,STRESS ECHO,2000.0
+SPFM 67,FACIAL LACERATION LA,7000.0
+DENT10,FRACTURE MANDIBLE PLATING AND  IMF GA,20000.0
+ASD04,ARM SLING - SMALL/MEDIUM/LARGE,295.0
+SPFM 68,FACIAL LACERATION GA,20000.0
+CARD04,TEE ( TRANSESOPHAGEAL ECHOCARDIOGRAPHY),1800.0
+SOPTH05,APPLANATION / TONOMETRY (IOP),50.0
+ASD05,CRUTCHES,1200.0
+SPFM 69,MINOR LIP PROCEDURE LA,5000.0
+SGYNO01,TOTAL ABDOMINAL HYSTERECTOMY GA/SA,40000.0
+ASD06,ELBOW SPLINT,135.0
+SPFM 70,MINOR LIP PROCEDURE GA,10000.0
+LAB22,BODY FLUID RE/ME,300.0
+SGYNO02,ABDOMINAL MYOMECTOMY GA/SA,40000.0
+CARD05,CORONARY ANGIOGRAPHY,15000.0
+SPFM 71,TONGUE TIE RELEASE LA,6000.0
+SOPTH07,CCT(Central Corneal Thickness),100.0
+LAB23,BONE MARROW BIOPSY,1200.0
+LAB24,BONE MARROW TEST ASPIRATION + Reporting,950.0
+SOPTH08,Dacryocystectomy (DCT),4000.0
+SGYNO03,VAGINAL HYSTERECTOMY GA/SA,40000.0
+SPFM 72,TONGUE TIE RELEASE GA,12000.0
+SOPTH09,PTERYGIUM EXCISION WITH GRAFT,5000.0
+SPFM 73,IMPLANT REMOVAL FACE/MAXILLA MANDIBLE,20000.0
+ASD07,EXTENDED FOREARM SPLINT-SMALL/ MEDIUM/ LARGE/ EXTRA LARGE,255.0
+SGYNO04,HYSTEROTOMY GA/SA,40000.0
+SPFM 74,SECONDARY SUTURING FACE(LIP/NOSE/EAR/EYE) LA Each,2000.0
+SGYNO05,SUCTION EVACUATION IVA,10000.0
+SOPTH11,CRYO BLOCKING (CYCLOCRYOTHERAPY),4500.0
+ASD08,FINGER SPLINT ALL SIZE,90.0
+CARD06,CT CORONARY ANGIOGRAM,13000.0
+SOPTH12,PAPILLOMA EXCISION,3000.0
+SPFM 75,SECONDARY SUTURING FACE(LIP/NOSE/EAR/EYE) GA Each,3000.0
+ASD09,FROG SPLINT- SMALL/ MEDIUM/ LARGE,85.0
+SOPTH13,SILICON OIL INJECTION,7000.0
+SPFM 76,SIALOTHIASIS LA,7000.0
+SGYNO06,CAC (MVA) IVA,10000.0
+CARD07,ANGIOPLASTY  (Primary/Elective),85000.0
+SPFM 77,SIALOTHIASIS GA,12000.0
+SOPTH14,SYRINGING OF EYE,100.0
+SGYNO07,CAC (MVA) LA,8000.0
+CARD08,STAGED ANGIOPLASTY,40000.0
+SOPTH15,CYCLO REFRACTION INCLUDING PMTCYCLO REFRACTION INCLUDING PMT,200.0
+SPFM 78,INTRA-ORAL BIOPSY,5000.0
+SOPTH16,PHACO + TRABE,15500.0
+SGYNO08,PAC (MVA) IVA,6000.0
+ASD10,HEARING AID,5000.0
+CARD09,EP STUDY,30000.0
+SOPTH17,ENTROPION / ECTROPIAN  PACKAGE,6000.0
+LAB25,BNP,2000.0
+SGYNO09,PAC (MVA) LA,4000.0
+SOPTH18,SUB CONJUNCTIVAL INJECTION,500.0
+SPFM 79,REPLANTATION FINGER/THUMB,30000.0
+SOPTH19,OCT MACULA/OCT DISC BOTH EYES,1500.0
+SGYNO10,DILATATION  AND CURETTAGE IVA,10000.0
+CARD10,EPS WITH RFA,80000.0
+LAB26,BRUCELLA ANTIGEN,300.0
+SOPTH20,ERG/EOG/VEP,1500.0
+LAB27,BRUCELLA RAPID TEST,120.0
+CARD11,DUAL CHAMBER PACEMAKER IMPLANTATION (Procedure only),30000.0
+SGYNO11,DILATATION  AND CURETTAGE  LA,4000.0
+LAB28,BT/CT (EACH),60.0
+SOPTH22,TARSORRHAPHY,3000.0
+SGYNO12,ENDOMENTRIAL SAMPLING IVA,10000.0
+LAB29,"CBC(Complete blood count) i.e.WBC,Diff, HB,Hct, RBC, platelet, MCV, MCH, MCHC)",250.0
+CARD12,TEMPORARY PACEMAKER IMPLANTATION,8000.0
+SOPTH23,FORGEIN BODY REMOVAL ANTERIOR SEGMENT,500.0
+LAB30,CHOLINESTERASE,730.0
+ASD11,KNEE BRACE LONG -SMALL/ MEDIUM/ LARGE/ EXTRA LARGE,745.0
+SGYNO13,LAPAROTOMY WITH OPHORECTOMY GA/SA,40000.0
+SPFM 80,REPLANTATION LIMB,45000.0
+LAB31,CHYLE,30.0
+ASD12,KNEE CAP LARGE,255.0
+SGYNO15,LAPAROTOMY WITH SALPINGECTOMY GA/SA,40000.0
+CARD13,PULSE GENERATOR REPLACEMENT SINGLE/DUAL CHAMBER,20000.0
+LAB32,COOMBS CROSS MATCH,180.0
+ASD13,KNEE CAP SMALL,150.0
+CARD14,"CRRT/ICD IMPLANTATION/Replacement ( procedure only),(generator,lead extra)",30000.0
+SOPTH26,PHACO + IOL,12000.0
+SGI01,SECONDARY SUTURING SMALL MINOR,1000.0
+ASD14,LUMBER CORSET,660.0
+LAB34,CPK TOTAL,230.0
+LAB35,CPK-MB,340.0
+CARD15,RHC(RIGHT HEART CATHETERIZATION) adult,25000.0
+SGI02,SECONDARY SUTURING LARGE,2000.0
+SGYNO14,LAPAROTOMY WITH CYSTECTOMY GA/SA,40000.0
+LAB36,CREATININE,110.0
+CARD16,PERICARDIOCENTESIS (Pigtail),10000.0
+SGI03,CORN WART EXCISION/FOREIGN BODY EXPOLARATION/REMOVAL,4000.0
+LAB37,CRP LATEX,150.0
+LAB38,CRP QUANTITATIVE,500.0
+SGI04,COLONOSCOPY,2750.0
+ASD15,LUMBER SUPPORT BELT,1020.0
+LAB39,CRYPTOCOCCUS ANTIGEN TEST,378.0
+CARD17,ASD/VSD/PDA DEVICE CLOSURE adult,41000.0
+LAB40,CSF - ALBUMIN,60.0
+SGYNO16,MINILAP ( TUBAL LIGATION) LA,12000.0
+LAB41,CSF - LDH,240.0
+SGI05,COLONSCOPY WITH BIOPSY,8000.0
+CARD18,INTRAAORTIC BALLOON PUMP (IABP) INSERTION,20000.0
+ASD16,SHOULDER IMMOBILIZER - SMALL/ MEDIUM/ LARGE/ EXTRA LARGE,420.0
+SGI06,COLONSCOPY WITH POLYPECTOMY,8000.0
+LAB42,CSF - PROTEIN,60.0
+SGYNO17,HYDROTUBATION IVA,10000.0
+LAB43,CSF RE/ME,220.0
+SGI07,HEMORRHOID BANDING,3000.0
+CARD19,FOETAL ECHO (Adult age 15 years complete and older),2500.0
+LAB44,CSF SUGAR,60.0
+SGYNO18,CERVICAL BIOPSY IVA,12000.0
+SGI08,PENILE FRACTURE REPAIR,17500.0
+SGYNO19,CERVICAL POLYPECTOMY IVA,12000.0
+LAB45,CT (CLOTTING TIME),66.0
+SGYNO20,COLPOSCOPY GUIDED BIOPSY IVA,12000.0
+SGI09,SIMPLE EXCISION LA( PAPILOMA/LIPOMA/SEBACEOUS/MUCUS RETENTION CYST/MUSCLE BIOPSY/LYMPHNODE BIOPSY/GR,3500.0
+ASD17,SUPPORTING WALKING CANE/WHITE STICK,1200.0
+CARD20,SINGLE CHAMBER PACEMAKER,20000.0
+SGYNO21,CONIZATION IVA,20000.0
+SGI10,INGROWING TOENAIL EXCISION UNILATERAL LA,3500.0
+SOPTH27,INTRA VITREAL INJECTION (MINOR OT) W/ TRICORT,1500.0
+SGYNO22,FOTHERGILL'S REPAIR SA,20000.0
+LAB46,D-DIMER,360.0
+SGI11,VASECTOMY,3500.0
+SGYNO23,MCDONALD SUTURE IVA,15000.0
+LAB47,DENGUE RAPID TEST,880.0
+CARD21,ECHO SCREENING,600.0
+SGYNO24,VAGINAL CYST WALL OPERATION SA,15000.0
+SGI12,DEBRIDMENT/CLOSURE LA/REGIONAL,6000.0
+SGYNO25,HYMENECTOMY IVA,15000.0
+SGYNO26,VVF REPAIR SIMPLE SA,35000.0
+ASD18,WRIST AND FOREARM SPLINT,575.0
+SGYNO27,VVF REPAIR COMPLEX SA,45000.0
+CARD22,AORTIC VALVE REPLACEMENT-Non RHD,86000.0
+SGI13,DEBRIDMENT/NECROTISING FASCITIS/DIABETIC FOOT/FOURNIERS GANGRENE/CLOSURE GA/SAB,15000.0
+SGYNO28,ANTERIOR COLPORRHAPHY SA,25000.0
+ASD19,WRIST SPLINT RIGHT/LEFT- LARGE,265.0
+SGI14,EXAMINATION UNDER ANESTHESIA (EUA),3000.0
+SGYNO29,POSTERIOR COLPOPERINEORRHAPHY SA,25000.0
+SGYNO30,EVACUATION OF VAGINAL HEMATOMA SA,25000.0
+CARD23,ASD CLOSURE (Adult),86000.0
+ASD20,WRIST SPLINT RIGHT/LEFT- MEDIUM,245.0
+SGI15,UMBILICAL/INGUINAL/FEMORAL/EPIGASTRIC HERNIA REPAIR UNDER LA,10000.0
+SGYNO31,EVACUATION OF VAGINAL HEMATOMA LA,12000.0
+SGI16,UMBILICAL/INGUINAL/FEMORAL/EPIGASTRIC HERNIA REPAIR UNDER LA WITH MESH HERNIOPLASTY,18000.0
+CARD24,CABG,97000.0
+SGI17,UMBILICAL/INGUINAL/FEMORAL/EPIGASTRIC HERNIA REPAIR UNDER GA/SAB,20000.0
+SGYNO32,ABDOMINAL BURCH COLPOSUSPENSION GA/SA,40000.0
+LAB50,DIRECT BILLIRUBIN,100.0
+SGYNO33,VAGINAL MYOMECTOMY SA,25000.0
+SGI18,INGUINAL/FEMORAL HERNIA REPAIR BILATERAL,25000.0
+SOPTH31,SCLERAL FIXATION OIL+ANTERIOR VITRECTOMY,15000.0
+CARD25,CARDIAC TUMOR EXCISION,86000.0
+SGI19,OPEN APPENDECTOMY SA/SAB,25000.0
+LAB51,EGFR,600.0
+SGYNO34,VAGINAL SEPTUM RESECTION SA,15000.0
+SOPTH32,LID LACERATION REPAIR BIG,7000.0
+LAB52,BREAST IHC PANEL,2400.0
+LAB53,ESR,40.0
+SOPTH34,LID LACERATION REPAIR SMALL,4500.0
+LAB54,FDP,330.0
+SOPTH35,SCLERAL PERFORATION REPAIR,7000.0
+LAB55,FIBRINOGEN,480.0
+SOPTH36,HESS CHART / DIPLOPA CHART,500.0
+CARD26,DOUBLE VALVE REPLACEMENT DVR ( 2 VALVE),94000.0
+SOPTH37,FUNDUS PHOTOGRAPHY BOTH EYE WITH PRINT,500.0
+SOPTH38,VITRECTOMY + SILICON+ENDO LASER,25000.0
+CARD27,EBSTEIN'S ANOMALY REPAIR,94000.0
+SOPTH40,COLOUR VISION TEST,100.0
+CARD28,MITRAL VALVE REPAIR WITH RING (Non-RHD),86000.0
+SOPTH41,ENUCLEATION,9000.0
+CARD29,MITRAL VALVE REPLACEMENT (Non-RHD),86000.0
+SOPTH42,CORNEAL F.B. REMOVAL (DEEP) IN OT Minor surgery,3000.0
+SOPTH43,ORBITOTOMY UNDER LA,8500.0
+CARD31,TRICUSPID VALVE REPAIR/REPLACEMENT (Non_RHD),86000.0
+SOPTH44,ORBITOTOMY UNDER GA,15000.0
+CARD32,ASCENDING AORTIC ANEURYSM REPAIR SURGERY,94000.0
+SOPTH45,AC WASH,2000.0
+SOPTH46,VISUAL FIELD AUTOMATED,1200.0
+SOPTH49,CYST REMOVAL (BIG),4000.0
+CARD33,ASCENDING AORTA/ARCH REPLACEMENT,94000.0
+CARD34,COARCTATION OF AORTA  REPAIR -(ADULT),62000.0
+CARD35,STERNAL WIRE REMOVAL GA,19800.0
+SOPTH50,EXAMINATION UNDER ANESTHESIA EYE (GA),5000.0
+CTVS01,ESOPHAGEAL DILATATION (BALOON) -LA,19000.0
+SOPTH51,IOL REMOVAL +ANTERIOR VITRECTOMY,6000.0
+SOPTH52,LENS ASPIRATION + FOLDABLE IOL HYDROPHOBIC LENS UNDER GA,18000.0
+CTVS02,ESOPHAGEAL DILATATION (SAVARY-GILIARD) GA,14500.0
+SOPTH53,CORNEAL REPAIR,5000.0
+CTVS03,ESOPHAGEAL DILATATION (SAVARY-GILIARD) LA,6900.0
+SOPTH54,TOPOGRAPHY,1000.0
+CTVS04,FLEXIBLE BRONCHOSCOPY G A,14000.0
+SOPTH55,ORTHOPTIC TEST,500.0
+SOPTH56,LOW VISION EVALUATION,500.0
+CTVS05,FLEXIBLE BRONCHOSCOPY LA,8500.0
+SOPTH57,CONTACT LENS EVALUATION,500.0
+CTVS06,INCISION AND DRAINAGE GA,16000.0
+SOPTH58,PTOSIS SURGERY / ONE EYE,13000.0
+SOPTH59,STRABISMUS SURGERY / ONE EYE,10000.0
+CTVS07,PERCUTANEOUS ENDOSCOPIC GASTROSTOMY (PEG) GA,24000.0
+SOPTH60,RETINAL DETACHMENT SURGERY (CYROBUCKLING),15000.0
+SOPTH61,SMALL INCISION CATARACT SURGERY,7000.0
+OPD01,OPD TICKET,50.0
+CTVS08,PERCUTANEOUS ENDOSCOPIC GASTROSTOMY (PEG) LA,18500.0
+SOPTH62,BANDAGE CONTACT LENS,800.0
+CTVS09,TUBE THORACOTOMY UNDER GA,14280.0
+SOPTH63,OPTICAL DISPENSING,100.0
+SOPTH64,KERATOPLASTY (CORNEAL TRANSPLANT),20000.0
+SOPTH65,FEUM,50.0
+ER01,EMERGENCY TICKET,100.0
+CTVS10,TUBE THORACOTOMY UNDER LA,11700.0
+CTVS11,USG GUIDED TRUCUT BIOPSY GA,20000.0
+CTVS12,CHEST WALL SINUSECTOMY/FISTULECTOMY UNDER GA,39200.0
+IPDB1,GENERAL BED WITH CONSULTATION,250.0
+SNEU01,BURR HOLE FOR SUBDURAL HEMATOMA LA,25000.0
+CTVS15,FEEDING JEJUNOSTOMY UNDER LA,26500.0
+IPDB2,POSTOPERATIVE BED WITH CONSULTATION+ DRESSING,1500.0
+CTVS16,LUNG BIOSPY VIA THORACOTOMY,84000.0
+SGI20,PSOAS ABSCESS/ APPENDICULAR ABSCESS DRAINAGE,25000.0
+CTVS17,LUNG BIOSPY VIA VATS,87000.0
+IPDB3,"HDU:CONSULTATION+OXYGEN+BASIC IX (CBC,BLOOD SUGAR,RFT,LFT,ECG, ABG)",2500.0
+SGYNO35,VULVAL BIOPSY IVA,12000.0
+SGI21,ANAL - HEMORRHOIDECTOMY /FISTULA /SINUS,17500.0
+SGYNO36,VULVAL HEMATOMA SA,15000.0
+CTVS18,MEDIASTINAL LN BIOSPY VIA VATS,57000.0
+SGI22,LAPAROTOMY/ADHESIOLYSIS/   DEROTATION OF VOLVULUS/BIOPSY/DAMAGE CONTROL SURGERY,40000.0
+SGI23,EMERGENCY LAPAROTOMY FOR D UODENAL/APPENDIX/SMALL INTESTINE/ GASTRIC PERFORATION/ILIOSTOMY / COLOST,40000.0
+SGYNO37,VULVAL CYST EXCISION SA,15000.0
+IPDB4,"ICU :CONSULTATION+OXYGEN+BASIC IX (CBC, BLOOD SUGAR,RFT,LFT, ECG,ABG)",3500.0
+SGI24,STOMACH - PALLIATIVE GASTROJEJUNOSTOMY,25000.0
+SGYNO38,MARSUPILISATION IVA,15000.0
+SGI25,STOMACH - RAMMSTEDT OPERATION FOR PYLORIC STENOSIS,30000.0
+SGYNO39,PERINEAL TEAR REPAIR SA,12000.0
+SGYNO40,THIRD DEGREE PERINEAL TEAR REPAIR SA,15000.0
+SGI26,OPEN CHOLECYSTECTOMY WITH CBD EXPLORATION,35000.0
+CTVS19,MEDIASTINAL LN BIOPSY VIA MEDIASTINOSTOMY,57000.0
+SGI27,INTESTINE - ILEOSTOMY / COLOSTOMY,25000.0
+SGYNO41,COMPLETE PERINEAL TEAR REPAIR SA,20000.0
+IPDB5,"ICU WITH VENTILLATORS (CONSULTATION+OXYGEN+BASIC IX (CBC,BLOOD SUGAR,RFT,LFT, ECG,ABG)",5500.0
+SGI28,INTESTINE CLOSURE OF ILEOSTOMY / COLOSTOMY,25000.0
+SGI29,BILIARY -CHOLEDOCHO-DUODENOSTOMY /CHOLECYSTO-DUODENOSTOMY/JEJUNOSTOMY,25000.0
+SGYNO42,DIAGNOSTIC HYSTEROSCOPY IVA,15000.0
+SGYNO43,HYSTEROSCOPIC SEPTUM/ADHESION RESECTION SA,20000.0
+SGI30,STOMACH - VAGOTOMY/PYLOROPLASTY/GASTROJEJUNOSTOMY,35000.0
+SGI31,LAPAROSCOPIC APPENDECTOMY/CHOLECYSTECTOMY,35000.0
+SGYNO44,HYSTEROSCOPIC MYOMECTOMY SA,45000.0
+SGI32,STOMACH - TOTAL GASTRECTOMY (OPEN),50000.0
+SGI33,LAPAROSCOPIC HERNIA REPAIR U/L,30000.0
+SGYNO45,DIAGNOSTIC LAPAROSCOPY GA,38000.0
+SGI34,SPLEENECTOMY AND DEVASCULARIZATION,40000.0
+SGYNO46,LAPAROSCOPIC SALPINGOOPHORECTOMY GA,40000.0
+SGYNO47,LAPAROSCOPIC CYSTECTOMY GA,40000.0
+SGYNO48,TOTAL LAPAROSCOPIC HYSTERECTOMY GA,50000.0
+SGI35,LAPAROSCOPIC  GASTRECTOMY,50000.0
+SNEU02,BURR HOLE FOR SUBDURAL HEMATOMA GA,40000.0
+SGYNO49,LAPAROSCOPIC MYOMECTOMY GA,50000.0
+SGI36,LAPAROSCOPIC HEMI-COLECTOMY,50000.0
+SGI37,ESOPHAGECTOMY GA,50000.0
+SGYNO50,LAPAROSCOPIC BURCH COLPOSUSPENSION GA,50000.0
+SNEU03,PLACEMENT OF EVD LA,25000.0
+SGI38,POLYPECTOMY(SURG)LA,5000.0
+SNEU04,PLACEMENT OF EVD GA,40000.0
+SGYNO51,DIAGNOSTIC CYSTOSCOPY IVA,15000.0
+SGI39,STAGING/DIAGNOSTIC LAPAROSCOPY,30000.0
+SNEU05,CSF SHUNT REMOVAL LA,12000.0
+SGYNO52,CYSTOSCOPY WITH DJ INSERTION IVA,25000.0
+SGI40,BELOW/ABOVE KNEE AMPUTATION,28000.0
+SNEU06,CSF SHUNT REMOVAL GA,20000.0
+SGYNO53,NORMAL DELIVERY(WITH EPISIOTOMY),6000.0
+SNEU07,CSF SHUNT PLACEMENT  GA,35000.0
+SGI41,HYDROCELE SURGERY (EVS) UNILATERAL LA,10000.0
+SGYNO54,MANUAL REMOVAL OF PLACENTA IVA,12000.0
+SNEU08,LAMINECTOMY AND DECOMPRESSION OF CORD/EXCISION OF DISC(POSTERIOR APPROACH) GA,60000.0
+LAB56,FLOWCYTOMETERY Per CD MARKER,1200.0
+SGI42,HYDROCELE SURGERY(EVS) UNILATERAL SAB/GA,16000.0
+SNEU09,CRANIOTOMY / CRANIECTOMY,80000.0
+SGYNO55,INSTRUMENTAL DELIVERY LA,8000.0
+SNEU10,EXCISION BY LAMINECTOMY INTRASPINAL LESION   IDEM/ EXTRADURAL,70000.0
+LAB57,"FLUID (PERICARDIAL, PERITONEAL, SYNOVIAL,PLEURAL) - ALBUMIN",60.0
+SGI43,HYDROCELE SURGERY (EVS)BILATERAL SAB/GA,20000.0
+SNEU11,MICROVASCULAR DECOMPRESSION (MVD),70000.0
+SGYNO56,CAESAREAN SECTION GA/SA,22500.0
+LAB58,"FLUID (PERICARDIAL, PERITONEAL, SYNOVIAL,PLEURAL)- PROTEIN",60.0
+IPDB6,INCUBATOR CHARGE PER DAY,500.0
+SGI44,LIPOMA/CYST GA/SAB,15000.0
+SNEU12,ANTERIOR VERTEBRAL CORPECTOMY CERVICAL MULTIPLE LEVEL  (F+F),65000.0
+SGYNO57,CAESAREAN HYSTERECTOMY GA/SA,25000.0
+SGI45,LYMPH NODE/LIPOMA/MASS EXCISION  BIOPSY GA,18000.0
+LAB59,"FLUID (PERICARDIAL, PERITONEAL, SYNOVIAL,PLEURAL) SUGAR",60.0
+SNEU13,ANTERIOR VERTEBRAL CORPECTOMY THORACIC SINGLE LEVEL,60000.0
+SNEU14,CAROTID ENDARTERECTOMY (CEA),45000.0
+SGI46,EXPLORATORY LAPAROTOMY WITH PERIONEAL LAVAGE,22000.0
+LAB60,"FLUID R/E (PL FLUID, ASC FLUID , JOINT FLUID)",188.0
+SGI47,STOMACH - SUBTOTAL GASTRECTOMY OPEN,40000.0
+SNEU15,LUMBER DRAIN INSERTION,12000.0
+LAB61,FNAC (REPORTING AND PROCEDURE),550.0
+SNEU16,MUSCLE BIOPSY LA,8000.0
+SGI48,LAPAROSCOPIC SPLENECTOMY,35000.0
+SNEU17,"NEURAL TUBE DEFECT- MENINGOCELE, MENINGOMYELOCELE, SPINAL DYSRAPHISM GA",60000.0
+LAB62,GCT,60.0
+SGI49,LAPAROSCOPIC COLECTOMY,40000.0
+SNEU18,SCALP LACERATION MINOR,6000.0
+SGYNO58,WIDE RESECTION OF VULVA SA,40000.0
+LAB63,GRAM STAIN,50.0
+SNEU19,SCALP LACERATION MAJOR GA,40000.0
+MP01,DRESSING MINOR,300.0
+SGI50,TOTAL GASTRECTOMY OPEN,45000.0
+SGYNO59,STAGING LAPAROTOMY WITH PLND GA,50000.0
+LAB64,H. PYLORI ANTIGEN/ ANTIBODY,660.0
+SNEU20,EXPLORATION AND REPAIR OF BRACHIAL PLEXUS,70000.0
+LAB65,HB,40.0
+SGYNO60,RADICAL HYSTERECTOMY WITH PLND GA,50000.0
+SGI51,ERCP OPD,8000.0
+SNEU21,EXCISION OF PERIPHERAL NEUROMA GA,50000.0
+LAB66,HbA,120.0
+SGI52,ERCP ( EXTRACTION/STENTING WITH HOSPITALIZATION),21600.0
+LAB67,HBeAg SPOT,200.0
+SNEU22,REPAIR OF CSF RHINORRHOEA,70000.0
+SGI53,ILEAL RESECTION FOR CANCER,45000.0
+SGYNO61,SIMPLE VULVECTOMY GA,40000.0
+SNEU23,REPAIR OF ENCEPHALOCELE,70000.0
+LAB68,HBeAg (ECLIA),650.0
+SNEU24,MINOR NEURO SURGERY PROCEDURE(SEBACEOUS CYST/LIPOMA)GA,25000.0
+SGYNO62,RADICAL VULVECTOMY WITH LND GA,50000.0
+SNEU25,ANEURYSM SURGERY,90000.0
+SNEU26,AVM SURGERY,90000.0
+SGI54,HEMICOLECTOMY/TOTAL/PROCTOCOLECTOMY FOR CANCER,45000.0
+MP02,STITCH REMOVAL,250.0
+LAB69,HBV viral load,4000.0
+SNEU27,ENDOVASCULAR COILING,90000.0
+SGI55,RETROPERITONEAL TUMOR EXCISION,45000.0
+SNEU28,ENDOVASCULAR THROMBECTOMY,90000.0
+LAB70,HBs Ag Test,200.0
+SGI56,MALIGNANT MELANOMA WIDE- LOCAL EXCISION WITH LN DISSECTION,25000.0
+SNEU29,CAROTID STENT,80000.0
+LAB71,HCV SPOT,290.0
+SGI57,LAPAROSCOPIC HERNIA REPAIR B/L,45000.0
+LAB72,HCV-HIV-HBS Quick,800.0
+SNEU30,INFECTED BONE FLAP REMOVAL,70000.0
+MP03,DRESSING  MAJOR,600.0
+LAB73,HISTO BIOPSY MAJOR,540.0
+SGI58,POLYPECTOMY(SURG) GA,25000.0
+LAB74,HISTO BIOPSY MINOR,420.0
+SNEU31,EPIDURAL STEROID INJECTION,5000.0
+SGI59,WHIPPLE PROCEDURE OPEN,80000.0
+LAB75,HIV CD4 COUNT,110.0
+SNEU32,SPINAL NERVE BLOCK,6000.0
+SGI60,WHIPPLE PROCEDURE LAP,90000.0
+MP04,SUTURING GA,1500.0
+LAB76,HIV I & II (SPOT),330.0
+SGI61,DISTAL PANCREATECTOMY OPEN,50000.0
+LAB77,HIV VIRAL LOAD,110.0
+MP05,SUTURING SMALL LA,500.0
+SNEU33,TRIGMENIAL NERVE- RF RHIZOTOMY,13000.0
+SGI62,DISTAL PANCREATECTOMY LAP,60000.0
+MP06,SUTURING LARGE LA,1000.0
+LAB78,HIV(ECLIA),400.0
+LAB79,INDIAN INK PREPARATION,30.0
+SGI63,RAMPS OPEN,50000.0
+SGI64,RAMPS  LAP,60000.0
+SGI65,FREY PROCEDURE / CHRONIC PANCREATITIS,60000.0
+SNEU34,ENDOSCOPIC DISSECTOMY,70000.0
+SGI66,CYSTO-GASTROSTOMY,45000.0
+SGI67,EXTENDED CHOLECYSTECTOMY OPEN,50000.0
+SNEU35,POSTERIOR SPINAL INSTRUMENTATION,70000.0
+SGI68,EXTENDED CHOLECYSTECTOMY LAP,60000.0
+LAB81,INFLUENZA PCR,1500.0
+SNEU36,PERIPHERIAL NERVE DECOMPRESSION LA,30000.0
+SNEU37,PERIPHERIAL NERVE DECOMPRESSION GA,40000.0
+MP07,CPAP ( CONTINIOUS POSITIVE AIRWAY PRESSURE),1900.0
+SNEU38,BURR HOLE BIOPSY AND ASPIRATION  LA,40000.0
+SNEU39,BURR HOLE BIOPSY AND ASPIRATION  GA,60000.0
+SNEU40,DSA (CEREBRAL) DIGITAL SUBSTRACTION ANGIOGRAPHY,40000.0
+SNEU41,CRANIOPLASTY,60000.0
+LAB82,IRON,120.0
+SNEU42,ENDOSCOPIC TUMOR REMOVAL,70000.0
+LAB83,K39,600.0
+MP08,BIPAP (BILEVEL POSITIVE AIRWAY PRESSURE),1650.0
+SNEU43,ETV (ENDOSCOPIC THIRD VENTRICULOSTOMY),60000.0
+LAB84,KOH PREPARATION,30.0
+LAB85,LCA LEUKOCYTE COMMON ANTIGEN,2040.0
+SNEU44,SPINAL FUSION PROCEDURE,75000.0
+MP09,RADIANT WARMER/ DAY,900.0
+SORTHO01,USG GUIDED INTRA-ARTICULAR STEROID INJECTION (INCLUDING STEROID MEDICINE),2000.0
+LAB86,LEPTOSPIRA RAPID TEST,440.0
+SGI69,CHOLEDOCHAL CYST EXCISION OPEN,50000.0
+LAB87,MCH,30.0
+MP10,CHEMOTHERAPY PER DAY INFUSION,500.0
+SGI70,CHOLEDOCHAL CYST EXCISION LAP,60000.0
+SGI71,CHOLANGIO CARCINOMA SURGERY,60000.0
+SPFM01,DEBRIDEMENT/ DRESSING SMALL UNDER LA,7200.0
+SGI72,HEPATICO JEJUNOSTOMY,50000.0
+SGI73,RIGHT/LEFT HEPATECTOMY OPEN,60000.0
+SGI74,RIGHT/LEFT HEPATECTOMY LAP,60000.0
+SPFM03,DEBRIDEMENT/DRESSING LARGE UNDER GA,15000.0
+SGI75,SECTIONECTOMY OPEN,45000.0
+SPFM02,DEBRIDEMENT/ DRESSING SMALL UNDER GA,11000.0
+LAB88,MCHC,30.0
+SGI76,SECTIONECTOMY LAP,55000.0
+LAB89,MCV,30.0
+SPFM04,LACERATION REPAIR SMALL UNDER LA,3000.0
+SGI77,SURGERY FOR RECTAL PROLAPSE,50000.0
+NEPM01,USG GUIDED KIDNEY BIOPSY,12000.0
+SPFM05,LACERATION REPAIR LARGE UNDER LA,12000.0
+LAB90,MICROFILARIA,45.0
+SPFM06,LACERATION REPAIR SMALL UNDER GA,12000.0
+SGI78,APR OPEN (Abdomino Perineal Resection),55000.0
+NEPM02,FEMORAL DIALYSIS CATHETER INSERTION,8000.0
+SGI79,APR LAP (Abdomino Perineal Resection),65000.0
+SPFM07,LACERATION REPAIR LARGE UNDER GA,17000.0
+LAB91,MUM1,4240.0
+SGI80,LAR OPEN (Lower Anterior Resection),55000.0
+SGI81,LAR LAP  (Lower Anterior Resection),65000.0
+SORTHO02,SKIN GRAFT GA/SA,12000.0
+SPFM08,BURN EARLY EXCISION AND SKIN GRAFTING SMALL,15000.0
+SGI82,AR OPEN (Anterior Resection),55000.0
+LAB92,PCV,30.0
+CTVS20,OESOPHAGEAL DILATATION (BALOON),33500.0
+SPFM09,BURN EARLY EXCISION AND SKIN GRAFTING LARGE,25000.0
+SGI83,AR LAP (Anterior Resection),65000.0
+SORTHO03,LOCAL FLAP GA/SA,15000.0
+LAB93,PHLEBOTOMY,110.0
+SGI84,WEDGE RESECTION OF STOMACH,50000.0
+CTVS21,OESOPHAGEAL STENTING (STENT EXCLUDED) UNDER GA,33500.0
+SORTHO04,SECONDARY SUTURING LA,1000.0
+SPFM10,SKIN GRAFTING SMALL UNDER LA,10000.0
+SGI85,LINORENAL SHUNT,60000.0
+LAB94,PLATELET COUNT,30.0
+SORTHO05,SLAB/ CAST APPLICATION WITHOUT ANAESTHESIA,2000.0
+NEPM03,INTERNAL JUGULAR/SUBCLAVIAN  DIALYSIS CATHETER INSERTION,13000.0
+CTVS22,RE- EXPLORATORY THORACOTOMY UNDER GA,68500.0
+SGI86,CARDIOMYOTOMY,40000.0
+LAB95,POTASSIUM,120.0
+SORTHO06,SLAB/ CAST APPLICATION WITH ANAESTHESIA( INCLUDING FRACTURE REDUCTION) INCLUDING COST OF CAST BLOCK/,5000.0
+SGI87,FUNDOPLICATION,40000.0
+SORTHO07,SLAB/ CAST APPLICATION WITH ANAESTHESIA( INCLUDING FRACTURE REDUCTION) INCLUDING COST OF CAST GA,10500.0
+SGI88,PILONIDAL SINUS SURGERY,20000.0
+SORTHO08,FOOT FRACTURE/ DISLOCATION SIMPLE,15000.0
+SPFM12,SKIN GRAFTING LARGE UNDER GA,20000.0
+SGI89,ENUCLEATION OF HYDATID CYST / HYDTAID CYST OPERATION,30000.0
+SORTHO09,FOOT FRACTURE/DISLOCATION COMPLEX,35000.0
+SPFM11,SKIN GRAFTING SMALL UNDER GA,12500.0
+SGI90,EXCISION OF ANAL WART,20000.0
+SORTHO10,FOOT FRACTURE/DISLOCATION(METATARSAL AND PHALANGES) FIXATION GA,15000.0
+SORTHO11,K-WIRE REMOVAL,1000.0
+SPFM13,FLAP COVER SMALL UNDER LA,8000.0
+LAB96,PREGNANCY TEST,30.0
+SORTHO12,HIP SPICA GA,11000.0
+SENT01,EUE/EUM GA,10000.0
+SPFM14,FLAP COVER INTERMEDIATE UNDER LA,12000.0
+SORTHO13,TRIGGER FINGER RELEASE LA,8000.0
+CTVS26,TRACHEAL DILATATION (BALLON),67000.0
+SENT02,EUE/EUM LA,3000.0
+SORTHO14,TRIGGER FINGER RELEASE GA,11000.0
+SPFM15,FLAP COVER LARGE UNDER LA,14000.0
+CTVS27,TRACHEAL DILATATION (RIGID),63700.0
+SORTHO15,AMPUTATION DIGIT UNDER NERVE BLOCK,8000.0
+CTVS28,TRACHEOSTOMY UNDER GA + BEDSIDE TRACHESOTOMY,13200.0
+SORTHO16,IMPLANT REMOVAL -PLATE/CCS GA,12000.0
+SPFM16,FLAP COVER SMALL UNDER GA,15000.0
+SORTHO17,IMPLANT REMOVAL - PLATE/CCS GA MAJOR,20000.0
+CTVS29,TRACHEOSTOMY UNDER LA,5500.0
+LAB97,PROTEIN ELETROPHORESIS,214.5
+NEPM04,TEMPORARY DIALYSIS CATHETER  REMOVAL CHARGE,500.0
+SORTHO18,STEINMANN PIN FOR  SKELETON TRACTION LA,3000.0
+SPFM17,FLAP COVER LARGE UNDER GA,20000.0
+SENT03,PREAURICULAR SINUS EXCISION/COLLOAURAL FISTULA EXCISION GA,20000.0
+CTVS30,WINDOW THORACOSTOMY UNDER GA,82000.0
+SPFM18,FLAP DETACHMENT UNDER LA,8000.0
+SENT04,PREAURICULAR SINUS EXCISION /COLLOAURAL FISTULA EXCISION LA,10000.0
+SORTHO19,HAND- MCP/IP JOINTS DISLOCATIONS UNDER NERVE BLOCK,7000.0
+SPFM19,FLAP DETACHMENT UNDER GA,12000.0
+SORTHO20,HAND- MCP/IP JOINTS DISLOCATIONS UNDER GA,11000.0
+LAB98,PRP(ROUTINE),840.0
+SORTHO21,REDUCTION OF SHOULDER/ELBOW/KNEE DISLOCATION GA,11000.0
+NEPM05,CAPD CATHETER REMOVAL CHARGE,5000.0
+LAB99,PT INR,120.0
+SORTHO22,REDUCTION OF HIP DISLOCATION GA,12000.0
+LAB100,RBC,30.0
+SORTHO23,TENDON REPAIR (SINGLE) UNDER NERVE BLOCK,8000.0
+SORTHO24,TENDON REPAIR (MULTIPLE) GA,15000.0
+SORTHO25,POLYDACTYLY EXCISION LA,8000.0
+SPFM20,FREE FLAP GA,40000.0
+SORTHO26,POLYDACTYLY EXCISION MULTIPLE  GA,20000.0
+CTVS31,WINDOW THORACOSTOMY UNDER LA/Regional,62100.0
+SORTHO27,ARTHRODESIS OF SMALL JOINTS (MTP/MCP/IP) GA,11000.0
+SPFM21,HAND INJURY REPAIR WITH FRACTURE FIXATION SMALL UNDER LA,20000.0
+NEPM06,TUNNELED DIALYSIS CATHETER INSERTION,15000.0
+SORTHO28,ARTHRODESIS OF LARGE JOINTS(WRIST/ANKLE/ELBOW) GA,20000.0
+SPFM22,HAND INJURY REPAIR WITH FRACTURE FIXATION LARGE UNDER LA,35000.0
+SENT05,MYRINGOTOMY/ VTI /ENDOSCOPIC/MICROSCOPIC  GA,15000.0
+SORTHO29,FIXATION OF INTERCONDYLAR FRACTURE OF HUMERUS UNDER REGIONAL BLOCK/  GA,18000.0
+CTVS33,CERVICAL OESPHAGOSTOMY AND FEEDING JEJUNOSTOMY,95500.0
+SORTHO30,ELBOW FRACTURE OTHER THAN  INTERCONDYLAR FRACTURE REGIONAL BLOCK/GA,25000.0
+SENT06,MYRINGOTOMY/ VTI LA,8000.0
+CTVS34,MEDIATINAL LN BIOPSY VIA MEDIASTINOSCOPY,62500.0
+SORTHO31,CONTRACTURE RELEASE SIMPLE SINGLE,10000.0
+SPFM23,HAND INJURY REPAIR WITH FRACTURE FIXATION SMALL UNDER GA,30000.0
+CTVS35,MODIFIED HELLER'S CARDIOMYOTOMY VIA THORACOTOMY,85500.0
+SORTHO32,CONTRACTURE RELEASE MULTIPLE,15000.0
+SPFM24,HAND INJURY REPAIR WITH FRACTURE FIXATION LARGE UNDER GA,40000.0
+SORTHO33,DEBRIDEMENT (SMALL) UNDER NERVE BLOCK,6000.0
+SENT07,MYRINGOPLASTY/ENDOSCOPIC/MICROSCOPIC,25000.0
+SORTHO34,DEBRIDEMENT LARGE GA,12000.0
+SPFM25,TENDON REPAIR SMALL (SINGLE) UNDER LA,10000.0
+SORTHO35,CARPAL TUNNEL RELEASE LA/REGIONAL BLOCK,9000.0
+CTVS36,OESOPHAGEAL DIVERTICULLUM EXCISION AND REPAIR,89000.0
+SPFM26,TENDON REPAIR LARGE ( 5 OR GREATER) UNDER LA,20000.0
+SORTHO36,HAND CARPAL TUNNEL RELEASE GA,16000.0
+SENT08,MYRINGOPLASTY LA,15000.0
+CTVS37,PERICARDIAL WINDOW (OPEN),62000.0
+SORTHO37,MICROSCOPIC NERVE REPAIR,2500.0
+CTVS38,PERICARDIAL WINDOW (VATS),67500.0
+SENT09,TYMPANOPLASTY GA,30000.0
+SPFM27,TENDON REPAIR SMALL (SINGLE) UNDER GA,12000.0
+SORTHO38,BIOPSY TRUCUT,3750.0
+SPFM28,TENDON REPAIR LARGE ( 5 OR GREATER) UNDER GA,20000.0
+SENT10,TYMPANOPLASTY LA,18000.0
+SORTHO39,BIOPSY EXCISIONAL/INCISIONAL UNDER REGIONAL BLOCK /GA,11000.0
+SENT11,MRM/RADICAL MASTOIDECTOMY/MASTOID EXPLORATION GA,45000.0
+SORTHO40,EXCISIONAL BIOPSY MAJOR,25000.0
+NEPM07,TUNNELED DIALYSIS CATHETER REMOVAL,2000.0
+SPFM29,VESSEL / NERVE REPAIR SMALL (SINGLE) UNDER LA,20000.0
+SENT12,NASAL BONE FRACTURE CLOSED REDUCTION  GA,20000.0
+SORTHO41,DECOMPRESSION SEPTIC ARTHRITIS/OSTEOMYELITIS,12000.0
+SPFM30,VESSEL / NERVE REPAIR LARGE (VEIN/NERVE GRAFT) UNDER LA,40000.0
+SENT13,NASAL BONE FRACTURE CLOSED REDUCTION,10000.0
+SORTHO42,CHRONIC OSTEOMYELITIS (SURGICAL MANAGEMENT INCLUDING I&D/ DRESSING),20000.0
+SPFM31,VESSEL / NERVE REPAIR SMALL (SINGLE) UNDER GA,25000.0
+SORTHO43,FIXATION OF FRACTURES SHAFT OF FEMUR/TIBIA WITH NAIL/PLATE,35000.0
+SENT14,NASOLABIAL CYST EXCISION GA,30000.0
+NEPM08,HEMODIALYSIS,2500.0
+SENT15,NASOLABIAL CYST EXCISION LA,10000.0
+SPFM32,VESSEL / NERVE REPAIR LARGE (VEIN/NERVE GRAFT) UNDER GA,35000.0
+SENT16,ESPAL GA UNILATERAL GA,20000.0
+SORTHO44,Forearm- Fracture Distal Radius - ORIF Regional Block,18000.0
+SPFM33,REVASCULARIZATION SMALL,35000.0
+NEPM09,PLASMAPHERESIS PROCEDURE ONLY,5000.0
+SENT17,SEPTAL PERFORATION REPAIR  GA,20000.0
+SORTHO45,Forearm- Fracture Distal Radius - ORIF GA,25000.0
+SPFM34,REVASCULARIZATION LARGE,45000.0
+SENT18,SEPTAL PERFORATION REPAIR LA,10000.0
+SORTHO46,Ankle Fracture -Single Mallelous /SA,12000.0
+SPFM35,NERVE RECONSTRUCTION SMALL,25000.0
+SPFM36,NERVE  RECONSTRUCTION LARGE,35000.0
+SENT19,INTRANASAL POLYP AVULSION/ INPA LA,8000.0
+SENT20,ENDOSCOPIC MEDIAL MAXILLECTOMY GA,20000.0
+SPFM37,CONTRACTURE / SYNDACTYLI RELEASE SMALL UNDER LA,10000.0
+LAB101,RBC MORPHOLOGY,110.0
+SENT21,ENDOSCOPIC MEDIAL MAXILLECTOMY,25500.0
+LAB102,RETICS,60.0
+CTVS39,PLEURAL BIOSPY VIA VATS,62500.0
+SENT22,TONSILLECTOMY CONVENTIONAL,25000.0
+NEPM10,CRRT( CONTINUOUS RENAL REPLACEMENT THERAPY),10000.0
+SENT23,TONSILLECTOMY COBLATION/MICRO DEBRIDER,40000.0
+SORTHO47,Ankle Fracture -Complex GA,30000.0
+SENT24,HEMITHYROIDECTOMY GA,40000.0
+LAB103,SCRUB TYPHUS,600.0
+SENT25,HEMITHYROIDECTOMY LA,25500.0
+SORTHO48,HIP FRACTURE- NECK/INTERTROCHANTRIC FIXATION WITH CCS/ DHS/PFN UNDER GA,32000.0
+CTVS40,RIB EXCISION SINGLE UNDER GA,64000.0
+LAB104,SERUM ELECTROLYTE (SODIUM + POTASSIUM),240.0
+SORTHO49,HEMIREPLACEMENT ARTHROPLASTY FOR FRACTURE NECK OF FEMURE,35000.0
+SPFM40,CONTRACTURE / SYNDACTYLI RELEASE LARGE UNDER GA,30000.0
+LAB105,SGOT/SGPT,75.0
+NEPM11,CAPD CATHETER INSERTION,10000.0
+SORTHO50,HIPS FRACTURE FEMUR NECK HEMIARTHROPLASTY GA,35000.0
+SENT26,TOTAL THYROIDECTOMY/  GA,45000.0
+SPFM38,CONTRACTURE / SYNDACTYLI RELEASE LARGE UNDER LA,30000.0
+LAB106,SODIUM,120.0
+SORTHO51,PATELLA FRACTURE EXCISION/FIXATION SA,15000.0
+CTVS41,SMALL CHEST WALL MASS EXCISSION,64000.0
+SENT27,PAROTIDECTOMY ADEQUATE/SUPERFICIAL,35000.0
+LAB107,SPECIFIC GRAVITY OF URINE,30.0
+SORTHO52,PATELLA FRACTURE EXCISION/ FIXATION GA,17000.0
+SPFM39,CONTRACTURE / SYNDACTYLI RELEASE SMALL UNDER GA,20000.0
+SORTHO53,TIBIA CONDYLAR FRACTURE -PERCUTANEOUS SCREW FIXATION SA,17000.0
+SENT28,PAROTIDECTOMY TOTAL CONSERVATIVE,40000.0
+SPFM41,POLYDACTYLY CORRECTION SMALL UNDER LA,10000.0
+SORTHO54,TIBIA CONDYLAR FRACTURE - SINGLE PLATE FIXATION  GA,30000.0
+LAB109,SPUTUM FOR EOSINOPHIL,60.0
+CTVS42,THORACIC SYMPATHECTOMY VIA VATS,72000.0
+SORTHO55,ORIF SIMPLE,20000.0
+CTVS43,THORACOTOMY FOR CHEST TRAUMA,82000.0
+SORTHO56,ORIF COMPLEX,30000.0
+LAB110,STOOL RE/ME,30.0
+SENT29,PAROTIDECTOMY RADICAL,45000.0
+SORTHO57,ARTHROTOMY SMALL JOINTS,9000.0
+SENT30,CERVICAL LYMPH NODE EXCISION /BIOPSY LA,10000.0
+SORTHO58,ARTHROTOMY LARGE JOINTS,15000.0
+PED01,MINOR ABSCESS/SUPERFICIAL/SIMPLE DRESSING LA,2000.0
+SORTHO59,DRAINAGE OF PSOAS ABSCESS -OPEN,20000.0
+CTVS44,THORACOTOMY FOR TRACHEOBRONCHIAL FB REMOVAL,68000.0
+LAB111,SUGAR F,60.0
+SORTHO61,FEMUR CONDYLAR FRACTURE/ DISLOCATION - SIMPLE,25000.0
+SENT31,RIGID OESOPHAGOSCOPY AND FB REMOVAL,10000.0
+SPFM42,POLYDACTYLY CORRECTION SMALL UNDER GA,15000.0
+LAB112,SUGAR PP,60.0
+SORTHO62,FEMUR CONDYLAR FRACTURE/DISLOCATION - COMPLEX,35000.0
+CTVS46,DELOCULATION/ DECORTICATION VIA VATS,93000.0
+SPFM43,POLYDACTYLI CORRECTION LARGE UNDER GA,20000.0
+LAB113,SUGAR R,60.0
+SENT32,RIGID BRONCHOSCOPY AND FB REMOVAL,10000.0
+SORTHO63,SYNDACTYLY RELEASE AND GRAFTING GA,16000.0
+SPFM44,TRIGGER FINGER RELEASE (SINGLE) UNDER LA,8000.0
+LAB114,TC+DC+ HB+ PLATELET,170.0
+SORTHO66,DISSCECTOMY (OPEN),35000.0
+PED02,MINOR ABSCESS/SUPERFICIAL/SIMPLE DRESSING IVA/GA,4500.0
+SENT33,NECK ABSCESS I AND D SMALL GA,12000.0
+SPFM45,TRIGGER FINGER RELEASE (SINGLE) UNDER GA,15000.0
+SORTHO67,ENDOSCOPIC DISSECTOMY,40000.0
+SENT34,NECK ABSCESS I AND D LARGE GA,15000.0
+LAB115,TOTAL BILLIRUBIN,100.0
+SORTHO68,LAMINECTOMY  AND DECOMPRESSION OF CORD,35000.0
+SPFM46,CARPAL TUNNEL RELEASE SMALL,12000.0
+SENT35,PARATHYROIDECTOMY,35000.0
+LAB116,TOTAL COUNT (TC),40.0
+PED03,MAJOR ABSCESS/DEEP=SKIN TO MUSCLE IVA/GA,5500.0
+SORTHO69,HAND- CARPAL/METACARPAL/PHALANGES FRACTURE : ORIF,18000.0
+SPFM47,MOLE / SKIN LESION EXCISION SMALL UNDER LA,5000.0
+LAB117,TOTAL PROTEIN,60.0
+SORTHO72,FASCIOTOMY AND PROCEED,35000.0
+CTVS47,DELOCULATION/DECORTICATION VIA THORACOTOMY,89500.0
+LAB118,TPHA,230.0
+SENT36,THYROIDECTOMY MODIFIED RADICAL,35000.0
+SPFM48,MOLE / SKIN LESION EXCISION LARGE UNDER LA,10000.0
+SORTHO73,HIPS CDH ACETABULOPLASTY GA,26000.0
+SENT37,THYROIDECTOMY RADICAL GA,30000.0
+SPFM49,MOLE / SKIN LESION EXCISION SMALL UNDER GA,12000.0
+LAB119,TRIGLYCERIDE,260.0
+SORTHO75,SHOULDER FRACTURE DISLOCATION SIMPLE,25000.0
+CTVS48,DIAPHRAGMATIC HERNIA (CONGENITAL)REPAIR,95000.0
+PED04,SCLEROTHERAPY IVA,5500.0
+SORTHO76,SHOULDER FRACTURE DISLOCATION- COMPLEX,35000.0
+CTVS49,DIAPHRAGMATIC PLICATION VIA THORACOTOMY,88000.0
+SPFM50,MOLE / SKIN LESION EXCISION LARGE UNDER GA,20000.0
+SORTHO77,CERVICAL SPINE LAMINECTOMY AND FUSION,35000.0
+SORTHO78,EXCISION BY LAMINECTOMY INTRASPINAL LESION OTHER THAN NEOPLASM,35000.0
+SPFM51,SKIN (SOFT TISSUE)  TUMOUR SMALL LA,10000.0
+PED05,SYNECHIA RELEASE IVA/GA,5500.0
+SORTHO79,PELVIS/ACETABULAR FRACTURE- SINGLE WALL/ COLUMN,35000.0
+CTVS50,DIAPHRAGMATIC PLICATION VIA VATS,89000.0
+SPFM52,SKIN (SOFT TISSUE)  TUMOUR SMALL GA,12500.0
+LAB120,TROPONIN I QUALITATIVE,720.0
+SORTHO80,PELVIS/ACETABULAR FRACTURE- BOTH WALL/ COLUMN,45000.0
+LAB121,TROPONIN QUANTITATIVE,700.0
+SORTHO81,PELVIS FRACTURE EXTERNAL FIXATION,27000.0
+SPFM53,SKIN (SOFT TISSUE)  TUMOUR LARGE GA,20000.0
+LAB122,UREA BREATH TEST,1980.0
+SORTHO82,ARTHOSCOPIC DIAGNOSTIC,20000.0
+SPFM54,CLEFT LIP UNILATERAL GA,25000.0
+SURO01,URETHRA- EXCISION OF  URETHRAL CARUNCLE IVA/SA,11000.0
+SORTHO83,TOTAL HIP/ KNEE REPLACEMENT SURGERY U/L(IMPLANT EXTRA),50000.0
+SPFM55,CLEFT LIP UNILATERAL LA,20000.0
+CTVS51,DIAPHRAGMATIC TEAR REPAIR (TRAUMA) UNDER GA,93500.0
+SORTHO84,CURETTEGE AND SEQUESTRETOMY,20000.0
+SURO02,URETHRA- EXCISION OF  URETHRAL CARUNCLE LA,5000.0
+SORTHO85,CLAVICLE(ORIF),18000.0
+SPFM56,CLEFT LIP BILATERAL GA,30000.0
+SORTHO86,SPINAL FUSION POSTERIOR,40000.0
+SURO03,URETHRA- EXCISION OF  URETHRAL CARUNCLE GA,11000.0
+LAB123,URINE R/E,30.0
+SORTHO87,WRIST FRACTURE/DISLOCATION  SIMPLE,25000.0
+SPFM57,CLEFT PALATE UNDER GA,35000.0
+CTVS52,HIATUS HERNIA REPAIR (LAPROSCOPIC),89000.0
+LAB124,UROBILINOGEN,30.0
+SURO04,URETHRAL DILATION LA,5000.0
+SPFM58,BED SORE LARGE GA,24000.0
+LAB125,VDRL,60.0
+SURO05,URETHRAL DILATION SA/GA,11000.0
+SORTHO88,WRIST FRACTURE/DISLOCATION  COMPLEX,35000.0
+CTVS53,HYDATID CYST ENUCLEATION VIA THORACOTOMY,93500.0
+PED06,ANAL DILATATION IVA/GA,5500.0
+SORTHO89,BILATERAL KNEE REPLACEMENT,90000.0
+SURO06,CYTOSCOPY LA,5000.0
+CTVS55,LAPROSCOPIC MODIFIED HELLER'S CARDIOMYTOMY,95000.0
+LAB126,WIDAL TEST,110.0
+SORTHO90,OPEN FRACTURE AND PROCEED,40000.0
+PED07,EUA =Evaluation Under Anesthesia IVA/GA,5500.0
+CTVS56,LASER BRONCCHOSCOPY (LONG),76500.0
+SORTHO91,ROOT BLOCK,5000.0
+LAB128,BLOOD GROUPING AND RH TYPING,50.0
+SORTHO92,ARTHOSCOPY SIMPLE,40000.0
+SORTHO93,ARTHOSCOPY COMPLEX,75000.0
+SURO07,CYSTOSCOPY IVA/SA,7000.0
+SORTHO94,ARTHOSCOPIC DRAINAGE,15000.0
+SURO08,CYTOSCOPY SA,11000.0
+RADIN17,BARIUM (SWALLOW/MEAL/LOOPO GRAM),1500.0
+RADIN18,BARIUM ENEMA/FOLLOW THROUGH,2000.0
+CTVS57,LASER BRONCCHOSCOPY (SHORT),65500.0
+SURO09,CYSTOLITHOLOTOMY OPEN SA/IVA,25000.0
+PED08,CAUTERIZATION OF UMBILICAL GRANULOMA IVA/GA,5500.0
+SURO10,CYSTOLITHOTRIPSY   PNEUMATIC SA,25000.0
+PED09,RELEASE OF PREPUCIAL ADHESION IVA/GA,5500.0
+SURO11,CYSTOLITHOTRIPSY   LASER SA,30000.0
+RADIN01,USG (ABD+PELVIS/OBS SCAN/SMALL PARTS(THYROID/NECK/BREAST/SCROTOM/MSK/JOINTS/,800.0
+CTVS58,MEDIASTINAL MASS EXCISION VIA STERNOTOMY/ OPEN THYMECTOMY,91000.0
+SURO12,URETEROCYSTONEOSTOMY (UCN) OPEN GA/SA,35000.0
+PED11,TONGUE TIE RELEASE IVA/GA,5500.0
+RADIN02,USG GUIDED PROCEDURE(FNAC/DIAGNOSTIC ASPIRATION),1200.0
+CTVS59,MEDIASTINAL MASS EXCISION VIA THORACOTOMY,91000.0
+SURO13,URETEROSCOPIC LITHOTRIPSY (URSL) PNEUMATIC + DJ STENTING  GA/SA,40000.0
+RADIN03,TRUS/TVS/USG GUIDED THERAPEUTIC ASPIRATION/ELASTOGRAPHY,1500.0
+PED12,URETHRAL DILATATION,5800.0
+CTVS60,MEDIASTINAL THYROIDECTOMY,81500.0
+SURO14,URSL WITH  LASER LITHOTRIPSY +DJ STENTING UNILATERAL/BILATERAL  GA/SA,40000.0
+LAB129,24 HOUR URINARY CREATININE,120.0
+SURO15,URETER - URETEROSCOPY (URS) DIAGNOSTIC IVA/SA/GA,18000.0
+CTVS61,OESOPHAGOCELE DEROOFING VIA VATS,83000.0
+RADIN04,ANOMALY SCAN,1500.0
+SURO16,REPAIR OF TRAUMATIC BLADDER RUPTURE GA/SA,30000.0
+CTVS63,GASTRIC PULL UP (ONLY),99000.0
+RADIN05,DOPPLER(CAROTID/SINGLE LIMB VENOUS/ARTERIAL/FETAL DOPPLER/RENAL DOPPLER/PORTAL DOPPLER,2000.0
+MM0,Nebulization per episode,120.0
+PED13,IN GROWN TOE NAIL,5800.0
+MM1,Speech Therapy per session,180.0
+RADIN06,BILATERAL UPPER/LOWER LIMB ARTERIAL OR VENOUS DOPPLER,3500.0
+CTVS64,LOBECTOMY/BILOBECTOMY VIA THORACOTOMY,96000.0
+LAB130,24 Hrs URINE CALCIUM,180.0
+CTVS65,LOBECTOMY/BILOBECTOMY VIA VATS,99800.0
+MM2,Phototherapy per sitting,240.0
+RADIN07,BILATERAL UPPER/LOWER LIMB ARTERIAL AND VENOUS DOPPLER,6000.0
+LAB131,24 Hrs URINE PHOSPHATE,120.0
+SURO17,URETEROLITHOTOMY OPEN  +DJ STENTING GA/SA,30000.0
+PED14,CHEST TUBE DRAINAGE (IVA/GA),6300.0
+RADIN08,ENDOSCOPIC USG/TRANSESOPHAGEAL ECHO,4000.0
+SURO18,URETEROLITHOTOMY LAP +DJ STENTING GA,35000.0
+LAB132,24 Hrs URINE POTASSIUM,180.0
+PED15,MEATOTOMY,7000.0
+LAB133,24 Hrs URINE SODIUM,180.0
+PED16,SUBCUTANEOUS LEISONS EXCISION,7000.0
+CTVS68,PERFORATOR LIGATION ONLY/SPJ LIGATION ONLY UNDER SA,9500.0
+SURO19,TURBT  GA/SA,32000.0
+CTVS69,PERFORATOR LIGATION ONLY/SPJ LIGATION ONLY UNDER GA,13000.0
+LAB134,24 Hrs URINE URIC ACID,180.0
+SURO20,RETROPUBIC PROSTATECTOMY GA/SA,30000.0
+PED17,SIGMOIDOSCOPY (RIGID)/ PROCTOSCOPY + POLYPECTOMY,6500.0
+LAB135,ACETAMINOPHEN (PARACETAMOL LEVEL),825.0
+CTVS70,TOE/DIGITAL AMPUTATION UNDER RA,9500.0
+SURO21,URETEROCALICOSTOMY OPEN GA/SA,35000.0
+RADIN09,USG B-SCAN,400.0
+RADIN10,ECG,200.0
+LAB136,ACETONE,30.0
+SURO22,URETEROCALICOSTOMY LAP GA,50000.0
+RADIN11,EEG,1500.0
+CTVS71,TOE/DIGITAL AMPUTATION UNDER LA,5500.0
+PED18,SIGMOIDOSCOPY (FLEXIBLE) / COLONOSCOPY+POLYPECTOMY,8500.0
+SURO23,BLADDER DIVERTICULECTOMY GA/SA,35000.0
+LAB137,ACID PHOSPHATASE,240.0
+RADIN12,SINGLE SITE AP/PA VIEW,400.0
+SURO24,PARTIAL CYSTECTOMY GA/SA,35000.0
+CTVS72,FASCIOTOMY UNDER GA,13000.0
+LAB138,ADA TEST,360.0
+CTVS73,FASCIOTOMY UNDER LA,6500.0
+PED19,MINOR BURN DRESSING <5%,7000.0
+RADIN13,SINGLE SITE AP/PA+ LATERAL/OBLIQUE/ADDITATIONAL VIEW(SINGLE FILM),500.0
+LAB139,ALPHA FETOPROTEIN (AFP),450.0
+CTVS74,PERIPHERAL ANGIOGRAPHY (DYE EXTRA),18500.0
+PED20,SINUS TRACT EXCISION,7000.0
+LAB140,AMMONIA,500.0
+MM3,Oxygen gas charge /1 hr,30.0
+MM4,PAC ( Post abortion Medical care),600.0
+LAB141,ANTI D - ANTIBODY TITRE ( INDIRECT COOMBS TEST),180.0
+RADIN14,SINGLE SITE AP/PA+ LATERAL/OBLIQUE/ADDITATIONAL VIEW(DOUBLE FILM),700.0
+MM5,Posterior Nasal Packing,1440.0
+RADIN15,MAMMOGRAM,1700.0
+PED21,FISTULOTOMY/SETON PLACEMENT,9500.0
+MM6,Poisoning Emergency Management package,2400.0
+RADIN16,DEXASCAN/BONE DENSIOMETRY,1500.0
+MM7,Snake bite Medical Management,3600.0
+SURO25,PERCUTANEOUSCYSTOLITHOTRIPSY ( PCCL) GA/SA,35000.0
+RADIN19,RGU/MCU/SAILOGRAM/SINOGARM/FISTULOGRAM/T-TUBE CHOLANGIOGRAM/CONVENTATIONAL IVU,1500.0
+MM8,Renal Calculi medical management,3600.0
+PED22,MARSUPILIZATION OF RANULA,10000.0
+MM9,Cellulitis ( Medical Management with minor dressing),3600.0
+RADIN20,HYSTEROSALPHINGOGRAM (HSG),2000.0
+LAB142,ANTI HBsAg ELISA,120.0
+MM10,Ante-natal care package (Medical Management),3600.0
+CTVS75,VENOGRAM(CONTRAST IN PACKAGE),18500.0
+RADIN21,RADIOTHERAPY PER FRACTION UNIT,1000.0
+CTVS76,CEREBRAL ANGIOGRAM,18500.0
+MM11,Sickle Cell/ Aplastic Anemia (Medical Management/ blood transfusion),3600.0
+RADIN22,RADIOTHERAPY FULL COURSE (X 30 FRACTION),30000.0
+CTVS77,CHEMICAL LUMBER SYMPATHECTOMY,8000.0
+LAB143,ANTI NUCLEAR FACTOR  (ELISA),600.0
+PED24,DIAGNOSTIC CYSTOSCOPY,9000.0
+MM12,Acute Nephritis,3600.0
+RADIN23,INTRAVESCILE CHEMO (BCG),200.0
+CTVS78,SYMPATHETECTOMY GA,27000.0
+LAB144,ANTI-HBC IGM,1020.0
+PED25,CONGENITAL HYDROCELE UNILATERAL,16000.0
+PED26,CIRCUMCISSION,14000.0
+SURO26,URINARY DIVERSION (MAINZ POUCH ) GA/SA,35000.0
+LAB145,ANTI-HBE,960.0
+PED27,PERINEAL APPROACH FOR RECTAL PROLAPSE,18000.0
+SURO27,POSTERIOR URETHRAL VALVE ABLATION IVA/SA,36000.0
+LAB146,ASO TITRE,200.0
+PED28,HERNIOTOMY FOR UNILATERAL HERNIA,18000.0
+LAB147,BENCE JONES PROTEIN (BZP),60.0
+PED29,HERNIOTOMY BILATERAL,21500.0
+LAB148,BETA 2 MICROALBUMIN (TUMOR MARKER),3150.0
+CTVS79,TEMPORAL ARTERY BIOPSY UNDER LA,5500.0
+LAB149,BETA HCG,600.0
+PED30,CONGENITAL HYDROCELE BILATERAL,21500.0
+LAB150,BILE PIGMENT,30.0
+CTVS80,INCISION AND DRAINAGE OF ABSCESS UNDER GA,16000.0
+SURO28,URINARY DIVERSION (ILEAL CONDUIT) GA,45000.0
+PED31,RECTAL BIOPSY,14500.0
+PED32,ORCHIDOPEXI FOR UNDECENDED TESTIS UNILATERAL,21000.0
+PED33,ORCHIDECTOMY/SCROTAL EXPLORATION,21500.0
+PED34,OESOPHAGEAL DILATATION,21500.0
+PED35,BURN DRESSING LESS THAN 30%,17000.0
+PED36,BILATERAL ORCHIDOPEXY,25000.0
+PED37,LAPOROSCOPIC HERNIOTOMY BOTH UNILATERAL AND BILATERAL,22000.0
+PED38,HYDROSTATIC/PNEUMATIC REDUCTION OF INTUSSUSCEPTION,21500.0
+PED39,CYSTOLITHOTOMY,22000.0
+PED40,SUPRAPUBIC CYSTOSTOMY,22000.0
+PED41,CUTANEOUS URETEROSTOMY,22000.0
+PED42,SISTRUNK'S OPERATION,22000.0
+PED43,URETHRAL CALCULUS EXTRACTION,22000.0
+RADIN24,TOMOTHERAPY ( FOR ALL INSTALLMENT ),30000.0
+RADIN25,BRACHYTHERAPY PER EPISODE,9000.0
+RADIN26,CONTRAST(CHEST/ABD AND PELVIS/CT-IVU),7000.0
+RADIN27,"PLAIN(ABD AND PELVIS/KUB/CHEST/NECK/HRCT CHEST, TEMPORAL BONE/C-SPINE/D-SPINE/L-S SPINE/SINGLE JOINT",5500.0
+PED44,LAPOROSCOPIC ORCHIDOPEXY (UNILATERAL),25000.0
+RADIN28,CT HEAD (PLAIN),3500.0
+PED45,CYSTOLITHOTRIPSY,24500.0
+RADIN29,CT HEAD PLAIN+ FACE/ORBIT/MANDIBLE/MAXILLA/C-SPINE/),6000.0
+RADIN30,CT PNS (PLAIN)/ORBIT/MANDIBLE/MAXILLA/FACE,4500.0
+PED46,INGUINAL HERNIA (COMPLICATED- STRANGULATION/OBSTRUCTED),25500.0
+RADIN31,CT HEAD CONTRAST,4500.0
+RADIN32,CT HEAD (CONTRAST) + FACE/ORBIT/MANDIBLE/MAXILLA/C-SPINE/NECK),7000.0
+LAB151,BILE SALT,30.0
+LAB152,"BLEEDING PROFILE (BT,CT,PT,APTT)",420.0
+LAB153,CALCIUM,220.0
+MM13,Acute Gastroenteritis (Medical Management),4800.0
+MM14,BPH (Benign Prostrate Hyperplasia) medical package,4800.0
+LAB154,CAPILLARY RESISTANCE TEST,50.0
+PED47,SKIN GRAFTING (STSG <30%),25500.0
+MM15,Conversion disorder (Medical Management),4800.0
+LAB155,CHLORIDE,150.0
+SURO29,RADICAL CYSTECTOMY WITH ILEAL CONDUIT GA,50000.0
+LAB156,CHOLESTEROL,150.0
+MM16,Rheumatoid Arthritis (Medical Management),4800.0
+RADIN33,CONTRAST (CHEST + ABD AND PELVIS),11000.0
+SURO30,RADICAL PROSTATECTOMY LAP GA,50000.0
+LAB157,CHROMOGRANIN,2800.0
+MM17,Thalasemmia (Medical Management including Blood transfusion),4800.0
+RADIN34,CONTRAST (NECK + CHEST + ABD AND PELVIS),13000.0
+MM18,Npehrotic Syndrome (Medical Management ),4800.0
+LAB158,CORTISOL TEST,720.0
+MM19,Malnutrition (Medical Management),6000.0
+SURO31,PYELOPLASTY LAPAROSCOPIC + DJ STENTING GA,50000.0
+RADIN35,ANGIOGRAM ( CEREBRAL/CAROTID VERTEBRAL/PULMONARY/AORTA/RENAL/LOWER LIMBS/UPPER LIMBS/CORONARY/CEREBR,11000.0
+PED48,BURN DRESSING >30%,25500.0
+LAB159,C-PEPTIDE,600.0
+SURO32,PYELOPLASTY OPEN  + DJ STENTING GA,45000.0
+LAB160,CYSTICERCOSIS (ELISA),330.0
+RADIN36,CT CEREBRAL VENOGRAM,6000.0
+LAB161,DIRECT COOMBS,120.0
+PED49,LAPAROSCOPIC ORCHIDOPEXY BILATERAL,27000.0
+SURO33,RADICAL NEPHRECTOMY LAPAROSCOPIC GA,50000.0
+LAB162,DS-D.N.A (ELISA),360.0
+RADIN37,CT GUIDED FNAC/BIOPSY,6000.0
+SURO34,SIMPLE NEPHRECTOMY OPEN GA,35000.0
+MM20,Acute Appendicitis (Medical Management),6000.0
+LAB163,FACTOR IX,960.0
+LAB164,FACTOR VIII,960.0
+MM21,Diarrhoea (Medical Management),6000.0
+RADIN38,CONVENTATIONAL ANGIOGRAM/EMBOLISATION/COILING,8000.0
+SURO35,SIMPLE NEPHRECTOMY LAP GA,50000.0
+LAB165,FOLIC ACID LEVEL,1080.0
+SURO36,PERCUTANEOUS  NEPHROLITHOTOMY (PCNL),45000.0
+MM22,"Neonatal care ( basic care package) (e.g. Transient tachyponea of newborn, Mild birth asphyxia, Jaun",6000.0
+RADIN39,RFA (RADIO FREQUENCY ABLATION),6000.0
+LAB166,FSH,600.0
+SURO37,HYDROCELECTOMY LA/SAB,15000.0
+LAB167,FT3,300.0
+MM23,Diabetic Cellulitis ( Medical Management including minor dressing),6000.0
+PED50,PYLOROMYOTOMY OPEN,24500.0
+SURO38,SIMPLE/ SUBCAPSULAR  ORCHIDECTOMY LA/SAB,20000.0
+RADIN40,PAIR TREATMENT,4000.0
+LAB168,FT4,300.0
+MM24,Anemia (Medical Management including blood transfusion),6000.0
+SURO39,ORCHIDOPEXY/ TESTICULAR IMPLANT GA/SAB,25000.0
+LAB169,GAMMA G.T.,160.0
+RADIN41,PIGTAIL DRAINAGE/PCN,4000.0
+PED51,OPEN APPENDECTOMY,25000.0
+SURO40,PARTIAL/TOTAL/ RADICAL PENECTOMY SAB,35000.0
+LAB170,GLOBULIN,115.5
+MM25,Abdominal pain,6650.0
+PED52,POSTERIOR URETHERAL VALVE ABLATION WITH DIATHERMY,25000.0
+RADIN42,PTBD,6000.0
+MM26,Chloera (Medical Management),7200.0
+SURO41,VVF REPAIR LAP GA,50000.0
+RADIN43,UGI Endoscopy,1100.0
+MM27,Dysentry (Medical Management),7200.0
+PED53,INTERVENTIONAL CYSTOSCOPY,24500.0
+SURO42,VVF REPAIR OPEN GA,40000.0
+MM28,"Wound/ Abscess requiring inpatient care (including I&D, Dressing)",7200.0
+SURO43,DJ STENT INSERTION UNILATERAL GA/IVA/SA,13000.0
+LAB171,GROWTH HORMONE,720.0
+MM29,Puerperal sepsis Management package,7200.0
+SURO44,DJ STENT INSERTION UNILATERAL LA,10000.0
+LAB172,HAV IgM,480.0
+MM30,Severe depression (Medical management),8400.0
+LAB173,HB A1C,550.0
+SURO45,DJ STENT INSERTION BILATERAL GA/IVA/SA,14000.0
+MM31,Hypovolumeic shock management package,8400.0
+LAB174,HB ELECTROPHORESIS,605.0
+LAB175,HBF,120.0
+SURO46,DJ STENT INSERTION BILATERAL LA,8500.0
+MM32,Acute Hepatitis (Medical Management),8400.0
+PED54,"EXCISION OF CYSTIC HYGROMA, HAEMANGIOMA ETC…",25500.0
+SURO47,DEBRIDEMENT/FOURNIER'S GANGRENE SAB,20000.0
+LAB176,HBsAg ELISA,220.0
+SURO48,RETROGRADE INTRARENAL SURGERY (RIRS),63000.0
+MM34,"Trauma and Injuries management (medical management including blood transfusion, dressing, oxygen etc",9600.0
+MM35,Severe pneumonia medical management adult package,9600.0
+SURO49,URETHRA- EXCISION OF  URETHRAL CARUNCLE GA,15000.0
+LAB177,HCV ELISA,220.0
+MM36,Typhoid and Paratyphoid fevers (Medical Management),9600.0
+SURO50,URETHRAL DILATION GA,15000.0
+LAB178,HEV,730.0
+MM37,Hospitalization package for medical management of Zoonotic/ Vector Borne infections ( e.g. Leptospir,9600.0
+PED55,POSTERIOR URETHERAL VALVE ABLATION WITH LASER,27000.0
+SURO51,CYSTOSCOPY GA,15000.0
+MM38,Acute Respiratory Distress Syndrome (ARDS) Medical Management without ICU/CCU care,9600.0
+CTVS81,DEBRIDEMENT OF WOUND UNER GA,17500.0
+LAB179,HIV ELISA,220.0
+SURO52,MEATOTOMY / MEATOPLASTY LA,5000.0
+MM39,Viral hemorrhagic fever Medical Management,9600.0
+CTVS82,DEBRIDEMENT OF WOUND UNDER LA,8500.0
+LAB180,HMB 45,1800.0
+MM40,Complicated Urinary Tract Infection (Medical Management),9600.0
+CTVS83,PERMANENT CATHETER REMOVAL,4000.0
+LAB181,HS CRP,176.0
+MM41,Acute Cholecystitis (Medical Management),9600.0
+LAB182,iPTH,550.0
+CTVS84,UNILATERAL VARICOSE VEIN STRIPPING & LIGATION UNDER SA,22500.0
+MM42,Dengue/ Dengue Hemorrhagic Fever (Medical Management/ Blood Transfusion),9600.0
+LAB183,"IRON PROFILE(SERUM IRON, FERRITIN,TIBC,TRANSFERRIN)",1750.0
+CTVS85,UNILATERAL VARICOSE VEIN STRIPPING & LIGATION UNDER GA,26500.0
+MM43,"Neonatal care (special care package) (admitted with mild-moderate respiratory distress, infection/se",9600.0
+LAB184,LACTATE,675.0
+MM44,Hydrocephalus medical management package,10800.0
+LAB185,LDH,341.0
+MM45,Asthma (Medical Management),10800.0
+CTVS86,BILATERAL VARICOSE VEIN STRIPPING AND LIGATION  SA,28500.0
+LAB186,LBC,840.0
+PED56,OMPHALOCELE SURGERY,29000.0
+MM46,Diabetes Mellitus (Hospitalization for blood sugar control) package,12000.0
+RADIN44,COLONSCOPY,2750.0
+CTVS87,BILATERAL VARICOSE VEIN STRIPPING AND LIGATION  GA,35500.0
+LAB187,LE Cell,430.0
+MM47,Severe pneumonia medical management pediatric package,12000.0
+MM48,Chronic Obstructive Pulmonary Disease (COPD) (Medical Management inlcuding oxygen),12000.0
+LAB188,LEISHMANIA RAPID TEST,330.0
+PED57,DIAGNOSTIC LAPAROSCOPY,26500.0
+MM49,Burn <30% Body surface area (Medical Management including dressing),12000.0
+LAB189,"LFT basic (SGPT,SGOT,ALP,Bil T &D)",200.0
+RADIN45,"PLAIN SINGLE ORGAN (BRAIN,C-SPINE,JOINTS,MRCP,PELVIS,MRA,MRV,ORBIT)",9000.0
+LAB190,LH/FSH (EACH),550.0
+PED58,URETHROCUTANEOUS FISTULA REPAIR,30500.0
+SURO54,MEATOTOMY/ MEATOPLASTY GA,15000.0
+RADIN46,"CONTRAST SINGLE ORGAN (BRAIN,C-SPINE,JOINTS,BREAST)",11000.0
+CTVS88,AKA/ THROUGH KNEE/ BKA UNDER GA,28000.0
+LAB191,LIPASE,180.0
+CTVS89,AKA/THROUGH KNEE/ BKA UNDER SA,26000.0
+RADIN47,"PLAIN SINGLE ORGAN (BRAIN,C-SPINE,JOINTS) + SCREENING( LS SPINE WITH WHOLE SPINE SCREENING, MRI C-SP",13500.0
+PED59,CLEFT LIP REPAIR,31500.0
+LAB192,LITHIUM,550.0
+SURO55,CIRCUMCISION LA,5000.0
+MM50,Pneumothorax medical management package,14400.0
+CTVS90,ARM/FOREARM/WRIST/SYME'S AMPTUTATION UNDER RA,20500.0
+RADIN48,MRI BRAIN WITH MRA/MRV/MRS,13500.0
+SURO56,CIRCUMCISION SA/IVA,11000.0
+MM51,Myocardial Infarction (Medical management where CCU care not available) (MI) : Level 1,14400.0
+CTVS91,ARM/FOREARM/WRIST/SYME'S AMPTUTATION UDER GA,25500.0
+RADIN49,CARDIAC MRI/CORONARY MRI,13500.0
+LAB193,MAGNESIUM,300.0
+SURO57,CIRCUMCISION GA,15000.0
+MM52,Pyogenic Liver abscess (Including Aspiration/ Drainage),16800.0
+LAB194,MALARIA,45.0
+CTVS92,TRANSMETATARSAL/RAY AMPTUTATION UNDER GA,27000.0
+SURO58,ANASTOMOTIC URETHROPLASTY,30000.0
+PED60,SKIN GRAFT <30%,28500.0
+MM53,Hypertensive Emergency Urgency (Medical Management),16800.0
+CTVS93,TRANSMETATARSAL/RAY AMPUTATION UNDER RA,20000.0
+SURO59,BMG URETHROPLASTY,35000.0
+MM54,Bipolar disorder (Medical Management),16800.0
+RADIN50,THROID SCAN,4500.0
+MM55,Diabetes Mellitus related complications medical management package,19200.0
+SURO60,FLAP URETHROPLASTY,35000.0
+RADIN51,RENAL SCAN,7000.0
+MM56,Paralytic syndromes/ stroke Medical management package,19200.0
+LAB195,Malaria Antigen,220.0
+SURO61,SPC ( SUPRA PUBIC CATHETER),11000.0
+MM57,Atherosclerotic Vascular Disease CCU care (AVD),21600.0
+PED61,NEPHROSTOMY (PCN),28000.0
+LAB196,MANTOUX TEST,60.0
+MM58,Epiplepsy adult (Medical Management),21600.0
+RADIN52,BONE SCAN,8000.0
+LAB197,METHEMOGLOBIN,120.0
+LAB198,MICRO ALBUMIN,500.0
+PED62,GASTROCHISIS REPAIR,29000.0
+MM59,Congestive Cardiac Failure (CCF) (CCU care included),27000.0
+LAB199,MPO MARKER (FLOWCYTOMETER),1200.0
+SURO63,TURP - 1ST STAGE,35000.0
+MM60,Burn >30% Body surface area,30000.0
+LAB200,MYOGENIN,4600.0
+SURO64,TURP - 2ND STAGE,35000.0
+MM61,Schizophrenia (Medical Management),30000.0
+LAB201,MYOGLOBIN,875.0
+SURO65,URETEROCYSTONEOSTOMY (UCN) LAPAROSCOPIC GA/SA,50000.0
+MM62,Upper Gastrointestinal bleeding (Medical management including blood transfusion/ injection octreotid,36000.0
+LAB202,NAPSIN A,4292.0
+PED63,LAPAROTOMY WITH INTRAABDOMINAL MASS/CYST,34500.0
+MM63,Severe Septicemia ( Medical management including ICU care),48000.0
+LAB203,NSE,900.0
+RADIN53,PARATHROID SCAN,7000.0
+MM64,Myocardial Infarction (package with CCU care included) : Level 2,54000.0
+LAB204,NTPROBNP,780.0
+LAB205,OCCULT BLOOD,66.0
+SURO66,URETEROTOMY OPEN GA,35000.0
+LAB206,ESTROGEN,750.0
+LAB207,OGTT ( 100 GMS/ 75 GMS),120.0
+PED64,COLOSTOMY / JEJUNOSTOMY,34500.0
+RADIN54,IODINE THERAPY( LOW DOSE),10000.0
+LAB208,PAP SMEAR / Liquid based cytology LBC,350.0
+LAB209,PERIPHEREL BLOOD SMEAR,110.0
+PED65,COLPOSTOMY,33500.0
+RADIN55,"MECKEL""S SCAN (GI BLEEDING)",6500.0
+LAB210,PHENYTOIN LEVEL,660.0
+RADIN56,DMSA/DTPA,7000.0
+SURO67,URETEROTOMY LAPAROSCOPIC GA,50000.0
+LAB211,PHOSPHOROUS,120.0
+CTVS94,EMBOLECTOMY (FEMORAL/POPLITEAL/BRACHIAL)UNDER LA,28000.0
+SURO68,UETER- URETEROSTOMY OPEN GA,35000.0
+LAB212,PROCALCITONIN,1200.0
+RADIN57,IODINE THERAPY( HIGH DOSE),15000.0
+PED66,HYPOSPADIAS (DISTAL) REPAIR,35500.0
+LAB213,PROGESTERONE,970.0
+SURO69,UETER- URETEROSTOMY LAPAROSCOPIC GA,50000.0
+CTVS95,EMBOLECTOMY (FEMORAL/POPLITEAL/BRACHIAL)UNDER GA,39500.0
+RADIN58,IODINE REMNANT ABLATION,15000.0
+LAB214,PROLACTIN TEST,605.0
+PED67,FUNDOPLICATION,38500.0
+SURO70,AUGMENTATION URETEROPLASTY OPEN GA,35000.0
+CTVS96,EMBOLECTOMY (FEMORAL/POPLITEAL/BRACHIAL)UNDER RA,38500.0
+LAB215,RA FACTOR,90.0
+SURO71,AUGMENTATION URETEROPLASTY LAPAROSCOPIC GA,50000.0
+RADIN59,IODINE 131 WHOLE BODY SCAN,10000.0
+PED68,GASTROSTOMY,35500.0
+LAB216,RA QUANTITATIVE,180.0
+CTVS97,LARGE AV MALFORMATION/HEMANGIOMA EXCISION UNDER GA,33500.0
+PT01,"CATEGORY A -General assessment, consultation and advice Review, education and demonstration for sing",200.0
+RADIN60,CARDIAC SCAN,10000.0
+LAB217,SEMEN ANALYSIS,110.0
+PED69,SPLENECTOMY,38500.0
+CTVS98,LARGE AV MALFORMATION / HEMANGIOMA EXISION UNDER RA,32000.0
+SURO72,RE-TURBT  GA/SA,32000.0
+LAB218,SERUM FERRITIN,850.0
+RADIN61,BRAIN SPECT,7500.0
+PED70,CLEFT PALATE REPAIR,35500.0
+SURO73,RADICAL CYSTECTOMY WITH NEOBLADDER,50000.0
+LAB219,SERUM INHIBIN,2000.0
+CTVS99,SMALL AV MALFORMATION/HEMANGIOMA EXCISION UNDER LA,22500.0
+SURO74,RADICAL NEPHRECTOMY OPEN,45000.0
+RADIN62,GASTRIC EMPTYING/GER,5000.0
+LAB220,SERUM INSULIN,900.0
+PT02,"CATEGORY B -Physiotherapy consultation, intervention= minor/simple cases {few technique(s), short ti",350.0
+SURO75,RADICAL NEPHRO URETERECTOMY,50000.0
+RADIN63,LYMPHOSCINTIGRAPHY,5000.0
+PED71,LAP APPENDECTOMY/ LAP CHOLECYSTECTOMY,33000.0
+LAB221,SERUM OSMOLALITY,264.0
+RADIN64,SENTINEL NODE SCNTIMAMOGRAM,3000.0
+SURO76,MINI-PCNL,45000.0
+PT03,"CATEGORY C -Physiotherapy consultation, intervention= major cases {many technique(s), major conditio",420.0
+PED72,ORTHOPLASTY,31500.0
+LAB222,SERUM TRIGLYCERIDES,120.0
+RADIN65,PET CT SCAN,25000.0
+PT04,"CATEGORY D- Physiotherapy consultation, intervention= complex/critical cases requiring superspeciali",500.0
+SURO77,PARTIAL/ TOTAL PENECTOMY,50000.0
+LAB223,SIKLING TEST,90.0
+PED73,ANTERIOR SAGITTAL ANORECTOPLASTY,40500.0
+RADIN66,SPECT-CT,15000.0
+LAB224,SMEAR FOR LEPROSY,60.0
+LAB225,SUGAR & ALBUMIN (URINE),45.0
+SURO78,INGUINAL LYMPHNODE DISSECTION (ILND),50000.0
+LAB226,T3T4 TSH,900.0
+LAB227,TACROLIMUS LEVEL,2000.0
+LAB228,TESTOSTERONE,715.0
+SURO79,PELVIC LYMPHNODE DISSECTION (PLND),50000.0
+LAB229,THYROGLOBULIN ANTIBODY,600.0
+PED74,POSTERIOR SAGITAL ANORECTOPLASTY,40500.0
+LAB230,TIBC,120.0
+LAB231,"TORCH ( TOXOPLASMA RUBELLA CYTOMEGALO, HERPES)",1200.0
+PED75,DIAPHRAGMATIC HERNIA REPAIR,40500.0
+SURO80,ADRENAL - ADRENALECTOMY OPEN,45000.0
+LAB232,TOXOPLASMA Ig G,1010.0
+SURO81,ADRENAL - ADRENALECTOMY LAP,50000.0
+LAB233,TOXOPLASMA IgM,1010.0
+PED76,EXPLORATORY LAPARATOMY IN NEONATES,39500.0
+PED77,PYELOPLASTY OPEN,39500.0
+LAB234,TOTAL PROSTRATE SPECIFIC ANTIGEN (TPSA),480.0
+LAB235,TSH,240.0
+PED78,NEPHRECTOMY,39500.0
+LAB236,TUBERCULOSIS ANTIBODY RAPID TEST,360.0
+PED79,PROXIMAL HYPOSPADIAS/ STAG 1/ STAG 2,44500.0
+PED80,GASTROJEJUNOSTOMY,39500.0
+LAB237,URIC ACID,75.0
+SURO82,VARICOCOELE,25000.0
+LAB238,URINE AMYLASE,245.0
+SURO83,TRANSRECTAL  ULTRASOUND SCAN (TRUS) GUIDED PROSTRATE BIOPSY,15000.0
+LAB239,URINE SPOT PCR,240.0
+LAB240,VIRAL MARKERS (ECLIA BY VITROS),1350.0
+LAB241,VITAMIN B12,1090.0
+SURO84,CAPD CATHETER INSERTION,10000.0
+LAB242,VITAMIN D,1650.0
+CTVS100,SCLEROTHERAPY UNDER GA,18000.0
+LAB243,"LIPID PROFILE ( TG,CHOLESTEROL, VLDL,LDL,HDL)",700.0
+LAB244,SERUM TRANSFERRIN,550.0
+PED81,TRANS-ANAL PULL THROUGH SURGERY FOR  HIRSCHSPRUNG DISEASE,47500.0
+CTVS101,CERVICAL RIB EXCISION ONLY UNDER GA,46500.0
+CTVS102,DELAYED CLOSURE/DEBRIDEMENT/STUMP REVISION UNDER GA,34500.0
+PED82,URETERIC REIMPLANTATION UNILATERAL,45500.0
+CTVS103,DELAYED CLOSURE/DEBRIDEMENT/STUMP REVISION UNDER RA,32500.0
+PED83,LAPARATOMY AND EXCISION OF LARGE TUMORS,45500.0
+CTVS104,DELAYED CLOSURE/DEBRIDEMENT/STUMP REVISION UNDER LA,20500.0
+CTVS105,EXTERNAL CAROTID ARTERY LIGATION UNDER GA,29500.0
+PED84,HELLER'S CARDIOMYOTOMY,45500.0
+CTVS106,INTERMEDIATE (BRACHIAL/DISTAL) REPAIR UNDER RA,30000.0
+CTVS107,INTERMEDIATE (BRACHIAL/DISTAL)REPAIR UNDER GA,34500.0
+CTVS108,AVF CONSTRUCTION UNDER LA,17000.0
+CTVS109,AVF CONSTRUCTION UNDER BLOCK,22000.0
+CTVS110,AVF CONSTRUCTION UNDER GA,27500.0
+CTVS111,AVF CONSTRUCTION AND EXTERIORIZATION UNDER RA,27500.0
+CTVS112,AVF TAKENDOWN UNDER GA,24500.0
+PED85,SURGERY FOR HYDIATID CYST /LIVER ABSCESS,45500.0
+PED86,RESECTION ANASTOMOSIS INCLUDING HEMICOLECTOMY,47500.0
+PED87,NEPHROLITHOTOMY/ PYELOLITHOTOMY,45500.0
+PED88,BLADDER EXSTROPHY STAGED REPAIR,47500.0
+PED89,LAP PYELOPLASTY,46500.0
+PED90,HEMINEPHRECTOMY,47500.0
+PED91,URETERO-URETEROSTOMY,47500.0
+PED92,"CANCER SURGERIES (WILM'S TUMOR, NEUROBLASTOMA, TERATOMA, ADRENELECTOMY)",52500.0
+PED93,CONTRACTURE RELEASE,20000.0
+CTVS113,AVF TAKENDOWN UNDER RA,23000.0
+PED94,SURGERY FOR TRACHEO-ESOPHAGEAL FISTULA,50500.0
+CTVS114,SCLEROTHERAPY UNDER LA,13000.0
+PED95,MALONE PROCEDURE,52500.0
+CTVS115,BRONCHIAL ARTRY EMBOLIZATION,46500.0
+CTVS116,LYMPH NODE BIOPSY LA,18500.0
+PED96,URETERIC REIMPLANTATION BILATERAL,52500.0
+CTVS117,LYMPH NODE BIOPSY GA (TIVA/LMA),23000.0
+PED97,MITROFANOFF'S PROCEDURE,56500.0
+CTVS118,SKIN SPLIT GRAFT (SSG) (TIVA/LMA),31000.0
+CTVS119,EXPLORATION OF FOREIGN BODY UNDER GA,28500.0
+PED98,HEPATICO-JEJUNESTOMY (SURGERY FOR CHOLEDOCHAL CYST),56500.0
+CTVS120,VASCULAR MALFORMATION,40000.0
+CTVS121,PERMANENT CATHETER INSERTION,36500.0
+PED99,ABDOMINO PERINEAL PULL THROUGH,52500.0
+CTVS122,SUBCLAVIAN ANEURYSM EXISION AND GRAFTING UNDER GA,94500.0
+PED113,SURGERY FOR CLOACAL EXSTROPHY,59500.0
+CTVS124,ENDOVASCULAR LASER ABLATION (EVLA)- LA,76500.0
+PED114,PORTOSYSTEMIC SHUNT,59500.0
+CTVS125,ENDOVASCULAR LASER AVIATION ( EVLA ) SPINAL/ GA,77500.0
+PED115,PANCREATECTOMY / PANCREATOJEJUNOSTOMY,59500.0
+PED100,SURGERY FOR DUODENAL ATRESIA,45500.0
+CTVS126,BILATERAL ENDOVASCULAR LASER ABLATION(EVLA) SPINAL/GA,93500.0
+PED116,UMBILICAL HERNIA,18000.0
+CTVS127,BILATERAL ENDOVASCULAR LASER ABLATION(EVLA)LA,88500.0
+PED101,LIVER RESECTIONS,59500.0
+PED117,PREAURICULAR SINUS UNILATERAL,21000.0
+CTVS128,PERIPHERAL STENTING (STEN EXTRA),97500.0
+PED102,BLADDER NECK REPAIR,59500.0
+PED118,PREAURICULAR SINUS BILATERAL,24000.0
+CTVS129,PERIPHERAL BALOON ANGIOPLASTY (BALOON EXTRA),88500.0
+PED119,PYLOROMYTOMY LAPAROSCOPIC,29000.0
+CTVS130,HIP DISARTICULATION UDER GA,75000.0
+PED103,EPISPADIAS REPAIR,59500.0
+PED120,LAPARASCOPIC SPLEENECTOMY,44500.0
+PED121,LAPARASCOPIC FUNDOPLICATION,44500.0
+PED104,DEVASCULARIZATION FOR PORTAL HYPERTENSION,59500.0
+CTVS133,TIBIAL BYPASS UNDER GA,85000.0
+PED122,COLOSTOMY/ILEOSTOMY CLOSURE,37500.0
+CTVS135,PERIPHERAL PSEUDOANEURYSM/ANEURYSM REPAIR (EXPECT CAROTID AND ILIAC)UNDER GA,85000.0
+PED123,LAPAROSCOPIC ASSISTED PULL-THROUGH,52500.0
+PED105,TOTAL PROCTOCOLECTOMY + - IPAA (ILEAL POUCH ANAL ANASTOMOSIS),59500.0
+CTVS136,AXILLO-FEMORAL BYPASS UNDER GA,97000.0
+PED124,SURGERY FOR ILEAL ATRESIA / JEJUNAL ATRESIA,45500.0
+PED106,BLADDER AUGMENTATION,59500.0
+PED125,EXPLORATORY LAPAROTOMY,34500.0
+PED107,GASTRIC PULL UP,59500.0
+PED108,ESOPHAGEAL REPLACEMENT,59500.0
+PED109,VAGINAL REPLACEMENT,59500.0
+PED110,PSARVUP- POSTERIOR SAGITTAL ANORECTOVAGINOURETHROPLASTY,59500.0
+PED111,KASAI'S PROCEDURE (PORTOENTEROSTOMY),59500.0
+PED112,COMPLETE PRIMARY BLADDER EXSTROPHY REPAIR,59500.0
+CTVS14,FEEDING JEJUNOSTOMY UNDER GA,37500.0
+CARD30,PERICARDIECTOMY,70500.0
+SURO53,MEATOTOMY / MEATOPLASTY SA/IVA,11000.0
+LAB305,CYTOLOGY,120.0
+LAB306,DIFFERENTIAL COUNT (DC),40.0
+LAB307,DIGOXIN(level),825.0
+ASD21,MAGNIFYING GLASSES,1000.0
+ASD22,LOW VISION TELESCOPE,2000.0
+ASD23,SPECTACLES FRAME,500.0
+ASD24,SPECTACLES LENS SINGLE,250.0
+ASD25,SPECTACLES LENS PAIR,500.0
+MM33,Avastin Injection (3 doses per year),6000.0
+LAB245,ANTI CCP ANTIBODY,1155.0
+LAB246,ANTI TPO ANTIBODY,720.0
+LAB247,CA 125,480.0
+LAB248,CA 15-3,600.0
+LAB249,CA 19-9,600.0
+LAB250,CD 117,4011.6
+LAB251,CD 15,1500.0
+LAB252,CD 30,3685.0
+LAB253,CD 99,1500.0
+LAB254,CD10 MARKER (FLOWCYTOMETER),1200.0
+LAB255,CD117 MARKER (FLOWCYTOMETER),1200.0
+LAB256,CD11B MARKER (FLOWCYTOMETER),1200.0
+LAB257,CD13 MARKER (FLOWCYTOMETER),1200.0
+LAB258,CD14 MARKER (FLOWCYTOMETER),1200.0
+LAB259,CD15 MARKER (FLOWCYTOMETER),1200.0
+LAB260,CD19 MARKER (FLOWCYTOMETER),1200.0
+LAB261,CD1A,4320.0
+LAB262,CD2 MARKER (FLOWCYTOMETER),1200.0
+LAB263,CD20,2258.0
+LAB264,CD22 MARKER (FLOWCYTOMETER),1200.0
+LAB265,CD23,3680.0
+LAB266,CD3 MARKER (FLOWCYTOMETER),1200.0
+LAB267,CD30,3071.0
+LAB268,CD33 MARKER (FLOWCYTOMETER),1200.0
+LAB269,CD34 MARKER (FLOWCYTOMETER),1200.0
+LAB270,CD4 MARKER (FLOWCYTOMETER),1200.0
+LAB271,CD45 MARKER (FLOWCYTOMETER),1200.0
+LAB272,CD5 MARKER (FLOWCYTOMETER),1200.0
+LAB273,CD56 MARKER (FLOWCYTOMETER),1200.0
+LAB274,CD64 MARKER (FLOWCYTOMETER),1200.0
+LAB275,CD7 MARKER (FLOWCYTOMETER),1200.0
+LAB276,CD79A MARKER (FLOWCYTOMETER),1200.0
+LAB277,CDX2,3478.0
+LAB278,CEA,750.0
+LAB279,CHROMOSOMAL ANAYLSIS/KARYOTYPING,4500.0
+LAB280,CK5/6,2258.0
+LAB281,CYCLIND1,5600.0
+LAB282,CYTOKERATIN CK 20,3523.0
+LAB283,CYTOKERATIN CK 7,3685.0
+LAB284,DESMIN,2040.0
+LAB285,ER ESTROGEN RECEPTOR,2160.0
+LAB286,HER2,3000.0
+LAB287,P16,2665.0
+LAB288,P40,3343.0
+LAB289,P53,4800.0
+LAB290,P63,2665.0
+LAB291,PANCYTOKERATIN,2040.0
+LAB292,Pax5,2936.0
+LAB293,PAX8,3070.0
+LAB294,PR PROGESTERONE RECEPTOR,4320.0
+LAB295,ROS1,11050.0
+LAB296,SYNAPTOPHYSIN,2258.0
+LAB297,TTF1,2200.0
+LAB298,Wt1,3885.0
+LAB299,EBER-ISH,9600.0
+LAB300,HLA-DR MARKER (FLOWCYTOMETER),1440.0
+LAB301,Ki-67,2000.0
+LAB302,S-100,4330.0
+LAB303,VIMENTIM,1800.0
+LAB304,HPV SCREENING,1800.0
